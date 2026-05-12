@@ -128,8 +128,32 @@ _TEMPLATE = """\
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Job Tracker</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    @keyframes shake {
+      0%, 100% { transform: translateX(0); }
+      20%,  60% { transform: translateX(-8px); }
+      40%,  80% { transform: translateX(8px); }
+    }
+    .shake { animation: shake 0.4s ease-in-out; }
+  </style>
 </head>
 <body class="bg-gray-100 font-sans min-h-screen">
+
+<!-- Password overlay -->
+<div id="auth-overlay" class="fixed inset-0 bg-gray-100 flex items-center justify-center z-50">
+  <div class="bg-white rounded-2xl shadow-sm p-8 w-full max-w-sm flex flex-col gap-4">
+    <h2 class="text-xl font-bold text-gray-900 text-center">Job Tracker</h2>
+    <p class="text-sm text-gray-400 text-center">Enter password to continue</p>
+    <input id="pw-input" type="password"
+           class="border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-400"
+           placeholder="Password" autofocus>
+    <p id="pw-error" class="hidden text-xs text-rose-500 text-center">Incorrect password — try again.</p>
+    <button onclick="checkPassword()"
+            class="bg-indigo-600 hover:bg-indigo-700 text-white text-sm font-medium rounded-lg px-4 py-2 transition-colors">
+      Unlock
+    </button>
+  </div>
+</div>
 
 <div class="max-w-7xl mx-auto px-4 py-8">
 
@@ -239,6 +263,32 @@ _TEMPLATE = """\
 </div>
 
 <script>
+const PASSWORD = "showmethemoney";
+
+(function checkAuth() {
+  if (sessionStorage.getItem("auth") === "1") {
+    document.getElementById("auth-overlay").style.display = "none";
+    return;
+  }
+  document.getElementById("pw-input").addEventListener("keydown", e => {
+    if (e.key === "Enter") checkPassword();
+  });
+})();
+
+function checkPassword() {
+  const input = document.getElementById("pw-input");
+  if (input.value === PASSWORD) {
+    sessionStorage.setItem("auth", "1");
+    document.getElementById("auth-overlay").style.display = "none";
+  } else {
+    input.value = "";
+    document.getElementById("pw-error").classList.remove("hidden");
+    input.classList.remove("shake");
+    void input.offsetWidth;
+    input.classList.add("shake");
+  }
+}
+
 const JOBS   = __JOBS_JSON__;
 const MANUAL = __MANUAL_JSON__;
 
