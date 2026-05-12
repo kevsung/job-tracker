@@ -2,7 +2,7 @@ name: Scrape Daily (Strong + Moderate)
 
 on:
   schedule:
-    - cron: '0 12 * * *'   # 12:00 UTC = 8 AM EDT daily
+    - cron: '0 7 * * *'    # 07:00 UTC = 3 AM EDT daily
   workflow_dispatch:
 
 jobs:
