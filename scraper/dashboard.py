@@ -2,6 +2,124 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
+# ---------------------------------------------------------------------------
+# Companies that can't be scraped automatically.
+# Add new entries here — the dashboard renders this list directly.
+# ---------------------------------------------------------------------------
+MANUAL_COMPANIES = [
+    {
+        "name": "GitHub (Microsoft)",
+        "tier": "Strong",
+        "url": "https://www.github.careers/careers-home/jobs",
+        "reason": "iCIMS — JS-rendered, no public API",
+    },
+    {
+        "name": "Cape",
+        "tier": "Strong",
+        "url": "https://boards.greenhouse.io/cape",
+        "reason": "Greenhouse board inactive",
+    },
+    {
+        "name": "Lonely Planet",
+        "tier": "Moderate",
+        "url": "https://www.redventures.com/careers/brands/lonely-planet",
+        "reason": "Greenhouse board inactive — now on Red Ventures site",
+    },
+    {
+        "name": "Indeed",
+        "tier": "Moderate",
+        "url": "https://indeed.com/cmp/indeed/jobs",
+        "reason": "Custom ATS — removed per user preference",
+    },
+    {
+        "name": "Apex Systems",
+        "tier": "Moderate",
+        "url": "https://www.apexsystems.com/careers",
+        "reason": "Custom ATS — no structured job links in HTML",
+    },
+    {
+        "name": "SweetRush",
+        "tier": "Moderate",
+        "url": "https://www.sweetrush.com/careers",
+        "reason": "Custom ATS — no structured job links in HTML",
+    },
+    {
+        "name": "American Journalism Project",
+        "tier": "Moderate",
+        "url": "https://theajp.org/about/careers/",
+        "reason": "Greenhouse board inactive",
+    },
+    {
+        "name": "Fetch",
+        "tier": "Moderate",
+        "url": "https://jobs.gem.com/fetch",
+        "reason": "Gem CRM — no public API",
+    },
+    {
+        "name": "Akamai",
+        "tier": "Moderate",
+        "url": "https://jobs.akamai.com/en/sites/CX_1",
+        "reason": "iCIMS — JS-rendered, no public API",
+    },
+    {
+        "name": "Pearson",
+        "tier": "Moderate",
+        "url": "https://pearson.jobs/jobs/",
+        "reason": "No structured job links in rendered HTML",
+    },
+    {
+        "name": "Shutterfly",
+        "tier": "Weak",
+        "url": "https://shutterflycareers.ttcportals.com/search/jobs?q=&location=",
+        "reason": "TTC portal blocks automated scraping",
+    },
+    {
+        "name": "Black & Black Creative",
+        "tier": "Weak — Caveat Driven",
+        "url": "https://blackandblackcreative.com/careers",
+        "reason": "Careers URL dead",
+    },
+    {
+        "name": "Hovercraft Studio",
+        "tier": "Weak — Caveat Driven",
+        "url": "https://hovercraftstudio.com/careers",
+        "reason": "Careers URL dead",
+    },
+    {
+        "name": "Tellos Creative",
+        "tier": "Weak — Caveat Driven",
+        "url": "https://telloscreative.com/careers",
+        "reason": "Careers URL dead",
+    },
+    {
+        "name": "Space Dinosaurs",
+        "tier": "Weak — Caveat Driven",
+        "url": "https://spacedinosaursstudio.com",
+        "reason": "Domain does not resolve",
+    },
+    {
+        "name": "Pixalate",
+        "tier": "Weak — Caveat Driven",
+        "url": "https://pixalate.applytojob.com/apply",
+        "reason": "ApplyToJob ATS — no API",
+    },
+    {
+        "name": "That's No Moon",
+        "tier": "Weak — Caveat Driven",
+        "url": "https://job-boards.greenhouse.io/thatsnomoonentertainment",
+        "reason": "Greenhouse board exists but niche studio — check manually",
+    },
+    {
+        "name": "Baylor Genetics",
+        "tier": "Weak — Caveat Driven",
+        "url": "https://recruiting2.ultipro.com/BAY1006BML/JobBoard/0669eed3-5441-4f8e-a7b1-c5df596a4dfe/?q=&o=postedDateDesc",
+        "reason": "UltiPro ATS — no standard API",
+    },
+]
+
+# ---------------------------------------------------------------------------
+# HTML template
+# ---------------------------------------------------------------------------
 _TEMPLATE = """\
 <!DOCTYPE html>
 <html lang="en">
@@ -74,7 +192,7 @@ _TEMPLATE = """\
 
   </div>
 
-  <!-- Table -->
+  <!-- Jobs table -->
   <div class="bg-white rounded-2xl shadow-sm overflow-x-auto">
     <table class="w-full text-sm">
       <thead class="border-b bg-gray-50 text-gray-500">
@@ -96,10 +214,33 @@ _TEMPLATE = """\
     <p id="empty-msg" class="hidden text-center text-gray-400 py-12">No matching jobs.</p>
   </div>
 
+  <!-- Manual Check Section -->
+  <div class="mt-10">
+    <hr class="border-gray-200 mb-8">
+    <details class="group">
+      <summary class="flex items-center gap-3 cursor-pointer select-none [list-style:none] [&::-webkit-details-marker]:hidden">
+        <svg class="w-4 h-4 text-gray-400 transition-transform duration-150 group-open:rotate-90"
+             fill="currentColor" viewBox="0 0 20 20">
+          <path fill-rule="evenodd"
+                d="M7.293 4.293a1 1 0 011.414 0l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414-1.414L11.586 10 7.293 5.707a1 1 0 010-1.414z"
+                clip-rule="evenodd"/>
+        </svg>
+        <h2 class="text-lg font-semibold text-gray-700">Check Manually</h2>
+        <span id="manual-count" class="text-sm text-gray-400 font-normal"></span>
+      </summary>
+      <p class="mt-3 mb-5 text-sm text-gray-400 ml-7">
+        These companies couldn't be scraped automatically — check their careers pages directly.
+      </p>
+      <div id="manual-grid"
+           class="ml-7 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+    </details>
+  </div>
+
 </div>
 
 <script>
-const JOBS = __JOBS_JSON__;
+const JOBS   = __JOBS_JSON__;
+const MANUAL = __MANUAL_JSON__;
 
 const TIER_BADGE = {
   "Strong":            "bg-emerald-100 text-emerald-800",
@@ -172,6 +313,18 @@ document.getElementById("co-search").addEventListener("input", e=>{
 });
 
 render();
+
+// Manual check section
+document.getElementById("manual-count").textContent = "("+MANUAL.length+")";
+document.getElementById("manual-grid").innerHTML = MANUAL.map(m=>`
+  <div class="bg-white rounded-2xl shadow-sm p-4 flex flex-col gap-2 hover:shadow-md transition-shadow">
+    <div class="flex items-start justify-between gap-2">
+      <a href="${esc(m.url)}" target="_blank" rel="noopener noreferrer"
+         class="font-semibold text-gray-900 hover:text-indigo-600 hover:underline leading-snug">${esc(m.name)}</a>
+      <span class="shrink-0 px-2.5 py-0.5 rounded-full text-xs font-semibold ${TIER_BADGE[m.tier]||'bg-gray-100 text-gray-700'}">${esc(m.tier)}</span>
+    </div>
+    <p class="text-xs text-gray-400">${esc(m.reason)}</p>
+  </div>`).join("");
 </script>
 </body>
 </html>"""
@@ -180,5 +333,6 @@ render();
 def render_dashboard(jobs: list[dict], output_path: Path) -> None:
     last_updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     html = _TEMPLATE.replace("__JOBS_JSON__", json.dumps(jobs, ensure_ascii=False))
+    html = html.replace("__MANUAL_JSON__", json.dumps(MANUAL_COMPANIES, ensure_ascii=False))
     html = html.replace("__LAST_UPDATED__", last_updated)
     output_path.write_text(html, encoding="utf-8")

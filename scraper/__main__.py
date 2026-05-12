@@ -12,6 +12,7 @@ from scraper.companies import COMPANIES
 from scraper.dashboard import render_dashboard
 from scraper.filters import location_matches, title_matches
 from scraper.scrapers.ashby import scrape_ashby
+from scraper.scrapers.bamboohr import scrape_bamboohr
 from scraper.scrapers.generic import scrape_generic
 from scraper.scrapers.greenhouse import scrape_greenhouse
 from scraper.scrapers.lever import scrape_lever
@@ -50,6 +51,8 @@ def scrape_one(company: dict) -> list[dict]:
             )
         elif ats == "ashby":
             raw = scrape_ashby(company["slug"])
+        elif ats == "bamboohr":
+            raw = scrape_bamboohr(company["slug"])
         elif ats == "generic":
             raw = scrape_generic(company["url"])
         else:

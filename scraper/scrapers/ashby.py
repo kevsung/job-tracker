@@ -7,9 +7,12 @@ _BASE = "https://api.ashbyhq.com/posting-api/job-board/{slug}"
 def scrape_ashby(slug: str) -> list[dict]:
     resp = requests.get(_BASE.format(slug=slug), headers=_HEADERS, timeout=30)
     resp.raise_for_status()
+    data = resp.json()
+    # API v1 uses "jobs"; older boards used "jobPostings"
+    raw = data.get("jobs") or data.get("jobPostings") or []
     jobs = []
-    for job in resp.json().get("jobPostings", []):
-        location = job.get("locationName", "") or job.get("location", "") or ""
+    for job in raw:
+        location = job.get("location", "") or job.get("locationName", "") or ""
         if job.get("isRemote") and "remote" not in location.lower():
             location = f"Remote - {location}" if location else "Remote"
         jobs.append(

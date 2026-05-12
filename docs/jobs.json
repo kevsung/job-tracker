@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "id": "greenhouse_databricks_8490649002",
+    "title": "Sr. Technical Program Manager, Professional Services - Public Sector",
+    "location": "Remote - Washington D.C.",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8490649002",
+    "company": "Databricks",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_samsara_7742662",
+    "title": "Senior Program Manager, Sales Programs – AI",
+    "location": "Remote - US",
+    "url": "https://www.samsara.com/company/careers/roles/7742662?gh_jid=7742662",
+    "company": "Samsara",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_samsara_7615410",
+    "title": "Senior Program Manager - Sales Programs (Transformational)",
+    "location": "Remote - US",
+    "url": "https://www.samsara.com/company/careers/roles/7615410?gh_jid=7615410",
+    "company": "Samsara",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_samsara_7729297",
+    "title": "Sr Product Operations Manager",
+    "location": "Remote - US",
+    "url": "https://www.samsara.com/company/careers/roles/7729297?gh_jid=7729297",
+    "company": "Samsara",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_samsara_7738328",
+    "title": "Sr. Program Manager - Customer Success Programs",
+    "location": "Remote - US",
+    "url": "https://www.samsara.com/company/careers/roles/7738328?gh_jid=7738328",
+    "company": "Samsara",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_samsara_7298858",
+    "title": "Technical Program Manager",
+    "location": "Remote - US",
+    "url": "https://www.samsara.com/company/careers/roles/7298858?gh_jid=7298858",
+    "company": "Samsara",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_stripe_7778643",
+    "title": "Technical Program Manager,  Extensibility Programs",
+    "location": "Remote in the US, Chicago, Atlanta",
+    "url": "https://stripe.com/jobs/search?gh_jid=7778643",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_stripe_7417090",
+    "title": "Technical Program Manager,  Identity and Access Management Programs",
+    "location": "Remote in the US, Chicago, Atlanta",
+    "url": "https://stripe.com/jobs/search?gh_jid=7417090",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_stripe_7680365",
+    "title": "Technical Program Manager, Internal Systems",
+    "location": "US Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7680365",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_stripe_6932491",
+    "title": "Technical Program Manager, Payments Experiences",
+    "location": "Chicago, Remote in the US",
+    "url": "https://stripe.com/jobs/search?gh_jid=6932491",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_stripe_7685855",
+    "title": "Technical Program Manager, Risk",
+    "location": "US Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7685855",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "ashby_benepass_7f963a7a-aaad-456b-b12b-7f34b35d51cf",
+    "title": "Product Operations Manager",
+    "location": "U.S Remote",
+    "url": "https://jobs.ashbyhq.com/benepass/7f963a7a-aaad-456b-b12b-7f34b35d51cf",
+    "company": "Benepass",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_pinterest_7295394",
+    "title": "Sr. Staff Technical Program Manager, GenAI",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7295394",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_pinterest_7770927",
+    "title": "Sr. Technical Program Manager, Ads Performance",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770927",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_pinterest_7794123",
+    "title": "Staff Technical Program Manager, Ads Measurement",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7794123",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_pinterest_7770921",
+    "title": "Staff Technical Program Manager, Infrastructure FinOps",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770921",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_pinterest_7766478",
+    "title": "Staff Technical Program Manager, ML/AI Platform",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7766478",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_pinterest_7494686",
+    "title": "Staff Technical Program Manager, Monetization Data Science",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494686",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_pinterest_7774042",
+    "title": "Technical Program Manager II, Advanced Technology Group",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7774042",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_pinterest_7562128",
+    "title": "Technical Program Manager II, Platforms",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7562128",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_instacart_7826880",
+    "title": "Bilingual Staff Technical Program Manager, Global Enterprise Fulfillment Platform",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=7826880",
+    "company": "Instacart",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_instacart_7899355",
+    "title": "Senior Technical Program Manager, Ads",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=7899355",
+    "company": "Instacart",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "ashby_acorns_8cc539a8-8b2e-41f2-9ca5-599aedbae14c",
+    "title": "Technical Program Manager",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/acorns/8cc539a8-8b2e-41f2-9ca5-599aedbae14c",
+    "company": "Acorns",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_webflow_7848082",
+    "title": "Senior Technical Program Manager, Productivity",
+    "location": "Argentina Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/7848082",
+    "company": "Webflow",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "greenhouse_pacvue_5972864004",
+    "title": "Principal Product Operations Manager",
+    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/pacvue/jobs/5972864004",
+    "company": "Pacvue",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-05-12"
+  }
+]
