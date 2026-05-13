@@ -158,9 +158,9 @@ _TEMPLATE = """\
 <div class="max-w-7xl mx-auto px-4 py-8">
 
   <!-- Header -->
-  <div class="flex items-center justify-between mb-6">
+  <div class="mb-6">
     <h1 class="text-2xl font-bold text-gray-900">Job Tracker</h1>
-    <span class="text-sm text-gray-400">Last updated: __LAST_UPDATED__</span>
+    <p class="text-sm text-gray-400 mt-1">Scripts last run: __LAST_UPDATED__</p>
   </div>
 
   <!-- Filter bar -->
@@ -291,6 +291,7 @@ function checkPassword() {
 
 const JOBS   = __JOBS_JSON__;
 const MANUAL = __MANUAL_JSON__;
+const LAST_UPDATED_DATE = "__LAST_UPDATED_DATE__";
 
 const TIER_BADGE = {
   "Strong":            "bg-emerald-100 text-emerald-800",
@@ -305,6 +306,7 @@ let worktype = "all";
 let coSearch = "";
 
 function esc(s){ return String(s??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function isNew(j){ return j.first_seen === LAST_UPDATED_DATE; }
 
 function filtered(){
   return JOBS.filter(j=>{
@@ -326,9 +328,16 @@ function render(){
   const tbody = document.getElementById("tbody");
   if(!jobs.length){ empty.classList.remove("hidden"); tbody.innerHTML=""; return; }
   empty.classList.add("hidden");
-  tbody.innerHTML = jobs.map((j,i)=>`
-    <tr class="${i%2===0?"bg-white":"bg-gray-50"} hover:bg-indigo-50 transition-colors">
-      <td class="px-5 py-3 font-medium text-gray-900">${esc(j.company)}</td>
+  tbody.innerHTML = jobs.map((j,i)=>{
+    const rowCls = isNew(j)
+      ? "bg-amber-50 hover:bg-amber-100"
+      : (i%2===0?"bg-white":"bg-gray-50")+" hover:bg-indigo-50";
+    const newBadge = isNew(j)
+      ? '<span class="ml-2 inline-flex items-center px-1.5 py-0.5 rounded text-xs font-bold bg-amber-200 text-amber-800">New</span>'
+      : '';
+    return `
+    <tr class="${rowCls} transition-colors">
+      <td class="px-5 py-3 font-medium text-gray-900">${esc(j.company)}${newBadge}</td>
       <td class="px-5 py-3">
         <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold ${TIER_BADGE[j.tier]||'bg-gray-100 text-gray-700'}">${esc(j.tier)}</span>
       </td>
@@ -340,7 +349,8 @@ function render(){
         <a href="${esc(j.url)}" target="_blank" rel="noopener noreferrer"
            class="text-indigo-600 hover:text-indigo-800 hover:underline font-medium">Apply &#8599;</a>
       </td>
-    </tr>`).join("");
+    </tr>`;
+  }).join("");
 }
 
 function sort(key){
@@ -381,8 +391,11 @@ document.getElementById("manual-grid").innerHTML = MANUAL.map(m=>`
 
 
 def render_dashboard(jobs: list[dict], output_path: Path) -> None:
-    last_updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    now = datetime.now(timezone.utc)
+    last_updated = now.strftime("%Y-%m-%d %H:%M UTC")
+    last_updated_date = now.strftime("%Y-%m-%d")
     html = _TEMPLATE.replace("__JOBS_JSON__", json.dumps(jobs, ensure_ascii=False))
     html = html.replace("__MANUAL_JSON__", json.dumps(MANUAL_COMPANIES, ensure_ascii=False))
     html = html.replace("__LAST_UPDATED__", last_updated)
+    html = html.replace("__LAST_UPDATED_DATE__", last_updated_date)
     output_path.write_text(html, encoding="utf-8")

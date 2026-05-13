@@ -92,6 +92,14 @@ def run(tiers: list[str] | None = None) -> None:
                 new_data[job["id"]] = job
             time.sleep(0.5)
 
+    scraped_existing_ids = {jid for jid, j in existing.items() if j.get("tier") in tiers_to_scrape}
+    dropped = scraped_existing_ids - set(new_data.keys())
+    if dropped:
+        log.info("Dropped %d stale listing(s) no longer found in current scrape:", len(dropped))
+        for jid in sorted(dropped):
+            old = existing[jid]
+            log.info("  - %s: %s", old.get("company", "?"), old.get("title", "?"))
+
     jobs_list = sorted(new_data.values(), key=lambda j: j["first_seen"], reverse=True)
     JOBS_FILE.write_text(json.dumps(jobs_list, indent=2, ensure_ascii=False), encoding="utf-8")
     log.info("Saved %d jobs → %s", len(jobs_list), JOBS_FILE)
