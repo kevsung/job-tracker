@@ -16,7 +16,7 @@ MANUAL_COMPANIES = [
     {
         "name": "Cape",
         "tier": "Strong",
-        "url": "https://boards.greenhouse.io/cape",
+        "url": "https://www.cape.co/careers",
         "reason": "Greenhouse board inactive",
     },
     {
