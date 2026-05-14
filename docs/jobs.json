@@ -1,5 +1,25 @@
 [
   {
+    "id": "ashby_notion_8b82e596-e828-45db-94d5-b76acc89e749",
+    "title": "Product Operations Manager",
+    "location": "Remote - San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/8b82e596-e828-45db-94d5-b76acc89e749",
+    "company": "Notion",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-05-14"
+  },
+  {
+    "id": "greenhouse_wing_8532469002",
+    "title": "Systems Deployment Technical Program Manager",
+    "location": "Remote, USA",
+    "url": "https://wing.com/careers/8532469002?gh_jid=8532469002",
+    "company": "Wing",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-05-14"
+  },
+  {
     "id": "greenhouse_samsara_7742662",
     "title": "Senior Program Manager, Sales Programs – AI",
     "location": "Remote - US",
