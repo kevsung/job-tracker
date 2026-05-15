@@ -20,6 +20,7 @@ COMPANIES: dict[str, list[dict]] = {
         {"name": "1Password",   "ats": "ashby",            "slug": "1password"},
         {"name": "Gusto",       "ats": "greenhouse",       "slug": "gusto"},
         {"name": "Canva",       "ats": "smartrecruiters",  "company_id": "canva"},
+        {"name": "HubSpot",     "ats": "greenhouse",       "slug": "hubspotjobs"},
         {"name": "Rippling",    "ats": "rippling",         "board_id": "rippling"},
         {
             "name": "Genesys",
