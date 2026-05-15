@@ -178,6 +178,10 @@ _TEMPLATE = """\
             class="w-4 h-4 accent-sky-600"> <span class="text-sm">Moderate</span>
         </label>
         <label class="inline-flex items-center gap-1.5 cursor-pointer select-none">
+          <input type="checkbox" data-tier="Fair" checked
+            class="w-4 h-4 accent-orange-500"> <span class="text-sm">Fair</span>
+        </label>
+        <label class="inline-flex items-center gap-1.5 cursor-pointer select-none">
           <input type="checkbox" data-tier="Weak" checked
             class="w-4 h-4 accent-amber-500"> <span class="text-sm">Weak</span>
         </label>
@@ -296,12 +300,13 @@ const LAST_UPDATED_DATE = "__LAST_UPDATED_DATE__";
 const TIER_BADGE = {
   "Strong":            "bg-emerald-100 text-emerald-800",
   "Moderate":          "bg-sky-100 text-sky-800",
+  "Fair":              "bg-orange-100 text-orange-800",
   "Weak":              "bg-amber-100 text-amber-800",
   "Weak with Caveats": "bg-rose-100 text-rose-800",
 };
 
 let sortKey = "first_seen", sortDir = -1;
-let activeTiers = new Set(["Strong","Moderate","Weak","Weak with Caveats"]);
+let activeTiers = new Set(["Strong","Moderate","Fair","Weak","Weak with Caveats"]);
 let worktype = "all";
 let coSearch = "";
 

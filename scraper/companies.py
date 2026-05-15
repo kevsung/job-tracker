@@ -57,8 +57,6 @@ COMPANIES: dict[str, list[dict]] = {
         {"name": "Aha!",        "ats": "greenhouse", "slug": "aha"},
         {"name": "Pacvue",      "ats": "greenhouse", "slug": "pacvue"},
         {"name": "Halcyon",     "ats": "greenhouse", "slug": "halcyon"},
-        {"name": "Kitman Labs", "ats": "lever",      "slug": "kitmanlabs"},
-        {"name": "Viral Nation","ats": "greenhouse", "slug": "viralnation"},
         {"name": "Payscale",    "ats": "ashby",      "slug": "payscale"},
         {"name": "Duetto",      "ats": "greenhouse", "slug": "duettoresearch"},
         {"name": "DEPT",        "ats": "greenhouse", "slug": "dept"},
@@ -77,6 +75,11 @@ COMPANIES: dict[str, list[dict]] = {
             "board": "Careers",
             "wd_subdomain": "wd1",
         },
+    ],
+    "Fair": [
+        {"name": "Weber Shandwick", "ats": "greenhouse", "slug": "webershandwick"},
+        {"name": "Viral Nation",    "ats": "greenhouse", "slug": "viralnation"},
+        {"name": "Kitman Labs",     "ats": "lever",      "slug": "kitmanlabs"},
         {
             "name": "Cotiviti",
             "ats": "generic",
