@@ -89,11 +89,6 @@ COMPANIES: dict[str, list[dict]] = {
         },
     ],
     "Fair": [
-        {
-            "name": "Paylocity",
-            "ats": "paylocity",
-            "guid": "e2bcef5a-b6e5-4c5a-8fdd-c4da179dd98c",
-        },
         {"name": "Weber Shandwick", "ats": "greenhouse", "slug": "webershandwick"},
         {"name": "Viral Nation",    "ats": "greenhouse", "slug": "viralnation"},
         {"name": "Kitman Labs",     "ats": "lever",      "slug": "kitmanlabs"},

@@ -115,6 +115,12 @@ MANUAL_COMPANIES = [
         "url": "https://recruiting2.ultipro.com/BAY1006BML/JobBoard/0669eed3-5441-4f8e-a7b1-c5df596a4dfe/?q=&o=postedDateDesc",
         "reason": "UltiPro ATS — no standard API",
     },
+    {
+        "name": "Paylocity",
+        "tier": "Fair",
+        "url": "https://www.paylocity.com/company/careers/all-listings/",
+        "reason": "Paylocity ATS — GUID-based API but board returns no listings",
+    },
 ]
 
 # ---------------------------------------------------------------------------
