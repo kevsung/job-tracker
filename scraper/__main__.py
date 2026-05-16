@@ -16,6 +16,7 @@ from scraper.scrapers.bamboohr import scrape_bamboohr
 from scraper.scrapers.generic import scrape_generic
 from scraper.scrapers.greenhouse import scrape_greenhouse
 from scraper.scrapers.lever import scrape_lever
+from scraper.scrapers.paylocity import scrape_paylocity
 from scraper.scrapers.rippling import scrape_rippling
 from scraper.scrapers.smartrecruiters import scrape_smartrecruiters
 from scraper.scrapers.workday import scrape_workday
@@ -57,6 +58,8 @@ def scrape_one(company: dict) -> list[dict]:
             raw = scrape_bamboohr(company["slug"])
         elif ats == "smartrecruiters":
             raw = scrape_smartrecruiters(company["company_id"])
+        elif ats == "paylocity":
+            raw = scrape_paylocity(company["guid"])
         elif ats == "rippling":
             raw = scrape_rippling(company["board_id"])
         elif ats == "generic":

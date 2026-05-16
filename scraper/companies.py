@@ -1,8 +1,9 @@
 # ATS slugs and tenant IDs are best-effort guesses and may need updating.
-# Greenhouse: verify at https://boards.greenhouse.io/<slug>
-# Lever:      verify at https://jobs.lever.co/<slug>
-# Workday:    verify tenant/board/subdomain from the company's careers URL
-# Ashby:      verify at https://jobs.ashbyhq.com/<slug>
+# Greenhouse:  verify at https://boards.greenhouse.io/<slug>
+# Lever:       verify at https://jobs.lever.co/<slug>
+# Workday:     verify tenant/board/subdomain from the company's careers URL
+# Ashby:       verify at https://jobs.ashbyhq.com/<slug>
+# Paylocity:   verify at https://recruiting.paylocity.com/recruiting/jobs/All/<guid>
 
 COMPANIES: dict[str, list[dict]] = {
     "Strong": [
@@ -12,6 +13,8 @@ COMPANIES: dict[str, list[dict]] = {
         {"name": "Stripe",      "ats": "greenhouse",       "slug": "stripe"},
         {"name": "Figma",       "ats": "greenhouse",       "slug": "figma"},
         {"name": "Brex",        "ats": "greenhouse",       "slug": "brex"},
+        {"name": "Cohere",      "ats": "ashby",            "slug": "cohere"},
+        {"name": "Harvey",      "ats": "ashby",            "slug": "harvey"},
         {"name": "Deel",        "ats": "ashby",            "slug": "deel"},
         {"name": "Toast",       "ats": "greenhouse",       "slug": "toast"},
         {"name": "Ramp",        "ats": "ashby",            "slug": "ramp"},
@@ -36,8 +39,16 @@ COMPANIES: dict[str, list[dict]] = {
             "board": "external_experienced",
             "wd_subdomain": "wd5",
         },
+        {
+            "name": "Clio",
+            "ats": "workday",
+            "tenant": "clio",
+            "board": "ClioCareerSite",
+            "wd_subdomain": "wd3",
+        },
     ],
     "Moderate": [
+        {"name": "Oura",        "ats": "greenhouse",      "slug": "oura"},
         {"name": "Dandy",       "ats": "ashby",           "slug": "dandy"},
         {"name": "Openly",      "ats": "greenhouse",      "slug": "openly"},
         {"name": "Life360",     "ats": "greenhouse",      "slug": "life360"},
@@ -78,6 +89,11 @@ COMPANIES: dict[str, list[dict]] = {
         },
     ],
     "Fair": [
+        {
+            "name": "Paylocity",
+            "ats": "paylocity",
+            "guid": "e2bcef5a-b6e5-4c5a-8fdd-c4da179dd98c",
+        },
         {"name": "Weber Shandwick", "ats": "greenhouse", "slug": "webershandwick"},
         {"name": "Viral Nation",    "ats": "greenhouse", "slug": "viralnation"},
         {"name": "Kitman Labs",     "ats": "lever",      "slug": "kitmanlabs"},
