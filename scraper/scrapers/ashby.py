@@ -13,7 +13,7 @@ def scrape_ashby(slug: str) -> list[dict]:
     jobs = []
     for job in raw:
         location = job.get("location", "") or job.get("locationName", "") or ""
-        if job.get("isRemote") and "remote" not in location.lower():
+        if job.get("workplaceType") == "Remote" and "remote" not in location.lower():
             location = f"Remote - {location}" if location else "Remote"
         jobs.append(
             {
