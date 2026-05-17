@@ -20,6 +20,12 @@ MANUAL_COMPANIES = [
         "reason": "Greenhouse board inactive",
     },
     {
+        "name": "Nebius (location filter caveat)",
+        "tier": "Strong",
+        "url": "https://careers.nebius.com",
+        "reason": "Some roles tagged 'United States' instead of 'Remote - United States' -- check board directly for roles that may not surface in scraper results",
+    },
+    {
         "name": "Lonely Planet",
         "tier": "Moderate",
         "url": "https://www.redventures.com/careers/brands/lonely-planet",
