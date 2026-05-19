@@ -24,6 +24,7 @@ COMPANIES: dict[str, list[dict]] = {
         {"name": "Hightouch",   "ats": "greenhouse",       "slug": "hightouch"},
         {"name": "1Password",   "ats": "ashby",            "slug": "1password"},
         {"name": "Gusto",       "ats": "greenhouse",       "slug": "gusto"},
+        {"name": "Ethos",       "ats": "greenhouse",       "slug": "ethoslife"},
         {"name": "Canva",       "ats": "smartrecruiters",  "company_id": "canva"},
         {"name": "HubSpot",     "ats": "greenhouse",       "slug": "hubspotjobs"},
         {"name": "Rippling",    "ats": "rippling",         "board_id": "rippling"},
@@ -75,6 +76,10 @@ COMPANIES: dict[str, list[dict]] = {
         {"name": "Duetto",      "ats": "greenhouse", "slug": "duettoresearch"},
         {"name": "DEPT",        "ats": "greenhouse", "slug": "dept"},
         {"name": "Motive",      "ats": "greenhouse", "slug": "gomotive"},
+        {"name": "Airbnb",      "ats": "greenhouse", "slug": "airbnb"},
+        {"name": "Okta",        "ats": "greenhouse", "slug": "okta"},
+        {"name": "Backblaze",   "ats": "greenhouse", "slug": "backblaze"},
+        {"name": "Scribd",      "ats": "ashby",      "slug": "scribdinc"},
         {
             "name": "LiveRamp",
             "ats": "workday",
