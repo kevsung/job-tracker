@@ -408,8 +408,10 @@ document.getElementById("manual-grid").innerHTML = MANUAL.map(m=>`
 
 
 def render_dashboard(jobs: list[dict], output_path: Path) -> None:
-    now = datetime.now(timezone.utc)
-    last_updated = now.strftime("%Y-%m-%d %H:%M UTC")
+    from zoneinfo import ZoneInfo
+    now = datetime.now(ZoneInfo("America/New_York"))
+    tz_label = "EDT" if now.dst() else "EST"
+    last_updated = now.strftime(f"%Y-%m-%d %H:%M {tz_label}")
     last_updated_date = now.strftime("%Y-%m-%d")
     html = _TEMPLATE.replace("__JOBS_JSON__", json.dumps(jobs, ensure_ascii=False))
     html = html.replace("__MANUAL_JSON__", json.dumps(MANUAL_COMPANIES, ensure_ascii=False))
