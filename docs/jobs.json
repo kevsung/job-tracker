@@ -1,5 +1,15 @@
 [
   {
+    "id": "greenhouse_pinterest_7853059",
+    "title": "Sr. Technical Program Manager, Personalization",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7853059",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-05-22"
+  },
+  {
     "id": "greenhouse_backblaze_5191358008",
     "title": "Product Operations Manager",
     "location": "Remote - US",
@@ -104,36 +114,6 @@
     "title": "Technical Program Manager,  Identity and Access Management Programs",
     "location": "Remote in the US, Chicago, Atlanta",
     "url": "https://stripe.com/jobs/search?gh_jid=7417090",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-05-12"
-  },
-  {
-    "id": "greenhouse_stripe_7680365",
-    "title": "Technical Program Manager, Internal Systems",
-    "location": "US Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=7680365",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-05-12"
-  },
-  {
-    "id": "greenhouse_stripe_6932491",
-    "title": "Technical Program Manager, Payments Experiences",
-    "location": "Chicago, Remote in the US",
-    "url": "https://stripe.com/jobs/search?gh_jid=6932491",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-05-12"
-  },
-  {
-    "id": "greenhouse_stripe_7685855",
-    "title": "Technical Program Manager, Risk",
-    "location": "US Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=7685855",
     "company": "Stripe",
     "tier": "Strong",
     "remote": true,
