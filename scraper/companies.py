@@ -26,8 +26,10 @@ COMPANIES: dict[str, list[dict]] = {
         {"name": "Gusto",       "ats": "greenhouse",       "slug": "gusto"},
         {"name": "Ethos",       "ats": "greenhouse",       "slug": "ethoslife"},
         {"name": "Canva",       "ats": "smartrecruiters",  "company_id": "canva"},
-        {"name": "HubSpot",     "ats": "greenhouse",       "slug": "hubspotjobs"},
-        {"name": "Rippling",    "ats": "rippling",         "board_id": "rippling"},
+        {"name": "HubSpot",      "ats": "greenhouse",       "slug": "hubspotjobs"},
+        {"name": "Chime",        "ats": "greenhouse",       "slug": "chime"},
+        {"name": "Grafana Labs", "ats": "greenhouse",       "slug": "grafanalabs"},
+        {"name": "Rippling",     "ats": "rippling",         "board_id": "rippling"},
         {
             "name": "Genesys",
             "ats": "workday",
