@@ -1,5 +1,25 @@
 [
   {
+    "id": "ashby_cohere_6c661de1-ae72-48e6-9be8-f8ccb5f439d4",
+    "title": "Finance PMO (Project Management Office)",
+    "location": "Remote - San Francisco",
+    "url": "https://jobs.ashbyhq.com/cohere/6c661de1-ae72-48e6-9be8-f8ccb5f439d4",
+    "company": "Cohere",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-05-23"
+  },
+  {
+    "id": "greenhouse_pinterest_7678730",
+    "title": "Lead Program Manager, Global SMB Vendor Operations",
+    "location": "Los Angeles, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7678730",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-05-23"
+  },
+  {
     "id": "greenhouse_pinterest_7853059",
     "title": "Sr. Technical Program Manager, Personalization",
     "location": "San Francisco, CA, US; Remote, US",
@@ -225,16 +245,6 @@
     "location": "Remote",
     "url": "https://jobs.ashbyhq.com/acorns/8cc539a8-8b2e-41f2-9ca5-599aedbae14c",
     "company": "Acorns",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-05-12"
-  },
-  {
-    "id": "greenhouse_pacvue_5972864004",
-    "title": "Principal Product Operations Manager",
-    "location": "Remote",
-    "url": "https://job-boards.greenhouse.io/pacvue/jobs/5972864004",
-    "company": "Pacvue",
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-05-12"
