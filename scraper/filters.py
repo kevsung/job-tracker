@@ -19,6 +19,23 @@ _TITLE_PATTERNS = [
     re.compile(r"\bproduct\s+operations\s+manager", re.I),
     # Creative / Marketing Operations Manager
     re.compile(r"\b(creative|marketing)\s+operations\s+manager", re.I),
+    # Director of [Creative/Marketing/Product/Program] Operations
+    re.compile(r"\bdirector\s+of\s+(creative|marketing|product|program)\s+operations", re.I),
+    # Lead Program Manager
+    re.compile(r"\blead\s+program\s+manager", re.I),
+    # Senior Manager, [something] Program/Project/PMO/Operations
+    re.compile(r"\bsenior\s+manager[,\s]+.{0,30}(program|project|pmo|operations)", re.I),
+    # Senior / Sr. / Staff / Lead Release Manager
+    re.compile(r"\b(senior|sr\.?|staff|lead)\s+release\s+manager", re.I),
+    # Portfolio [Governance/Program/Project] ... Manager (words may intervene)
+    re.compile(r"\bportfolio\s+(governance|program|project).{0,40}manager", re.I),
+    # Program/Project Management Office  OR  PMO Lead/Manager/Director
+    re.compile(r"\b(program|project)\s+management\s+office\b", re.I),
+    re.compile(r"\bpmo\s+(lead|manager|director)\b", re.I),
+    # Head of [Product Operations / Program Management / Creative Operations]
+    re.compile(r"\bhead\s+of\s+(product\s+operations|program\s+management|creative\s+operations)", re.I),
+    # Senior / Sr. / Staff / Lead Manager, Program (suffix variant)
+    re.compile(r"\b(senior|sr\.?|staff|lead)\s+manager[,\s]+program", re.I),
 ]
 
 
