@@ -21,6 +21,10 @@ _TITLE_PATTERNS = [
     re.compile(r"\b(creative|marketing)\s+operations\s+manager", re.I),
     # Director of [Creative/Marketing/Product/Program] Operations
     re.compile(r"\bdirector\s+of\s+(creative|marketing|product|program)\s+operations", re.I),
+    # Creative Production Lead / Manager / Director (any seniority)
+    re.compile(r"\b(senior|sr\.?|staff|lead)?\s*creative\s+production\s+(lead|manager|director)", re.I),
+    # Senior / Sr. / Staff / Lead Production Manager / Lead / Director
+    re.compile(r"\b(senior|sr\.?|staff|lead)\s+production\s+(manager|lead|director)", re.I),
     # Lead Program Manager
     re.compile(r"\blead\s+program\s+manager", re.I),
     # Senior Manager, [something] Program/Project/PMO/Operations
