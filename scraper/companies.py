@@ -96,6 +96,13 @@ COMPANIES: dict[str, list[dict]] = {
             "board": "Careers",
             "wd_subdomain": "wd1",
         },
+        {
+            "name": "DraftKings",
+            "ats": "workday",
+            "tenant": "draftkings",
+            "board": "DraftKings",
+            "wd_subdomain": "wd1",
+        },
     ],
     "Fair": [
         {"name": "Weber Shandwick", "ats": "greenhouse", "slug": "webershandwick"},
