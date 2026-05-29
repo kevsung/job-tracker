@@ -40,6 +40,9 @@ _TITLE_PATTERNS = [
     re.compile(r"\bhead\s+of\s+(product\s+operations|program\s+management|creative\s+operations)", re.I),
     # Senior / Sr. / Staff / Lead Manager, Program (suffix variant)
     re.compile(r"\b(senior|sr\.?|staff|lead)\s+manager[,\s]+program", re.I),
+    # Senior / Sr. / Staff / Lead Delivery Manager (prefix + suffix variants)
+    re.compile(r"\b(senior|sr\.?|staff|lead)\s+delivery\s+manager", re.I),
+    re.compile(r"\bdelivery\s+manager[,\s\-]+(senior|sr\.?|staff|lead)", re.I),
 ]
 
 
