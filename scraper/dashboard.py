@@ -127,6 +127,18 @@ MANUAL_COMPANIES = [
         "url": "https://www.paylocity.com/company/careers/all-listings/",
         "reason": "Paylocity ATS — GUID-based API but board returns no listings",
     },
+    {
+        "name": "Function Health",
+        "tier": "Moderate",
+        "url": "https://jobs.gem.com/function-health",
+        "reason": "Gem CRM -- no public API",
+    },
+    {
+        "name": "GC AI",
+        "tier": "Strong",
+        "url": "https://jobs.gem.com/gc-ai",
+        "reason": "Gem CRM -- no public API",
+    },
 ]
 
 # ---------------------------------------------------------------------------
