@@ -371,14 +371,18 @@ document.getElementById("manual-grid").innerHTML = MANUAL.map(m=>`
 </html>"""
 
 
+_TIER_ORDER = {"Strong": 0, "Moderate": 1, "Fair": 2, "Weak": 3, "Weak — Caveat Driven": 4}
+
+
 def render_dashboard(jobs: list[dict], output_path: Path) -> None:
     from zoneinfo import ZoneInfo
     now = datetime.now(ZoneInfo("America/New_York"))
     tz_label = "EDT" if now.dst() else "EST"
     last_updated = now.strftime(f"%Y-%m-%d %H:%M {tz_label}")
     last_updated_date = now.strftime("%Y-%m-%d")
+    sorted_manual = sorted(MANUAL_COMPANIES, key=lambda m: _TIER_ORDER.get(m["tier"], 99))
     html = _TEMPLATE.replace("__JOBS_JSON__", json.dumps(jobs, ensure_ascii=False))
-    html = html.replace("__MANUAL_JSON__", json.dumps(MANUAL_COMPANIES, ensure_ascii=False))
+    html = html.replace("__MANUAL_JSON__", json.dumps(sorted_manual, ensure_ascii=False))
     html = html.replace("__LAST_UPDATED__", last_updated)
     html = html.replace("__LAST_UPDATED_DATE__", last_updated_date)
     output_path.write_text(html, encoding="utf-8")
