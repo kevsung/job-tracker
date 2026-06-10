@@ -60,6 +60,7 @@ COMPANIES: dict[str, list[dict]] = {
         {"name": "Wing",        "ats": "greenhouse",      "slug": "wing"},
         {"name": "Experian",    "ats": "smartrecruiters", "company_id": "experian"},
         {"name": "Ashby",       "ats": "ashby",      "slug": "ashby"},
+        {"name": "Jump AI",     "ats": "ashby",      "slug": "jump-app"},  # jump.ai, AI for financial advisors; slug "jump-app" not "jump"
         {"name": "Benepass",    "ats": "ashby",      "slug": "benepass"},
         {"name": "PolyAI",      "ats": "greenhouse", "slug": "polyai"},
         {"name": "Hungryroot",  "ats": "greenhouse", "slug": "hungryroot"},
