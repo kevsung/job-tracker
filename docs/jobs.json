@@ -1,5 +1,15 @@
 [
   {
+    "id": "greenhouse_customerio_7991850",
+    "title": "Senior Program Manager",
+    "location": "Americas Remote",
+    "url": "https://job-boards.greenhouse.io/customerio/jobs/7991850",
+    "company": "Customer.io",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-06-12"
+  },
+  {
     "id": "greenhouse_instacart_7989243",
     "title": "Senior Manager, IT PMO & Corporate Engineering",
     "location": "United States - Remote",
@@ -41,7 +51,7 @@
   },
   {
     "id": "greenhouse_pinterest_7494634",
-    "title": "Staff Technical Program Manager ML/AI Platform",
+    "title": "Staff Technical Program Manager, Compute Infrastructure",
     "location": "San Francisco, CA, US; Remote, US",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494634",
     "company": "Pinterest",
