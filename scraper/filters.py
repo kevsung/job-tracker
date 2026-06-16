@@ -54,11 +54,36 @@ def title_matches(title: str) -> bool:
 # Location matching: remote US  OR  within ~25 miles of Bethesda MD 20854
 # ---------------------------------------------------------------------------
 
-_NON_US_RE = re.compile(
-    r"\b(canada|canadian|uk|united kingdom|england|scotland|wales|"
-    r"europe|eu\s+only|emea|australia|new zealand|india|"
-    r"latam|latin america|apac|singapore|germany|france|"
-    r"netherlands|brazil|mexico)\b",
+_US_RE = re.compile(
+    r"\b(united\s+states|u\.s\.a?\.?|usa|us)\b",
+    re.I,
+)
+
+# Reject remote roles located in a non-US country/region.
+# "Remote" with no country, or "Remote - US / United States", is accepted.
+_NON_US_COUNTRY_RE = re.compile(
+    r"\b("
+    # North America (non-US)
+    r"canada|canadian|mexico|"
+    # UK / Ireland
+    r"uk|united kingdom|great britain|england|scotland|wales|ireland|"
+    # Europe
+    r"europe|european union|eu\s+only|emea|"
+    r"germany|france|netherlands|belgium|spain|italy|portugal|"
+    r"sweden|norway|denmark|finland|switzerland|austria|poland|"
+    # Asia-Pacific
+    r"apac|australia|new zealand|"
+    r"india|pakistan|bangladesh|sri lanka|nepal|"
+    r"china|japan|south korea|korea|taiwan|hong kong|singapore|"
+    r"philippines|vietnam|thailand|indonesia|malaysia|"
+    # Latin America
+    r"latam|latin america|brazil|argentina|colombia|chile|peru|"
+    # Middle East / Africa
+    r"south africa|nigeria|kenya|egypt|"
+    r"israel|uae|united arab emirates|saudi arabia|qatar|turkey|"
+    # Eastern Europe / Central Asia
+    r"russia|ukraine"
+    r")\b",
     re.I,
 )
 
@@ -88,7 +113,9 @@ def location_matches(location: str) -> bool:
     loc = location.strip()
 
     if re.search(r"\bremote\b", loc, re.I):
-        # Accept unless location is explicitly non-US
-        return not bool(_NON_US_RE.search(loc))
+        # Reject if any non-US country is named; otherwise accept
+        # (covers "Remote", "Fully Remote", "Remote - US", etc.)
+        return not bool(_NON_US_COUNTRY_RE.search(loc))
 
-    return bool(_DC_METRO_RE.search(loc))
+    # Non-remote: DC metro OR explicit US indicator (e.g. "United States")
+    return bool(_DC_METRO_RE.search(loc) or _US_RE.search(loc))
