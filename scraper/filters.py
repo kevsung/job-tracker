@@ -117,5 +117,5 @@ def location_matches(location: str) -> bool:
         # (covers "Remote", "Fully Remote", "Remote - US", etc.)
         return not bool(_NON_US_COUNTRY_RE.search(loc))
 
-    # Non-remote: DC metro OR explicit US indicator (e.g. "United States")
-    return bool(_DC_METRO_RE.search(loc) or _US_RE.search(loc))
+    # Non-remote: DC metro only
+    return bool(_DC_METRO_RE.search(loc))
