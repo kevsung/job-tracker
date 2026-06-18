@@ -1,5 +1,185 @@
 [
   {
+    "id": "greenhouse_samsara_7700461",
+    "title": "Senior Product Manager, Growth",
+    "location": "Remote - SF Bay Area",
+    "url": "https://www.samsara.com/company/careers/roles/7700461?gh_jid=7700461",
+    "company": "Samsara",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
+    "id": "greenhouse_stripe_7980498",
+    "title": "Staff Product Manager, Cards Monetization",
+    "location": "Seattle, San Francisco, New York, US - Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7980498",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
+    "id": "greenhouse_stripe_7913702",
+    "title": "Staff Product Manager, Dashboard",
+    "location": "San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7913702",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
+    "id": "greenhouse_stripe_7812856",
+    "title": "Staff Product Manager, Enterprise (Industries) ",
+    "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7812856",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
+    "id": "greenhouse_stripe_7819059",
+    "title": "Staff Product Manager, Payments",
+    "location": "SF, SEA, NYC, Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7819059",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
+    "id": "greenhouse_hubspotjobs_7666075",
+    "title": "Senior Product Manager I, Data Platform and Platform API ",
+    "location": "Remote - USA",
+    "url": "https://www.hubspot.com/careers/jobs/7666075?gh_jid=7666075",
+    "company": "HubSpot",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
+    "id": "greenhouse_oura_4287993009",
+    "title": "Staff Program Manager, Product Go-to-Market ",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/oura/jobs/4287993009",
+    "company": "Oura",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
+    "id": "ashby_benepass_8d52b724-c0c2-4592-b5a4-0555e66714b9",
+    "title": "Staff Product Manager (Fintech)",
+    "location": "U.S Remote",
+    "url": "https://jobs.ashbyhq.com/benepass/8d52b724-c0c2-4592-b5a4-0555e66714b9",
+    "company": "Benepass",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
+    "id": "greenhouse_pinterest_7770916",
+    "title": "Sr. Staff Product Manager, Merchants",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770916",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
+    "id": "greenhouse_pinterest_7368194",
+    "title": "Staff Product Manager, AI/ML Personalization",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7368194",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
+    "id": "greenhouse_pinterest_7718015",
+    "title": "Staff Product Manager, AI Safety",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7718015",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
+    "id": "greenhouse_pinterest_7955593",
+    "title": "Staff Product Manager, Billing",
+    "location": "San Francisco, CA, US; Remote, CA, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7955593",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
+    "id": "greenhouse_pinterest_7905508",
+    "title": "Staff Product Manager, Model Lifecycle & Management",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7905508",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
+    "id": "greenhouse_instacart_8014060",
+    "title": "Senior Product Manager, Retailer Platform",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=8014060",
+    "company": "Instacart",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
+    "id": "greenhouse_discord_8530692002",
+    "title": "Senior Product Manager, Ad Formats",
+    "location": "San Francisco Bay Area or Remote (U.S.)",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8530692002",
+    "company": "Discord",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
+    "id": "ashby_acorns_2263abeb-73d2-448b-8228-4bc1e500c812",
+    "title": "Staff Product Manager, Conversational AI",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/acorns/2263abeb-73d2-448b-8228-4bc1e500c812",
+    "company": "Acorns",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
+    "id": "ashby_acorns_bdbd12c5-b94b-4722-8599-f7bcc67f2f4f",
+    "title": "Senior Product Operations Specialist",
+    "location": "Remote - Irvine",
+    "url": "https://jobs.ashbyhq.com/acorns/bdbd12c5-b94b-4722-8599-f7bcc67f2f4f",
+    "company": "Acorns",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
+    "id": "greenhouse_backblaze_5212473008",
+    "title": "Staff Product Manager",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/backblaze/jobs/5212473008",
+    "company": "Backblaze",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-06-18"
+  },
+  {
     "id": "greenhouse_customerio_7991850",
     "title": "Senior Program Manager",
     "location": "Americas Remote",
