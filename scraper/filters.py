@@ -43,6 +43,20 @@ _TITLE_PATTERNS = [
     # Senior / Sr. / Staff / Lead Delivery Manager (prefix + suffix variants)
     re.compile(r"\b(senior|sr\.?|staff|lead)\s+delivery\s+manager", re.I),
     re.compile(r"\bdelivery\s+manager[,\s\-]+(senior|sr\.?|staff|lead)", re.I),
+    # Senior PM with ad/advertising/operations/platform/growth/enablement context
+    re.compile(r"\bsenior\s+product\s+manager.{0,40}(ad|advertising|operations|platform|growth|enablement)", re.I),
+    # Director / Head of advertising/marketing/creative/content operations
+    re.compile(r"\b(director|head)\s+of\s+(advertising|marketing|creative|content)\s+operations", re.I),
+    # Senior PM with operations/platform/growth/enablement context (broader)
+    re.compile(r"\bsenior\s+product\s+manager.{0,40}(operations|platform|growth|enablement)", re.I),
+    # Senior/Sr/Staff/Lead Manager in media/advertising/creative/brand ops
+    re.compile(r"\b(senior|sr\.?|staff|lead)\s+manager.{0,40}(advertising|media|content|creative|brand)\s+operations", re.I),
+    # Program/Project/Operations Manager in advertising/media/monetization/revenue context
+    re.compile(r"\b(program|project|operations)\s+manager.{0,40}(advertising|media|monetization|revenue)", re.I),
+    # Staff Product Operations or Staff Product Manager
+    re.compile(r"\bstaff\s+product\s+(operations|manager)", re.I),
+    # Senior/Sr/Lead/Staff Product Operations (without "Manager" suffix)
+    re.compile(r"\b(senior|sr\.?|lead|staff)\s+product\s+operations", re.I),
 ]
 
 
