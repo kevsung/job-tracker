@@ -30,46 +30,6 @@
     "first_seen": "2026-06-18"
   },
   {
-    "id": "greenhouse_stripe_7980498",
-    "title": "Staff Product Manager, Cards Monetization",
-    "location": "Seattle, San Francisco, New York, US - Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=7980498",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-06-18"
-  },
-  {
-    "id": "greenhouse_stripe_7913702",
-    "title": "Staff Product Manager, Dashboard",
-    "location": "San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=7913702",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-06-18"
-  },
-  {
-    "id": "greenhouse_stripe_7812856",
-    "title": "Staff Product Manager, Enterprise (Industries) ",
-    "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=7812856",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-06-18"
-  },
-  {
-    "id": "greenhouse_stripe_7819059",
-    "title": "Staff Product Manager, Payments",
-    "location": "SF, SEA, NYC, Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=7819059",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-06-18"
-  },
-  {
     "id": "greenhouse_hubspotjobs_7666075",
     "title": "Senior Product Manager I, Data Platform and Platform API ",
     "location": "Remote - USA",
@@ -220,16 +180,6 @@
     "first_seen": "2026-06-08"
   },
   {
-    "id": "greenhouse_stripe_7985196",
-    "title": "Technical Program Manager, Service Infrastructure",
-    "location": "Seattle, San Francisco, Remote in the US",
-    "url": "https://stripe.com/jobs/search?gh_jid=7985196",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-06-05"
-  },
-  {
     "id": "ashby_harvey_4a7f764b-45d7-49e9-a05d-48c9ef26d437",
     "title": "Senior Manager, User Operations",
     "location": "Remote",
@@ -268,16 +218,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-05-29"
-  },
-  {
-    "id": "greenhouse_stripe_7589234",
-    "title": "Technical Program Manager, Core Infrastructure",
-    "location": "Seattle, SF, Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=7589234",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-05-28"
   },
   {
     "id": "greenhouse_instacart_7964681",
@@ -355,26 +295,6 @@
     "location": "Remote - US",
     "url": "https://www.samsara.com/company/careers/roles/7615410?gh_jid=7615410",
     "company": "Samsara",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-05-12"
-  },
-  {
-    "id": "greenhouse_stripe_7778643",
-    "title": "Technical Program Manager,  Extensibility Programs",
-    "location": "Remote in the US, Chicago, Atlanta",
-    "url": "https://stripe.com/jobs/search?gh_jid=7778643",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-05-12"
-  },
-  {
-    "id": "greenhouse_stripe_7417090",
-    "title": "Technical Program Manager,  Identity and Access Management Programs",
-    "location": "Remote in the US, Chicago, Atlanta",
-    "url": "https://stripe.com/jobs/search?gh_jid=7417090",
-    "company": "Stripe",
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-05-12"
