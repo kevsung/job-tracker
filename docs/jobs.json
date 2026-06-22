@@ -1,5 +1,35 @@
 [
   {
+    "id": "greenhouse_toast_7979324",
+    "title": "Senior Program Manager, Growth Enablement",
+    "location": "Remote, USA",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=7979324",
+    "company": "Toast",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-06-22"
+  },
+  {
+    "id": "greenhouse_hubspotjobs_7741756",
+    "title": "Senior Product Manager, Events Data Platform",
+    "location": "Remote - USA",
+    "url": "https://www.hubspot.com/careers/jobs/7741756?gh_jid=7741756",
+    "company": "HubSpot",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-06-22"
+  },
+  {
+    "id": "greenhouse_pinterest_7997974",
+    "title": "Staff Technical Program Manager, SOX Compliance",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7997974",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-06-22"
+  },
+  {
     "id": "greenhouse_stripe_7980498",
     "title": "Staff Product Manager, Cards Monetization",
     "location": "Seattle, San Francisco, New York, US - Remote",
