@@ -136,7 +136,7 @@ MANUAL_COMPANIES = [
     {
         "name": "GC AI",
         "tier": "Strong",
-        "url": "https://jobs.gem.com/gc-ai",
+        "url": "https://gc.ai/company/careers#openings",
         "reason": "Gem CRM -- no public API",
     },
 ]
