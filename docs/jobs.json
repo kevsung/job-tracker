@@ -1,5 +1,15 @@
 [
   {
+    "id": "ashby_scribdinc_42ed66d5-dc57-4448-bd27-945b6ee91923",
+    "title": "Senior Technical Program Manager",
+    "location": "Remote - San Francisco",
+    "url": "https://jobs.ashbyhq.com/scribdinc/42ed66d5-dc57-4448-bd27-945b6ee91923",
+    "company": "Scribd",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-02"
+  },
+  {
     "id": "greenhouse_chime_8609157002",
     "title": "Senior Program Manager, Strategy & Innovation",
     "location": "Remote, USA",
@@ -58,16 +68,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-06-29"
-  },
-  {
-    "id": "greenhouse_instacart_6932499",
-    "title": "Senior Technical Program Manager, Enterprise",
-    "location": "United States - Remote",
-    "url": "https://instacart.careers/job/?gh_jid=6932499",
-    "company": "Instacart",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-06-24"
   },
   {
     "id": "greenhouse_gomotive_8303849002",
@@ -131,7 +131,7 @@
   },
   {
     "id": "greenhouse_stripe_7812856",
-    "title": "Staff Product Manager, Enterprise (Industries) ",
+    "title": "Staff Product Manager, Enterprise",
     "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
     "url": "https://stripe.com/jobs/search?gh_jid=7812856",
     "company": "Stripe",
@@ -464,16 +464,6 @@
     "title": "Staff Technical Program Manager, Monetization Data Science",
     "location": "San Francisco, CA, US; Remote, US",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494686",
-    "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-05-12"
-  },
-  {
-    "id": "greenhouse_pinterest_7774042",
-    "title": "Technical Program Manager II, Advanced Technology Group",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7774042",
     "company": "Pinterest",
     "tier": "Moderate",
     "remote": true,
