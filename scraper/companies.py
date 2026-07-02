@@ -30,6 +30,7 @@ COMPANIES: dict[str, list[dict]] = {
         {"name": "Chime",        "ats": "greenhouse",       "slug": "chime"},
         {"name": "Grafana Labs", "ats": "greenhouse",       "slug": "grafanalabs"},
         {"name": "StackAdapt",   "ats": "greenhouse",       "slug": "stackadapt"},
+        {"name": "Affirm",       "ats": "greenhouse",       "slug": "affirm"},
         {"name": "Rippling",     "ats": "rippling",         "board_id": "rippling"},
         {
             "name": "Genesys",
@@ -55,6 +56,7 @@ COMPANIES: dict[str, list[dict]] = {
     ],
     "Moderate": [
         {"name": "Oura",        "ats": "greenhouse",      "slug": "oura"},
+        {"name": "NICE",        "ats": "greenhouse",      "slug": "nice"},
         {"name": "Dandy",       "ats": "ashby",           "slug": "dandy"},
         {"name": "Openly",      "ats": "greenhouse",      "slug": "openly"},
         {"name": "Life360",     "ats": "greenhouse",      "slug": "life360"},
