@@ -1,5 +1,35 @@
 [
   {
+    "id": "greenhouse_databricks_8549259002",
+    "title": "Sr. Field Technical Program Manager, Forward Deployed Engineering - Public Sector",
+    "location": "Washington, D.C.",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549259002",
+    "company": "Databricks",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-02"
+  },
+  {
+    "id": "greenhouse_oura_4304220009",
+    "title": "Staff Program Manager, Enterprise Data Transformation",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/oura/jobs/4304220009",
+    "company": "Oura",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-02"
+  },
+  {
+    "id": "greenhouse_instacart_8044197",
+    "title": "Senior Product Manager, Growth Marketing Platform",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=8044197",
+    "company": "Instacart",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-02"
+  },
+  {
     "id": "ashby_scribdinc_42ed66d5-dc57-4448-bd27-945b6ee91923",
     "title": "Senior Technical Program Manager",
     "location": "Remote - San Francisco",
@@ -8,16 +38,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-02"
-  },
-  {
-    "id": "greenhouse_chime_8609157002",
-    "title": "Senior Program Manager, Strategy & Innovation",
-    "location": "Remote, USA",
-    "url": "https://boards.greenhouse.io/chime/jobs/8609157002?gh_jid=8609157002",
-    "company": "Chime",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-01"
   },
   {
     "id": "greenhouse_instacart_8039905",
@@ -78,16 +98,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-06-23"
-  },
-  {
-    "id": "greenhouse_toast_7979324",
-    "title": "Senior Program Manager, Growth Enablement",
-    "location": "Remote, USA",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=7979324",
-    "company": "Toast",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-06-22"
   },
   {
     "id": "greenhouse_hubspotjobs_7741756",
