@@ -1,5 +1,25 @@
 [
   {
+    "id": "greenhouse_stripe_8042055",
+    "title": "Technical Program Manager, Money-as-a-Service",
+    "location": "Remote in the US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8042055",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-07"
+  },
+  {
+    "id": "greenhouse_chime_8609155002",
+    "title": "Senior Program Manager, OMX SOTO",
+    "location": "Remote, USA",
+    "url": "https://boards.greenhouse.io/chime/jobs/8609155002?gh_jid=8609155002",
+    "company": "Chime",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-07"
+  },
+  {
     "id": "greenhouse_databricks_8549259002",
     "title": "Sr. Field Technical Program Manager, Forward Deployed Engineering - Public Sector",
     "location": "Washington, D.C.",
@@ -368,16 +388,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-06-03"
-  },
-  {
-    "id": "greenhouse_life360_8573667002",
-    "title": "Senior Staff Finance Technical Program Manager",
-    "location": "Remote, USA",
-    "url": "https://job-boards.greenhouse.io/life360/jobs/8573667002",
-    "company": "Life360",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-06-02"
   },
   {
     "id": "greenhouse_pinterest_7494634",
