@@ -31,6 +31,7 @@ COMPANIES: dict[str, list[dict]] = {
         {"name": "Grafana Labs", "ats": "greenhouse",       "slug": "grafanalabs"},
         {"name": "StackAdapt",   "ats": "greenhouse",       "slug": "stackadapt"},
         {"name": "Affirm",       "ats": "greenhouse",       "slug": "affirm"},
+        {"name": "Reddit",       "ats": "greenhouse",       "slug": "reddit"},
         {"name": "Rippling",     "ats": "rippling",         "board_id": "rippling"},
         {
             "name": "Genesys",
