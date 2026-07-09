@@ -1,15 +1,5 @@
 [
   {
-    "id": "greenhouse_databricks_8569993002",
-    "title": "Program Manager, Product Legal",
-    "location": "Bellevue, Washington; Boston, Massachusetts; Seattle, Washington; Washington, D.C.",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569993002",
-    "company": "Databricks",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-07-09"
-  },
-  {
     "id": "greenhouse_databricks_8535311002",
     "title": "Senior Customer Enablement Program Manager",
     "location": "United States",
@@ -54,16 +44,6 @@
     "title": "Manager, Technical Program Management",
     "location": "Remote - US",
     "url": "https://www.samsara.com/company/careers/roles/8008386?gh_jid=8008386",
-    "company": "Samsara",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-09"
-  },
-  {
-    "id": "greenhouse_samsara_8029100",
-    "title": "Senior Legal Analyst & Litigation Project Manager",
-    "location": "Remote - OH",
-    "url": "https://www.samsara.com/company/careers/roles/8029100?gh_jid=8029100",
     "company": "Samsara",
     "tier": "Strong",
     "remote": true,
@@ -180,16 +160,6 @@
     "first_seen": "2026-07-09"
   },
   {
-    "id": "greenhouse_nebius_4705452101",
-    "title": "Construction Project Manager, Data Centers",
-    "location": "United States",
-    "url": "https://careers.nebius.com/?gh_jid=4705452101",
-    "company": "Nebius",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-07-09"
-  },
-  {
     "id": "greenhouse_nebius_4814389101",
     "title": "Technical Project Manager ",
     "location": "Remote - United States",
@@ -286,16 +256,6 @@
     "url": "https://ats.rippling.com/rippling/jobs/254f0445-8640-4a8b-a1b5-03c9a0f9f3fa",
     "company": "Rippling",
     "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-09"
-  },
-  {
-    "id": "greenhouse_oura_4306277009",
-    "title": "Tax Manager, Direct Tax & Strategic Projects",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/oura/jobs/4306277009",
-    "company": "Oura",
-    "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-09"
   },

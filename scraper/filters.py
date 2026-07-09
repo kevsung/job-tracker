@@ -6,6 +6,18 @@ import re
 
 _SENIORITY = r"(?:(?:senior|sr\.?|staff|lead|principal)\s+)?"
 
+# Non-tech-PM domains that get lumped in under generic "Manager" titles but
+# aren't the roles this tracker targets (construction, tax/accounting, etc).
+_EXCLUDE_RE = re.compile(
+    r"\b("
+    r"construction|tax|litigation|legal|accounting|audit|"
+    r"hvac|electrical|plumbing|civil\s+engineering|"
+    r"restaurant|retail\s+store|warehouse|"
+    r"clinical|nursing|pharmacy"
+    r")\b",
+    re.I,
+)
+
 _TITLE_PATTERNS = [
     # Program Manager (any seniority, incl. unlabeled; Technical / Strategic optional)
     re.compile(_SENIORITY + r"(?:technical\s+|strategic\s+)?program\s+manager\b", re.I),
@@ -59,6 +71,8 @@ _TITLE_PATTERNS = [
 
 
 def title_matches(title: str) -> bool:
+    if _EXCLUDE_RE.search(title):
+        return False
     return any(p.search(title) for p in _TITLE_PATTERNS)
 
 
