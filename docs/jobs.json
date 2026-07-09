@@ -1,5 +1,245 @@
 [
   {
+    "id": "greenhouse_databricks_8583037002",
+    "title": "Sr. Field Technical Program Manager, Forward Deployed Engineering",
+    "location": "United States",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8583037002",
+    "company": "Databricks",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_databricks_8439170002",
+    "title": "Sr. Program Manager, Accenture Business Group",
+    "location": "United States",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439170002",
+    "company": "Databricks",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_stripe_7991528",
+    "title": "Creative Producer, Link",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=7991528",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_stripe_7920219",
+    "title": "Staff Product Manager, Support Experience",
+    "location": "San Francisco, California, United States",
+    "url": "https://stripe.com/jobs/search?gh_jid=7920219",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_figma_5837760004",
+    "title": "Technical Program Manager, AI Performance",
+    "location": "San Francisco, CA • New York, NY • United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5837760004?gh_jid=5837760004",
+    "company": "Figma",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_figma_6009613004",
+    "title": "Technical Program Manager, Data",
+    "location": "San Francisco, CA • New York, NY • United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6009613004?gh_jid=6009613004",
+    "company": "Figma",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_figma_6020719004",
+    "title": "Technical Program Manager, Infrastructure",
+    "location": "San Francisco, CA • New York, NY • United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6020719004?gh_jid=6020719004",
+    "company": "Figma",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_figma_5982942004",
+    "title": "Technical Program Manager, Security",
+    "location": "San Francisco, CA • New York, NY • United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5982942004?gh_jid=5982942004",
+    "company": "Figma",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_brex_8380680002",
+    "title": "Senior Marketing Operations Manager, B2B Sales",
+    "location": "Seattle, Washington, United States",
+    "url": "https://www.brex.com/careers/8380680002?gh_jid=8380680002",
+    "company": "Brex",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_brex_8372627002",
+    "title": "Senior Marketing Operations Manager, B2B Sales",
+    "location": "New York, New York, United States",
+    "url": "https://www.brex.com/careers/8372627002?gh_jid=8372627002",
+    "company": "Brex",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_brex_8372597002",
+    "title": "Senior Marketing Operations Manager, B2B Sales",
+    "location": "San Francisco, California, United States",
+    "url": "https://www.brex.com/careers/8372597002?gh_jid=8372597002",
+    "company": "Brex",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_brex_8380681002",
+    "title": "Senior Marketing Operations Manager, Product-Led Growth",
+    "location": "Seattle, Washington, United States",
+    "url": "https://www.brex.com/careers/8380681002?gh_jid=8380681002",
+    "company": "Brex",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_brex_8372636002",
+    "title": "Senior Marketing Operations Manager, Product-Led Growth",
+    "location": "San Francisco, California, United States",
+    "url": "https://www.brex.com/careers/8372636002?gh_jid=8372636002",
+    "company": "Brex",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_brex_8372631002",
+    "title": "Senior Marketing Operations Manager, Product-Led Growth",
+    "location": "New York, New York, United States",
+    "url": "https://www.brex.com/careers/8372631002?gh_jid=8372631002",
+    "company": "Brex",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_brex_8432698002",
+    "title": "Staff Product Manager",
+    "location": "San Francisco, California, United States",
+    "url": "https://www.brex.com/careers/8432698002?gh_jid=8432698002",
+    "company": "Brex",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_brex_8432702002",
+    "title": "Staff Product Manager",
+    "location": "New York, New York, United States",
+    "url": "https://www.brex.com/careers/8432702002?gh_jid=8432702002",
+    "company": "Brex",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_brex_8432703002",
+    "title": "Staff Product Manager",
+    "location": "Seattle, Washington, United States",
+    "url": "https://www.brex.com/careers/8432703002?gh_jid=8432703002",
+    "company": "Brex",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_brex_8616324002",
+    "title": "Staff Product Manager, AI",
+    "location": "New York, New York, United States",
+    "url": "https://www.brex.com/careers/8616324002?gh_jid=8616324002",
+    "company": "Brex",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_brex_8436530002",
+    "title": "Staff Product Manager, Growth",
+    "location": "Seattle, Washington, United States",
+    "url": "https://www.brex.com/careers/8436530002?gh_jid=8436530002",
+    "company": "Brex",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_brex_8436528002",
+    "title": "Staff Product Manager, Growth",
+    "location": "New York, New York, United States",
+    "url": "https://www.brex.com/careers/8436528002?gh_jid=8436528002",
+    "company": "Brex",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_brex_8436527002",
+    "title": "Staff Product Manager, Growth",
+    "location": "San Francisco, California, United States",
+    "url": "https://www.brex.com/careers/8436527002?gh_jid=8436527002",
+    "company": "Brex",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "ashby_cohere_f00dbf81-17ff-4584-b015-67dfae1dc59c",
+    "title": "Technical Program Manager, Product Engineering",
+    "location": "United States",
+    "url": "https://jobs.ashbyhq.com/cohere/f00dbf81-17ff-4584-b015-67dfae1dc59c",
+    "company": "Cohere",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_nice_4869993101",
+    "title": "Senior Program Manager, CX",
+    "location": "USA - Atlanta, GA; USA - Hoboken, NJ; USA - Sandy, UT",
+    "url": "https://boards.eu.greenhouse.io/nice/jobs/4869993101?gh_jid=4869993101",
+    "company": "NICE",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "smartrecruiters_experian_744000129830129",
+    "title": "Senior Product Manager, AdTech Identity Graph - Remote",
+    "location": "United States, UNITED STATES, us",
+    "url": "https://api.smartrecruiters.com/v1/companies/experian/postings/744000129830129",
+    "company": "Experian",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
     "id": "greenhouse_pinterest_7494932",
     "title": "Staff Product Manager, Advertiser Experience",
     "location": "San Francisco, CA, US; Seattle, WA, US; Remote, CA, US",
@@ -17,6 +257,56 @@
     "company": "Instacart",
     "tier": "Moderate",
     "remote": true,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_duettoresearch_7816116",
+    "title": "Senior Project Manager, PMO",
+    "location": "United States ",
+    "url": "https://job-boards.greenhouse.io/duettoresearch/jobs/7816116",
+    "company": "Duetto",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_dept_8013447",
+    "title": "Project Manager (Media) ",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8013447",
+    "company": "DEPT",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_airbnb_7980044",
+    "title": "Senior Manager, Revenue Operations",
+    "location": "United States ",
+    "url": "https://careers.airbnb.com/positions/7980044?gh_jid=7980044",
+    "company": "Airbnb",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_airbnb_7936526",
+    "title": "Senior Release Manager, CS Platform",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/7936526?gh_jid=7936526",
+    "company": "Airbnb",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_airbnb_8013262",
+    "title": "Staff Technical Program Manager, Community Support Engineering",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8013262?gh_jid=8013262",
+    "company": "Airbnb",
+    "tier": "Moderate",
+    "remote": false,
     "first_seen": "2026-07-09"
   },
   {

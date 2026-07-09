@@ -135,5 +135,10 @@ def location_matches(location: str) -> bool:
         # (covers "Remote", "Fully Remote", "Remote - US", etc.)
         return not bool(_NON_US_COUNTRY_RE.search(loc))
 
+    # Bare "US" / "USA" / "United States" (no city), e.g. Stripe's location
+    # field for its remote-eligible-anywhere-in-US postings.
+    if _US_RE.search(loc) and not _NON_US_COUNTRY_RE.search(loc):
+        return True
+
     # Non-remote: DC metro only
     return bool(_DC_METRO_RE.search(loc))
