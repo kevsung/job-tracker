@@ -77,6 +77,14 @@ _US_RE = re.compile(
     re.I,
 )
 
+# Matches a location segment that IS a US country name, and nothing else
+# (no city/state), e.g. "US", "USA", "United States" but not
+# "San Francisco, United States".
+_US_ONLY_RE = re.compile(
+    r"^(united\s+states|u\.s\.a?\.?|usa|us)$",
+    re.I,
+)
+
 # Reject remote roles located in a non-US country/region.
 # "Remote" with no country, or "Remote - US / United States", is accepted.
 _NON_US_COUNTRY_RE = re.compile(
@@ -136,8 +144,11 @@ def location_matches(location: str) -> bool:
         return not bool(_NON_US_COUNTRY_RE.search(loc))
 
     # Bare "US" / "USA" / "United States" (no city), e.g. Stripe's location
-    # field for its remote-eligible-anywhere-in-US postings.
-    if _US_RE.search(loc) and not _NON_US_COUNTRY_RE.search(loc):
+    # field for its remote-eligible-anywhere-in-US postings. Reject if any
+    # part of the location names a specific city/state, since that means
+    # the role is onsite at a particular office, not remote-anywhere.
+    parts = [p.strip() for p in re.split(r"[,;|•]", loc) if p.strip()]
+    if parts and all(_US_ONLY_RE.fullmatch(p) for p in parts):
         return True
 
     # Non-remote: DC metro only
