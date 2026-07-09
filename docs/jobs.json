@@ -1,5 +1,15 @@
 [
   {
+    "id": "greenhouse_databricks_8582991002",
+    "title": "Sales Dev AI Program Manager",
+    "location": "United States",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582991002",
+    "company": "Databricks",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-09"
+  },
+  {
     "id": "greenhouse_databricks_8535311002",
     "title": "Senior Customer Enablement Program Manager",
     "location": "United States",
@@ -160,11 +170,41 @@
     "first_seen": "2026-07-09"
   },
   {
+    "id": "greenhouse_stripe_8036325",
+    "title": "Project Manager, Global Expansion",
+    "location": "SF, SEA, NYC, CHI, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8036325",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_stripe_7517535",
+    "title": "Staff Product Manager, ML Foundations and GenAI",
+    "location": "Seattle, San Francisco, New York, US - Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7517535",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-09"
+  },
+  {
     "id": "greenhouse_nebius_4814389101",
     "title": "Technical Project Manager ",
     "location": "Remote - United States",
     "url": "https://careers.nebius.com/?gh_jid=4814389101",
     "company": "Nebius",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "ashby_cohere_fe2e2971-e2c0-43fd-9ab1-187571776a5d",
+    "title": "Product Manager,  Platform Experience & Developer Product",
+    "location": "Remote - Toronto",
+    "url": "https://jobs.ashbyhq.com/cohere/fe2e2971-e2c0-43fd-9ab1-187571776a5d",
+    "company": "Cohere",
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-09"
@@ -177,16 +217,6 @@
     "company": "Cohere",
     "tier": "Strong",
     "remote": false,
-    "first_seen": "2026-07-09"
-  },
-  {
-    "id": "ashby_cohere_fe2e2971-e2c0-43fd-9ab1-187571776a5d",
-    "title": "Product Manager,  Platform Experience & Developer Product",
-    "location": "Remote - Toronto",
-    "url": "https://jobs.ashbyhq.com/cohere/fe2e2971-e2c0-43fd-9ab1-187571776a5d",
-    "company": "Cohere",
-    "tier": "Strong",
-    "remote": true,
     "first_seen": "2026-07-09"
   },
   {
@@ -467,16 +497,6 @@
     "company": "DEPT",
     "tier": "Moderate",
     "remote": true,
-    "first_seen": "2026-07-09"
-  },
-  {
-    "id": "greenhouse_dept_8013447",
-    "title": "Project Manager (Media) ",
-    "location": "United States",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/8013447",
-    "company": "DEPT",
-    "tier": "Moderate",
-    "remote": false,
     "first_seen": "2026-07-09"
   },
   {
