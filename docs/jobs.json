@@ -1,5 +1,25 @@
 [
   {
+    "id": "greenhouse_pinterest_7494932",
+    "title": "Staff Product Manager, Advertiser Experience",
+    "location": "San Francisco, CA, US; Seattle, WA, US; Remote, CA, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494932",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_instacart_7769924",
+    "title": "Senior Product Manager, Risk Platform",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=7769924",
+    "company": "Instacart",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-09"
+  },
+  {
     "id": "greenhouse_reddit_7947049",
     "title": "Principal Technical Program Manager, Performance",
     "location": "Remote - United States",
@@ -45,16 +65,6 @@
     "location": "Remote in the US",
     "url": "https://stripe.com/jobs/search?gh_jid=8042055",
     "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-07"
-  },
-  {
-    "id": "greenhouse_chime_8609155002",
-    "title": "Senior Program Manager, OMX SOTO",
-    "location": "Remote, USA",
-    "url": "https://boards.greenhouse.io/chime/jobs/8609155002?gh_jid=8609155002",
-    "company": "Chime",
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-07"
@@ -365,16 +375,6 @@
     "location": "United States - Remote",
     "url": "https://instacart.careers/job/?gh_jid=8014060",
     "company": "Instacart",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-06-18"
-  },
-  {
-    "id": "greenhouse_discord_8530692002",
-    "title": "Senior Product Manager, Ad Formats",
-    "location": "San Francisco Bay Area or Remote (U.S.)",
-    "url": "https://job-boards.greenhouse.io/discord/jobs/8530692002",
-    "company": "Discord",
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-06-18"
