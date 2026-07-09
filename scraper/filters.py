@@ -61,6 +61,8 @@ _TITLE_PATTERNS = [
     re.compile(r"\bstaff\s+product\s+(operations|manager)", re.I),
     # Senior/Sr/Lead/Staff Product Operations (without "Manager" suffix)
     re.compile(r"\b(senior|sr\.?|lead|staff)\s+product\s+operations", re.I),
+    # Program Manager, Intake & Portfolio Management (any seniority, PMO-style titles)
+    re.compile(r"\bprogram\s+manager[,\s]+.{0,40}(intake|portfolio)", re.I),
 ]
 
 
