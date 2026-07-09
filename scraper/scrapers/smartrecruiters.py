@@ -27,7 +27,7 @@ def scrape_smartrecruiters(company_id: str) -> list[dict]:
                     "id": f"smartrecruiters_{company_id}_{job['id']}",
                     "title": job.get("name", ""),
                     "location": location,
-                    "url": job.get("ref", ""),
+                    "url": f"https://jobs.smartrecruiters.com/{company_id}/{job['id']}",
                 }
             )
         if offset + len(content) >= data.get("totalFound", 0):
