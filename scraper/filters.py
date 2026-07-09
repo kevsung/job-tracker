@@ -4,17 +4,15 @@ import re
 # Title matching
 # ---------------------------------------------------------------------------
 
+_SENIORITY = r"(?:(?:senior|sr\.?|staff|lead|principal)\s+)?"
+
 _TITLE_PATTERNS = [
-    # Senior / Sr. Program Manager (including Technical / Strategic)
-    re.compile(r"\b(sr\.?|senior)\s+(technical\s+|strategic\s+)?program\s+manager", re.I),
-    re.compile(r"\bprogram\s+manager[,\s\-]+(sr\.?|senior)", re.I),
-    # Staff Program Manager
-    re.compile(r"\bstaff\s+program\s+manager", re.I),
-    # Senior / Sr. Project Manager
-    re.compile(r"\b(sr\.?|senior)\s+project\s+manager", re.I),
-    re.compile(r"\bproject\s+manager[,\s\-]+(sr\.?|senior)", re.I),
-    # Technical Program Manager (any seniority)
-    re.compile(r"\btechnical\s+program\s+manager", re.I),
+    # Program Manager (any seniority, incl. unlabeled; Technical / Strategic optional)
+    re.compile(_SENIORITY + r"(?:technical\s+|strategic\s+)?program\s+manager\b", re.I),
+    re.compile(r"\bprogram\s+manager[,\s\-]+(sr\.?|senior|staff|lead|principal)", re.I),
+    # Project Manager (any seniority, incl. unlabeled)
+    re.compile(_SENIORITY + r"project\s+manager\b", re.I),
+    re.compile(r"\bproject\s+manager[,\s\-]+(sr\.?|senior|staff|lead|principal)", re.I),
     # Product Operations Manager
     re.compile(r"\bproduct\s+operations\s+manager", re.I),
     # Creative / Marketing Operations Manager
@@ -27,14 +25,12 @@ _TITLE_PATTERNS = [
     re.compile(r"\bdirector\s+of\s+(creative|marketing|product|program)\s+operations", re.I),
     # Creative Production Lead / Manager / Director (any seniority)
     re.compile(r"\b(senior|sr\.?|staff|lead)?\s*creative\s+production\s+(lead|manager|director)", re.I),
-    # Senior / Sr. / Staff / Lead Production Manager / Lead / Director
-    re.compile(r"\b(senior|sr\.?|staff|lead)\s+production\s+(manager|lead|director)", re.I),
-    # Lead Program Manager
-    re.compile(r"\blead\s+program\s+manager", re.I),
-    # Senior Manager, [something] Program/Project/PMO/Operations
-    re.compile(r"\bsenior\s+manager[,\s]+.{0,30}(program|project|pmo|operations)", re.I),
-    # Senior / Sr. / Staff / Lead Release Manager
-    re.compile(r"\b(senior|sr\.?|staff|lead)\s+release\s+manager", re.I),
+    # Production Manager / Lead / Director (any seniority, incl. unlabeled)
+    re.compile(_SENIORITY + r"production\s+(manager|lead|director)\b", re.I),
+    # Manager, [something] Program/Project/PMO/Operations (any seniority, incl. unlabeled)
+    re.compile(_SENIORITY + r"manager[,\s]+.{0,30}(program|project|pmo|operations)", re.I),
+    # Release Manager (any seniority, incl. unlabeled)
+    re.compile(_SENIORITY + r"release\s+manager\b", re.I),
     # Portfolio [Governance/Program/Project] ... Manager (words may intervene)
     re.compile(r"\bportfolio\s+(governance|program|project).{0,40}manager", re.I),
     # Program/Project Management Office  OR  PMO Lead/Manager/Director
@@ -42,19 +38,15 @@ _TITLE_PATTERNS = [
     re.compile(r"\bpmo\s+(lead|manager|director)\b", re.I),
     # Head of [Product Operations / Program Management / Creative Operations]
     re.compile(r"\bhead\s+of\s+(product\s+operations|program\s+management|creative\s+operations)", re.I),
-    # Senior / Sr. / Staff / Lead Manager, Program (suffix variant)
-    re.compile(r"\b(senior|sr\.?|staff|lead)\s+manager[,\s]+program", re.I),
-    # Senior / Sr. / Staff / Lead Delivery Manager (prefix + suffix variants)
-    re.compile(r"\b(senior|sr\.?|staff|lead)\s+delivery\s+manager", re.I),
+    # Delivery Manager (any seniority, incl. unlabeled)
+    re.compile(_SENIORITY + r"delivery\s+manager\b", re.I),
     re.compile(r"\bdelivery\s+manager[,\s\-]+(senior|sr\.?|staff|lead)", re.I),
-    # Senior PM with ad/advertising/operations/platform/growth/enablement context
-    re.compile(r"\bsenior\s+product\s+manager.{0,40}(ad|advertising|operations|platform|growth|enablement)", re.I),
+    # Product Manager with ad/advertising/operations/platform/growth/enablement context (any seniority)
+    re.compile(_SENIORITY + r"product\s+manager.{0,40}(ad|advertising|operations|platform|growth|enablement)", re.I),
     # Director / Head of advertising/marketing/creative/content operations
     re.compile(r"\b(director|head)\s+of\s+(advertising|marketing|creative|content)\s+operations", re.I),
-    # Senior PM with operations/platform/growth/enablement context (broader)
-    re.compile(r"\bsenior\s+product\s+manager.{0,40}(operations|platform|growth|enablement)", re.I),
-    # Senior/Sr/Staff/Lead Manager in media/advertising/creative/brand ops
-    re.compile(r"\b(senior|sr\.?|staff|lead)\s+manager.{0,40}(advertising|media|content|creative|brand)\s+operations", re.I),
+    # Manager in media/advertising/creative/brand ops (any seniority, incl. unlabeled)
+    re.compile(_SENIORITY + r"manager.{0,40}(advertising|media|content|creative|brand)\s+operations", re.I),
     # Program/Project/Operations Manager in advertising/media/monetization/revenue context
     re.compile(r"\b(program|project|operations)\s+manager.{0,40}(advertising|media|monetization|revenue)", re.I),
     # Staff Product Operations or Staff Product Manager
