@@ -1,5 +1,15 @@
 [
   {
+    "id": "greenhouse_stripe_7685855",
+    "title": "Technical Program Manager, Risk",
+    "location": "US Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7685855",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-10"
+  },
+  {
     "id": "greenhouse_viralnation_5106444007",
     "title": "Sr. Project Manager",
     "location": "United States",
@@ -160,20 +170,20 @@
     "first_seen": "2026-07-09"
   },
   {
-    "id": "greenhouse_stripe_7917252",
+    "id": "greenhouse_stripe_7966641",
     "title": "Program Manager, Security Business Enablement",
-    "location": "US - Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=7917252",
+    "location": "US-REMOTE",
+    "url": "https://stripe.com/jobs/search?gh_jid=7966641",
     "company": "Stripe",
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-09"
   },
   {
-    "id": "greenhouse_stripe_7966641",
+    "id": "greenhouse_stripe_7917252",
     "title": "Program Manager, Security Business Enablement",
-    "location": "US-REMOTE",
-    "url": "https://stripe.com/jobs/search?gh_jid=7966641",
+    "location": "US - Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7917252",
     "company": "Stripe",
     "tier": "Strong",
     "remote": true,
