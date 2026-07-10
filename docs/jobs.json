@@ -10,6 +10,26 @@
     "first_seen": "2026-07-10"
   },
   {
+    "id": "greenhouse_customerio_8054502",
+    "title": "Technical Marketing Operations Manager",
+    "location": "Americas Remote",
+    "url": "https://job-boards.greenhouse.io/customerio/jobs/8054502",
+    "company": "Customer.io",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-10"
+  },
+  {
+    "id": "greenhouse_webflow_8054709",
+    "title": "Staff Product Manager, AI",
+    "location": "CA Remote (BC & ON only); U.S. Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/8054709",
+    "company": "Webflow",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-10"
+  },
+  {
     "id": "greenhouse_viralnation_5106444007",
     "title": "Sr. Project Manager",
     "location": "United States",
@@ -751,7 +771,7 @@
   },
   {
     "id": "greenhouse_gomotive_8303849002",
-    "title": "Staff Product Manager, Data Platform",
+    "title": "Staff Product Manager, Telematics Platform",
     "location": "United States - Remote",
     "url": "https://job-boards.greenhouse.io/gomotive/jobs/8303849002",
     "company": "Motive",
