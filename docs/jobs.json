@@ -1,5 +1,15 @@
 [
   {
+    "id": "greenhouse_nebius_4925081101",
+    "title": "Senior Program Manager, GTM Systems ",
+    "location": "United States",
+    "url": "https://careers.nebius.com/?gh_jid=4925081101",
+    "company": "Nebius",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-13"
+  },
+  {
     "id": "greenhouse_stripe_7685855",
     "title": "Technical Program Manager, Risk",
     "location": "US Remote",
@@ -190,20 +200,20 @@
     "first_seen": "2026-07-09"
   },
   {
-    "id": "greenhouse_stripe_7966641",
+    "id": "greenhouse_stripe_7917252",
     "title": "Program Manager, Security Business Enablement",
-    "location": "US-REMOTE",
-    "url": "https://stripe.com/jobs/search?gh_jid=7966641",
+    "location": "US - Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7917252",
     "company": "Stripe",
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-09"
   },
   {
-    "id": "greenhouse_stripe_7917252",
+    "id": "greenhouse_stripe_7966641",
     "title": "Program Manager, Security Business Enablement",
-    "location": "US - Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=7917252",
+    "location": "US-REMOTE",
+    "url": "https://stripe.com/jobs/search?gh_jid=7966641",
     "company": "Stripe",
     "tier": "Strong",
     "remote": true,
@@ -1018,16 +1028,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-05-29"
-  },
-  {
-    "id": "greenhouse_instacart_7964681",
-    "title": "Senior Program Manager, Quality Assurance",
-    "location": "United States - Remote",
-    "url": "https://instacart.careers/job/?gh_jid=7964681",
-    "company": "Instacart",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-05-28"
   },
   {
     "id": "greenhouse_pinterest_7957799",
