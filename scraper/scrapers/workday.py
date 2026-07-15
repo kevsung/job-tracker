@@ -33,6 +33,7 @@ def scrape_workday(tenant: str, board: str, wd_subdomain: str = "wd5") -> list[d
                     "title": job.get("title", ""),
                     "location": job.get("locationsText", ""),
                     "url": f"{base}/en-US/{board}{path}",
+                    "posted_date": "",
                 }
             )
         if len(postings) < _LIMIT:

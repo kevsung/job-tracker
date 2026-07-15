@@ -98,6 +98,7 @@ def run(tiers: list[str] | None = None) -> None:
                 job["tier"] = tier
                 job["remote"] = "remote" in job["location"].lower()
                 job["first_seen"] = existing[job["id"]]["first_seen"] if job["id"] in existing else today
+                job["posted_date"] = job.get("posted_date") or job["first_seen"]
                 new_data[job["id"]] = job
             time.sleep(0.5)
 
@@ -109,7 +110,7 @@ def run(tiers: list[str] | None = None) -> None:
             old = existing[jid]
             log.info("  - %s: %s", old.get("company", "?"), old.get("title", "?"))
 
-    jobs_list = sorted(new_data.values(), key=lambda j: j["first_seen"], reverse=True)
+    jobs_list = sorted(new_data.values(), key=lambda j: j.get("posted_date", j["first_seen"]), reverse=True)
     JOBS_FILE.write_text(json.dumps(jobs_list, indent=2, ensure_ascii=False), encoding="utf-8")
     log.info("Saved %d jobs → %s", len(jobs_list), JOBS_FILE)
 

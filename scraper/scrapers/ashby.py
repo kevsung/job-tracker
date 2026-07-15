@@ -21,6 +21,7 @@ def scrape_ashby(slug: str) -> list[dict]:
                 "title": job.get("title", ""),
                 "location": location,
                 "url": job.get("jobUrl", ""),
+                "posted_date": (job.get("publishedAt") or "")[:10],
             }
         )
     return jobs

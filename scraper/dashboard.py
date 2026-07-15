@@ -11,133 +11,76 @@ MANUAL_COMPANIES = [
         "name": "GitHub (Microsoft)",
         "tier": "Strong",
         "url": "https://www.github.careers/careers-home/jobs",
-        "reason": "iCIMS — JS-rendered, no public API",
     },
     {
         "name": "Cape",
         "tier": "Strong",
         "url": "https://www.cape.co/careers",
-        "reason": "Greenhouse board inactive",
     },
     {
         "name": "Nebius (location filter caveat)",
         "tier": "Strong",
         "url": "https://careers.nebius.com",
-        "reason": "Some roles tagged 'United States' instead of 'Remote - United States' -- check board directly for roles that may not surface in scraper results",
     },
     {
         "name": "Lonely Planet",
         "tier": "Moderate",
         "url": "https://www.redventures.com/careers/brands/lonely-planet",
-        "reason": "Greenhouse board inactive — now on Red Ventures site",
     },
     {
         "name": "Indeed",
         "tier": "Moderate",
         "url": "https://indeed.com/cmp/indeed/jobs",
-        "reason": "Custom ATS — removed per user preference",
     },
     {
         "name": "Apex Systems",
         "tier": "Moderate",
         "url": "https://www.apexsystems.com/careers",
-        "reason": "Custom ATS — no structured job links in HTML",
     },
     {
         "name": "SweetRush",
         "tier": "Moderate",
         "url": "https://www.sweetrush.com/careers",
-        "reason": "Custom ATS — no structured job links in HTML",
     },
     {
         "name": "American Journalism Project",
         "tier": "Moderate",
         "url": "https://theajp.org/about/careers/",
-        "reason": "Greenhouse board inactive",
     },
     {
         "name": "Fetch",
         "tier": "Moderate",
         "url": "https://jobs.gem.com/fetch",
-        "reason": "Gem CRM — no public API",
     },
     {
         "name": "Akamai",
         "tier": "Moderate",
         "url": "https://jobs.akamai.com/en/sites/CX_1",
-        "reason": "iCIMS — JS-rendered, no public API",
     },
     {
         "name": "Pearson",
         "tier": "Moderate",
         "url": "https://pearson.jobs/jobs/",
-        "reason": "No structured job links in rendered HTML",
     },
     {
         "name": "Shutterfly",
         "tier": "Weak",
         "url": "https://shutterflycareers.ttcportals.com/search/jobs?q=&location=",
-        "reason": "TTC portal blocks automated scraping",
-    },
-    {
-        "name": "Black & Black Creative",
-        "tier": "Weak — Caveat Driven",
-        "url": "https://blackandblackcreative.com/careers",
-        "reason": "Careers URL dead",
-    },
-    {
-        "name": "Hovercraft Studio",
-        "tier": "Weak — Caveat Driven",
-        "url": "https://hovercraftstudio.com/careers",
-        "reason": "Careers URL dead",
-    },
-    {
-        "name": "Tellos Creative",
-        "tier": "Weak — Caveat Driven",
-        "url": "https://telloscreative.com/careers",
-        "reason": "Careers URL dead",
-    },
-    {
-        "name": "Space Dinosaurs",
-        "tier": "Weak — Caveat Driven",
-        "url": "https://spacedinosaursstudio.com",
-        "reason": "Domain does not resolve",
-    },
-    {
-        "name": "Pixalate",
-        "tier": "Weak — Caveat Driven",
-        "url": "https://pixalate.applytojob.com/apply",
-        "reason": "ApplyToJob ATS — no API",
-    },
-    {
-        "name": "That's No Moon",
-        "tier": "Weak — Caveat Driven",
-        "url": "https://job-boards.greenhouse.io/thatsnomoonentertainment",
-        "reason": "Greenhouse board exists but niche studio — check manually",
-    },
-    {
-        "name": "Baylor Genetics",
-        "tier": "Weak — Caveat Driven",
-        "url": "https://recruiting2.ultipro.com/BAY1006BML/JobBoard/0669eed3-5441-4f8e-a7b1-c5df596a4dfe/?q=&o=postedDateDesc",
-        "reason": "UltiPro ATS — no standard API",
     },
     {
         "name": "Paylocity",
         "tier": "Fair",
         "url": "https://www.paylocity.com/company/careers/all-listings/",
-        "reason": "Paylocity ATS — GUID-based API but board returns no listings",
     },
     {
         "name": "Function Health",
         "tier": "Moderate",
         "url": "https://jobs.gem.com/function-health",
-        "reason": "Gem CRM -- no public API",
     },
     {
         "name": "GC AI",
         "tier": "Strong",
         "url": "https://gc.ai/company/careers#openings",
-        "reason": "Gem CRM -- no public API",
     },
 ]
 
@@ -231,10 +174,8 @@ _TEMPLATE = """\
           <th class="px-5 py-3 text-left font-semibold">Tier</th>
           <th class="px-5 py-3 text-left font-semibold cursor-pointer select-none"
               onclick="sort('title')">Title <span class="text-gray-300">&#8597;</span></th>
-          <th class="px-5 py-3 text-left font-semibold">Location</th>
-          <th class="px-5 py-3 text-left font-semibold">Remote</th>
           <th class="px-5 py-3 text-left font-semibold cursor-pointer select-none"
-              onclick="sort('first_seen')">First Seen <span class="text-gray-300">&#8597;</span></th>
+              onclick="sort('posted_date')">Posted Date <span class="text-gray-300">&#8597;</span></th>
           <th class="px-5 py-3 text-left font-semibold">Link</th>
         </tr>
       </thead>
@@ -281,7 +222,7 @@ const TIER_BADGE = {
   "Weak with Caveats": "bg-rose-100 text-rose-800",
 };
 
-let sortKey = "first_seen", sortDir = -1;
+let sortKey = "posted_date", sortDir = -1;
 let activeTiers = new Set(["Strong","Moderate","Fair","Weak","Weak with Caveats"]);
 let worktype = "all";
 let coSearch = "";
@@ -323,9 +264,7 @@ function render(){
         <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold ${TIER_BADGE[j.tier]||'bg-gray-100 text-gray-700'}">${esc(j.tier)}</span>
       </td>
       <td class="px-5 py-3 text-gray-800">${esc(j.title)}</td>
-      <td class="px-5 py-3 text-gray-500">${esc(j.location)}</td>
-      <td class="px-5 py-3">${j.remote?'<span class="text-emerald-600 font-medium">Yes</span>':'<span class="text-gray-300">No</span>'}</td>
-      <td class="px-5 py-3 text-gray-400">${esc(j.first_seen)}</td>
+      <td class="px-5 py-3 text-gray-400">${esc(j.posted_date)}</td>
       <td class="px-5 py-3">
         <a href="${esc(j.url)}" target="_blank" rel="noopener noreferrer"
            class="text-indigo-600 hover:text-indigo-800 hover:underline font-medium">Apply &#8599;</a>
@@ -364,14 +303,13 @@ document.getElementById("manual-grid").innerHTML = MANUAL.map(m=>`
          class="font-semibold text-gray-900 hover:text-indigo-600 hover:underline leading-snug">${esc(m.name)}</a>
       <span class="shrink-0 px-2.5 py-0.5 rounded-full text-xs font-semibold ${TIER_BADGE[m.tier]||'bg-gray-100 text-gray-700'}">${esc(m.tier)}</span>
     </div>
-    <p class="text-xs text-gray-400">${esc(m.reason)}</p>
   </div>`).join("");
 </script>
 </body>
 </html>"""
 
 
-_TIER_ORDER = {"Strong": 0, "Moderate": 1, "Fair": 2, "Weak": 3, "Weak — Caveat Driven": 4}
+_TIER_ORDER = {"Strong": 0, "Moderate": 1, "Fair": 2, "Weak": 3}
 
 
 def render_dashboard(jobs: list[dict], output_path: Path) -> None:

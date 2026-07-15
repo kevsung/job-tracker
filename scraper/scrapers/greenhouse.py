@@ -13,6 +13,7 @@ def scrape_greenhouse(slug: str) -> list[dict]:
             "title": job.get("title", ""),
             "location": job.get("location", {}).get("name", ""),
             "url": job.get("absolute_url", ""),
+            "posted_date": (job.get("first_published") or "")[:10],
         }
         for job in resp.json().get("jobs", [])
     ]
