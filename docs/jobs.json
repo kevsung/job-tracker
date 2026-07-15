@@ -1,5 +1,105 @@
 [
   {
+    "id": "greenhouse_stripe_8065643",
+    "title": "Head of Marketing Operations",
+    "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Toronto, Remote in the US, Remote in Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8065643",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-15"
+  },
+  {
+    "id": "greenhouse_mercury_6013388004",
+    "title": "Customer Support Strategic Program Manager",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6013388004",
+    "company": "Mercury",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-15"
+  },
+  {
+    "id": "greenhouse_mercury_6097329004",
+    "title": "Head of Technical Program Management - Banking",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6097329004",
+    "company": "Mercury",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-15"
+  },
+  {
+    "id": "greenhouse_mercury_6115935004",
+    "title": "Staff Design Operations Program Manager",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6115935004",
+    "company": "Mercury",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-15"
+  },
+  {
+    "id": "greenhouse_mercury_5867562004",
+    "title": "Staff Product Manager - API & Agentic Banking",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
+    "company": "Mercury",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-15"
+  },
+  {
+    "id": "ashby_1password_56ffab65-2953-42ee-ae84-04c3e9d9c38c",
+    "title": "Staff Product Manager, Developer Workflows",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/56ffab65-2953-42ee-ae84-04c3e9d9c38c",
+    "company": "1Password",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-15"
+  },
+  {
+    "id": "greenhouse_nice_4880908101",
+    "title": "Director, Program Management, CX",
+    "location": "USA - Remote",
+    "url": "https://boards.eu.greenhouse.io/nice/jobs/4880908101?gh_jid=4880908101",
+    "company": "NICE",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-15"
+  },
+  {
+    "id": "greenhouse_life360_8627517002",
+    "title": "Staff Technical Program Manager, AI Native",
+    "location": "Remote, USA; Remote, Canada",
+    "url": "https://job-boards.greenhouse.io/life360/jobs/8627517002",
+    "company": "Life360",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-15"
+  },
+  {
+    "id": "greenhouse_dept_8049738",
+    "title": "Director, Program Management (Adobe Technical)",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8049738",
+    "company": "DEPT",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-07-15"
+  },
+  {
+    "id": "greenhouse_dept_8049696",
+    "title": "Group Director, Program Management (Adobe-Technical) ",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8049696",
+    "company": "DEPT",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-07-15"
+  },
+  {
     "id": "greenhouse_stripe_8055659",
     "title": "Risk Operations Program Manager",
     "location": "US-Remote",
