@@ -22,6 +22,9 @@ _TITLE_PATTERNS = [
     # Program Manager (any seniority, incl. unlabeled; Technical / Strategic optional)
     re.compile(_SENIORITY + r"(?:technical\s+|strategic\s+)?program\s+manager\b", re.I),
     re.compile(r"\bprogram\s+manager[,\s\-]+(sr\.?|senior|staff|lead|principal)", re.I),
+    # Seniority + qualifier word(s) + Program Manager, e.g. "Staff Design
+    # Operations Program Manager" (seniority not immediately adjacent)
+    re.compile(r"\b(?:senior|sr\.?|staff|lead|principal)\s+[\w/&\-]+(?:\s+[\w/&\-]+){0,3}\s+program\s+manager\b", re.I),
     # Project Manager (any seniority, incl. unlabeled)
     re.compile(_SENIORITY + r"project\s+manager\b", re.I),
     re.compile(r"\bproject\s+manager[,\s\-]+(sr\.?|senior|staff|lead|principal)", re.I),
@@ -50,6 +53,9 @@ _TITLE_PATTERNS = [
     re.compile(r"\bpmo\s+(lead|manager|director)\b", re.I),
     # Head of [Product Operations / Program Management / Creative Operations]
     re.compile(r"\bhead\s+of\s+(product\s+operations|program\s+management|creative\s+operations)", re.I),
+    # Head of [qualifier] Program Management, e.g. "Head of Technical Program
+    # Management" (qualifier word(s) between "of" and "program management")
+    re.compile(r"\bhead\s+of\s+[\w/&\-]+(?:\s+[\w/&\-]+){0,2}\s+program\s+management\b", re.I),
     # Delivery Manager (any seniority, incl. unlabeled)
     re.compile(_SENIORITY + r"delivery\s+manager\b", re.I),
     re.compile(r"\bdelivery\s+manager[,\s\-]+(senior|sr\.?|staff|lead)", re.I),
