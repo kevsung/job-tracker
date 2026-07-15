@@ -228,6 +228,7 @@ let worktype = "all";
 let coSearch = "";
 
 function esc(s){ return String(s??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function postedDate(j){ return j.posted_date || j.first_seen || ''; }
 function isNew(j){ return j.first_seen === LAST_UPDATED_DATE; }
 
 function filtered(){
@@ -238,7 +239,8 @@ function filtered(){
     if(coSearch && !j.company.toLowerCase().includes(coSearch)) return false;
     return true;
   }).sort((a,b)=>{
-    const av=a[sortKey]??"", bv=b[sortKey]??"";
+    const av=sortKey==="posted_date"?postedDate(a):(a[sortKey]??"");
+    const bv=sortKey==="posted_date"?postedDate(b):(b[sortKey]??"");
     return av<bv ? sortDir : av>bv ? -sortDir : 0;
   });
 }
@@ -264,7 +266,7 @@ function render(){
         <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold ${TIER_BADGE[j.tier]||'bg-gray-100 text-gray-700'}">${esc(j.tier)}</span>
       </td>
       <td class="px-5 py-3 text-gray-800">${esc(j.title)}</td>
-      <td class="px-5 py-3 text-gray-400">${esc(j.posted_date)}</td>
+      <td class="px-5 py-3 text-gray-400">${esc(postedDate(j))}</td>
       <td class="px-5 py-3">
         <a href="${esc(j.url)}" target="_blank" rel="noopener noreferrer"
            class="text-indigo-600 hover:text-indigo-800 hover:underline font-medium">Apply &#8599;</a>

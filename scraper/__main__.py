@@ -3,7 +3,7 @@ import json
 import logging
 import sys
 import time
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
@@ -30,6 +30,11 @@ log = logging.getLogger(__name__)
 
 DOCS_DIR = Path(__file__).parent.parent / "docs"
 JOBS_FILE = DOCS_DIR / "jobs.json"
+STALE_DAYS = 90
+
+
+def effective_date(job: dict) -> str:
+    return job.get("posted_date") or job.get("first_seen", "")
 
 
 def load_existing() -> dict[str, dict]:
@@ -88,6 +93,7 @@ def run(tiers: list[str] | None = None) -> None:
         if tier not in tiers_to_scrape:
             for job_id, job in existing.items():
                 if job.get("tier") == tier:
+                    job["posted_date"] = effective_date(job)
                     new_data[job_id] = job
             continue
 
@@ -98,7 +104,7 @@ def run(tiers: list[str] | None = None) -> None:
                 job["tier"] = tier
                 job["remote"] = "remote" in job["location"].lower()
                 job["first_seen"] = existing[job["id"]]["first_seen"] if job["id"] in existing else today
-                job["posted_date"] = job.get("posted_date") or job["first_seen"]
+                job["posted_date"] = effective_date(job) or today
                 new_data[job["id"]] = job
             time.sleep(0.5)
 
@@ -110,7 +116,15 @@ def run(tiers: list[str] | None = None) -> None:
             old = existing[jid]
             log.info("  - %s: %s", old.get("company", "?"), old.get("title", "?"))
 
-    jobs_list = sorted(new_data.values(), key=lambda j: j.get("posted_date", j["first_seen"]), reverse=True)
+    cutoff = (date.today() - timedelta(days=STALE_DAYS)).isoformat()
+    stale = [j for j in new_data.values() if effective_date(j) < cutoff]
+    if stale:
+        log.info("Removing %d stale listing(s) older than %d days:", len(stale), STALE_DAYS)
+        for j in stale:
+            log.info("  - %s: %s (%s)", j.get("company", "?"), j.get("title", "?"), effective_date(j))
+            del new_data[j["id"]]
+
+    jobs_list = sorted(new_data.values(), key=effective_date, reverse=True)
     JOBS_FILE.write_text(json.dumps(jobs_list, indent=2, ensure_ascii=False), encoding="utf-8")
     log.info("Saved %d jobs → %s", len(jobs_list), JOBS_FILE)
 
