@@ -222,7 +222,7 @@ const TIER_BADGE = {
   "Weak with Caveats": "bg-rose-100 text-rose-800",
 };
 
-let sortKey = "posted_date", sortDir = -1;
+let sortKey = "posted_date", sortDir = 1;
 let activeTiers = new Set(["Strong","Moderate","Fair","Weak","Weak with Caveats"]);
 let worktype = "all";
 let coSearch = "";
