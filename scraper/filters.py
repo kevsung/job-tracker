@@ -22,6 +22,14 @@ _TITLE_PATTERNS = [
     # Program Manager (any seniority, incl. unlabeled; Technical / Strategic optional)
     re.compile(_SENIORITY + r"(?:technical\s+|strategic\s+)?program\s+manager\b", re.I),
     re.compile(r"\bprogram\s+manager[,\s\-]+(sr\.?|senior|staff|lead|principal)", re.I),
+    # Programme Manager (British spelling)
+    re.compile(_SENIORITY + r"programme\s+manager\b", re.I),
+    # Program/Project Management Lead / Director (no "Manager" suffix)
+    re.compile(_SENIORITY + r"(program|project)\s+management\s+(lead|director)\b", re.I),
+    re.compile(r"\b(lead|director),?\s+(program|project)\s+management\b", re.I),
+    # Bare TPM / PgM abbreviations (Technical Program Manager / Program Manager)
+    re.compile(r"\btpm\b", re.I),
+    re.compile(r"\bpgm\b", re.I),
     # Seniority + qualifier word(s) + Program Manager, e.g. "Staff Design
     # Operations Program Manager" (seniority not immediately adjacent)
     re.compile(r"\b(?:senior|sr\.?|staff|lead|principal)\s+[\w/&\-]+(?:\s+[\w/&\-]+){0,3}\s+program\s+manager\b", re.I),
@@ -153,8 +161,12 @@ def location_matches(location: str) -> bool:
     loc = location.strip()
 
     if re.search(r"\bremote\b", loc, re.I):
-        # Reject if any non-US country is named; otherwise accept
-        # (covers "Remote", "Fully Remote", "Remote - US", etc.)
+        # Accept if a US option is explicitly named, even alongside other
+        # countries (e.g. "Remote within Canada or United States",
+        # "US-Remote; Canada-Remote"). Otherwise reject if any non-US
+        # country is named; bare "Remote" with no country is accepted.
+        if _US_RE.search(loc):
+            return True
         return not bool(_NON_US_COUNTRY_RE.search(loc))
 
     # Bare "US" / "USA" / "United States" (no city), e.g. Stripe's location
