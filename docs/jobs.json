@@ -1,5 +1,38 @@
 [
   {
+    "id": "greenhouse_stripe_8039954",
+    "title": "People Project Manager",
+    "location": "US-Remote, Atlanta, Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8039954",
+    "posted_date": "2026-07-16",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-16"
+  },
+  {
+    "id": "smartrecruiters_experian_744000138183459",
+    "title": "Senior Product Manager, AdTech Identity Graph - Remote",
+    "location": "United States, UNITED STATES, us",
+    "url": "https://jobs.smartrecruiters.com/experian/744000138183459",
+    "posted_date": "2026-07-16",
+    "company": "Experian",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-07-16"
+  },
+  {
+    "id": "greenhouse_pinterest_7638587",
+    "title": "Sr. Project & Program Manager",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7638587",
+    "posted_date": "2026-07-16",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-16"
+  },
+  {
     "id": "greenhouse_grafanalabs_6115634004",
     "title": " Demand Generation Program Manager | United States | Remote",
     "location": "United States (Remote)",
@@ -363,17 +396,6 @@
     "first_seen": "2026-06-22"
   },
   {
-    "id": "greenhouse_chime_8584954002",
-    "title": "Program Manager, Voice of the Member",
-    "location": "Remote, USA",
-    "url": "https://boards.greenhouse.io/chime/jobs/8584954002?gh_jid=8584954002",
-    "posted_date": "2026-06-22",
-    "company": "Chime",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-09"
-  },
-  {
     "id": "greenhouse_pinterest_7997974",
     "title": "Staff Technical Program Manager, SOX Compliance",
     "location": "San Francisco, CA, US; Remote, US",
@@ -484,17 +506,6 @@
     "first_seen": "2026-07-09"
   },
   {
-    "id": "greenhouse_stripe_7953899",
-    "title": "People Project Manager",
-    "location": "US-Remote, Atlanta, Chicago",
-    "url": "https://stripe.com/jobs/search?gh_jid=7953899",
-    "posted_date": "2026-06-08",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-09"
-  },
-  {
     "id": "greenhouse_stripe_7985196",
     "title": "Technical Program Manager, Service Infrastructure",
     "location": "Seattle, San Francisco, Remote in the US",
@@ -592,17 +603,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-15"
-  },
-  {
-    "id": "smartrecruiters_experian_744000129830129",
-    "title": "Senior Product Manager, AdTech Identity Graph - Remote",
-    "location": "United States, UNITED STATES, us",
-    "url": "https://jobs.smartrecruiters.com/experian/744000129830129",
-    "posted_date": "2026-06-02",
-    "company": "Experian",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-07-09"
   },
   {
     "id": "greenhouse_stripe_7966641",
@@ -748,17 +748,6 @@
     "first_seen": "2026-07-09"
   },
   {
-    "id": "smartrecruiters_experian_744000126565314",
-    "title": "Program Manager, Operational Excellence (Remote)",
-    "location": "United States, UNITED STATES, us",
-    "url": "https://jobs.smartrecruiters.com/experian/744000126565314",
-    "posted_date": "2026-05-14",
-    "company": "Experian",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-07-09"
-  },
-  {
     "id": "greenhouse_pinterest_7525112",
     "title": "Staff Product Manager, Connections",
     "location": "San Francisco, CA, US; Remote, US",
@@ -864,17 +853,6 @@
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770927",
     "posted_date": "2026-04-23",
     "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-05-12"
-  },
-  {
-    "id": "ashby_benepass_7f963a7a-aaad-456b-b12b-7f34b35d51cf",
-    "title": "Product Operations Manager",
-    "location": "U.S Remote",
-    "url": "https://jobs.ashbyhq.com/benepass/7f963a7a-aaad-456b-b12b-7f34b35d51cf",
-    "posted_date": "2026-04-22",
-    "company": "Benepass",
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-05-12"
