@@ -88,28 +88,6 @@
     "first_seen": "2026-07-10"
   },
   {
-    "id": "greenhouse_viralnation_5106444007",
-    "title": "Sr. Project Manager",
-    "location": "United States",
-    "url": "https://job-boards.greenhouse.io/viralnation/jobs/5106444007",
-    "company": "Viral Nation",
-    "tier": "Fair",
-    "remote": false,
-    "first_seen": "2026-07-10",
-    "posted_date": "2026-07-10"
-  },
-  {
-    "id": "greenhouse_dropbox_7773721",
-    "title": "Senior Governance, Risk, & Compliance Program Manager",
-    "location": "Remote - US: Select locations",
-    "url": "https://jobs.dropbox.com/listing/7773721?gh_jid=7773721",
-    "company": "Dropbox",
-    "tier": "Weak",
-    "remote": true,
-    "first_seen": "2026-07-10",
-    "posted_date": "2026-07-10"
-  },
-  {
     "id": "greenhouse_databricks_8582991002",
     "title": "Sales Dev AI Program Manager",
     "location": "United States",
@@ -418,17 +396,6 @@
     "first_seen": "2026-07-09"
   },
   {
-    "id": "greenhouse_dropbox_7977587",
-    "title": "Staff Product Manager",
-    "location": "Remote - US: Select locations",
-    "url": "https://jobs.dropbox.com/listing/7977587?gh_jid=7977587",
-    "company": "Dropbox",
-    "tier": "Weak",
-    "remote": true,
-    "first_seen": "2026-06-19",
-    "posted_date": "2026-06-19"
-  },
-  {
     "id": "greenhouse_mercury_6097329004",
     "title": "Head of Technical Program Management - Banking",
     "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
@@ -570,6 +537,17 @@
     "tier": "Moderate",
     "remote": false,
     "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_dropbox_7977587",
+    "title": "Staff Product Manager",
+    "location": "Remote - US: Select locations",
+    "url": "https://jobs.dropbox.com/listing/7977587?gh_jid=7977587",
+    "posted_date": "2026-06-04",
+    "company": "Dropbox",
+    "tier": "Weak",
+    "remote": true,
+    "first_seen": "2026-06-19"
   },
   {
     "id": "greenhouse_stripe_7980498",
@@ -944,16 +922,5 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-05-12"
-  },
-  {
-    "id": "greenhouse_stripe_7656504",
-    "title": "Program Manager, GTM Planning",
-    "location": "US-Chicago, US-Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=7656504",
-    "posted_date": "2026-04-16",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-09"
   }
 ]
