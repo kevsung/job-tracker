@@ -1,5 +1,16 @@
 [
   {
+    "id": "greenhouse_samsara_8053373",
+    "title": "Sr. Marketing Operations Manager - Global Lead Flow",
+    "location": "Remote - US",
+    "url": "https://www.samsara.com/company/careers/roles/8053373?gh_jid=8053373",
+    "posted_date": "2026-07-16",
+    "company": "Samsara",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-17"
+  },
+  {
     "id": "greenhouse_stripe_8039954",
     "title": "People Project Manager",
     "location": "US-Remote, Atlanta, Chicago",
@@ -31,6 +42,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-16"
+  },
+  {
+    "id": "greenhouse_dept_8070783",
+    "title": "Account Manager, Programmatic",
+    "location": "US (Remote)",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8070783",
+    "posted_date": "2026-07-16",
+    "company": "DEPT",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-17"
   },
   {
     "id": "greenhouse_grafanalabs_6115634004",
@@ -341,17 +363,6 @@
     "first_seen": "2026-07-01"
   },
   {
-    "id": "greenhouse_oura_4301722009",
-    "title": "Senior Product Manager, Growth",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/oura/jobs/4301722009",
-    "posted_date": "2026-06-30",
-    "company": "Oura",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-06-30"
-  },
-  {
     "id": "greenhouse_pinterest_7782569",
     "title": "Sr. Engineering Manager, Programmatic Ad Tech, tvScientific",
     "location": "San Francisco, CA, US; Remote, US",
@@ -372,17 +383,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-15"
-  },
-  {
-    "id": "greenhouse_dept_8026224",
-    "title": "Freelance Manager, Programmatic - Part-Time",
-    "location": "AZ, US, UT, US, OR, US, CA, US, WA, IL, US, NY, US, FL, US, US - Remote",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/8026224",
-    "posted_date": "2026-06-29",
-    "company": "DEPT",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-09"
   },
   {
     "id": "greenhouse_hubspotjobs_7741756",
@@ -715,17 +715,6 @@
     "first_seen": "2026-07-09"
   },
   {
-    "id": "greenhouse_airbnb_7936526",
-    "title": "Senior Release Manager, CS Platform",
-    "location": "United States",
-    "url": "https://careers.airbnb.com/positions/7936526?gh_jid=7936526",
-    "posted_date": "2026-05-18",
-    "company": "Airbnb",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-07-09"
-  },
-  {
     "id": "greenhouse_stripe_7917252",
     "title": "Program Manager, Security Business Enablement",
     "location": "US - Remote",
@@ -878,16 +867,5 @@
     "tier": "Moderate",
     "remote": false,
     "first_seen": "2026-07-09"
-  },
-  {
-    "id": "greenhouse_instacart_7826880",
-    "title": "Bilingual Staff Technical Program Manager, Global Enterprise Fulfillment Platform",
-    "location": "United States - Remote",
-    "url": "https://instacart.careers/job/?gh_jid=7826880",
-    "posted_date": "2026-04-17",
-    "company": "Instacart",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-05-12"
   }
 ]
