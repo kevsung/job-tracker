@@ -1,5 +1,27 @@
 [
   {
+    "id": "greenhouse_doordashusa_8073126",
+    "title": "Manager, Sales Strategy & Operations, Commerce Platform",
+    "location": "San Francisco, CA; New York, NY; Atlanta, GA; Chicago, IL; Denver, CO; Washington, DC; Austin, TX; Phoenix, AZ; Los Angeles, CA; Seattle, WA; Boston, MA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8073126",
+    "posted_date": "2026-07-20",
+    "company": "DoorDash",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-20"
+  },
+  {
+    "id": "greenhouse_hubspotjobs_8042918",
+    "title": "Staff Product Manager, Ads",
+    "location": "Remote - USA",
+    "url": "https://www.hubspot.com/careers/jobs/8042918?gh_jid=8042918",
+    "posted_date": "2026-07-20",
+    "company": "HubSpot",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-20"
+  },
+  {
     "id": "workday_draftkings_8a62d56de2bc",
     "title": "Manager, iGaming Operations & Personalization",
     "location": "Remote - US",
@@ -31,6 +53,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-17"
+  },
+  {
+    "id": "greenhouse_doordashusa_8064747",
+    "title": "Associate Manager, Strategy & Operations for Marketing Products, In-Store",
+    "location": "New York, NY; Miami, FL; Washington D.C.",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8064747",
+    "posted_date": "2026-07-16",
+    "company": "DoorDash",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-20"
   },
   {
     "id": "greenhouse_samsara_8053373",
@@ -385,6 +418,17 @@
     "first_seen": "2026-07-09"
   },
   {
+    "id": "greenhouse_doordashusa_8037031",
+    "title": "Associate Manager, DashMart - Grocery Strategy & Operations",
+    "location": "San Francisco, CA; Los Angeles, CA; Seattle, WA; Chicago, IL; Phoenix, AZ; Washington D.C.; New York, NY",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8037031",
+    "posted_date": "2026-06-29",
+    "company": "DoorDash",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-20"
+  },
+  {
     "id": "ashby_1password_56ffab65-2953-42ee-ae84-04c3e9d9c38c",
     "title": "Staff Product Manager, Developer Workflows",
     "location": "Remote (United States | Canada)",
@@ -495,6 +539,28 @@
     "first_seen": "2026-07-09"
   },
   {
+    "id": "greenhouse_doordashusa_7996727",
+    "title": "Associate Manager, Strategy & Operations",
+    "location": "New York, NY; Washington, D.C,; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7996727",
+    "posted_date": "2026-06-11",
+    "company": "DoorDash",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-20"
+  },
+  {
+    "id": "greenhouse_doordashusa_7996665",
+    "title": "Associate Manager, New Verticals Strategy & Operations - Merchant Finance",
+    "location": "New York, NY; San Francisco, CA; United States - Remote",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7996665",
+    "posted_date": "2026-06-10",
+    "company": "DoorDash",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-20"
+  },
+  {
     "id": "greenhouse_stripe_7991528",
     "title": "Creative Producer, Link",
     "location": "US",
@@ -517,6 +583,17 @@
     "first_seen": "2026-07-09"
   },
   {
+    "id": "greenhouse_doordashusa_7983403",
+    "title": "Associate Manager, Strategy and Operations, Fraud",
+    "location": "New York, NY; San Francisco, CA; Chicago, IL; United States - Remote",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7983403",
+    "posted_date": "2026-06-08",
+    "company": "DoorDash",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-20"
+  },
+  {
     "id": "greenhouse_stripe_7985196",
     "title": "Technical Program Manager, Service Infrastructure",
     "location": "Seattle, San Francisco, Remote in the US",
@@ -537,6 +614,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_doordashusa_7983274",
+    "title": "Associate Manager, Sales Strategy & Operations",
+    "location": "Atlanta, GA; Austin, TX; Boston, MA; Chicago, IL; Denver, CO; Los Angeles, CA; New York, NY; Tempe, AZ; San Francisco, CA; Seattle, WA; Washington D.C.",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7983274",
+    "posted_date": "2026-06-04",
+    "company": "DoorDash",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-20"
   },
   {
     "id": "greenhouse_pinterest_7955593",
@@ -627,6 +715,17 @@
     "first_seen": "2026-05-29"
   },
   {
+    "id": "greenhouse_doordashusa_7958787",
+    "title": "Manager, Dasher & Logistics Strategy & Operations",
+    "location": "New York, NY; Austin, TX; Washington D.C.; San Francisco, CA; Sunnyvale, CA; Seattle, WA; Los Angeles, CA; Chicago, IL",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7958787",
+    "posted_date": "2026-05-27",
+    "company": "DoorDash",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-20"
+  },
+  {
     "id": "greenhouse_pinterest_7957799",
     "title": "Staff Technical Program Manager, Search Relevance",
     "location": "San Francisco, CA, US; Remote, US",
@@ -680,6 +779,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-06-18"
+  },
+  {
+    "id": "greenhouse_doordashusa_7940194",
+    "title": "Associate Manager, New Verticals - Strategy & Operations",
+    "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Seattle, WA; Washington D.C.",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7940194",
+    "posted_date": "2026-05-20",
+    "company": "DoorDash",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-20"
   },
   {
     "id": "greenhouse_reddit_7947049",
@@ -812,6 +922,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_doordashusa_7875471",
+    "title": "Manager, Sales Strategy & Operations",
+    "location": "San Francisco, CA; New York, NY; Atlanta, GA; Chicago, IL; Denver, CO; Washington, DC; Austin, TX; Phoenix, AZ; Los Angeles, CA; Seattle, WA; Boston, MA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7875471",
+    "posted_date": "2026-05-04",
+    "company": "DoorDash",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-20"
   },
   {
     "id": "greenhouse_samsara_7864137",
