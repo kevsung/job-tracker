@@ -22,6 +22,39 @@
     "first_seen": "2026-07-20"
   },
   {
+    "id": "rippling_rippling_ce9bf549-cd9d-4dcc-8121-98629fdeffd5",
+    "title": "Senior Manager, Support Operations",
+    "location": "Remote (United States)",
+    "url": "https://ats.rippling.com/rippling/jobs/ce9bf549-cd9d-4dcc-8121-98629fdeffd5",
+    "company": "Rippling",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-20",
+    "posted_date": "2026-07-20"
+  },
+  {
+    "id": "greenhouse_oura_4323420009",
+    "title": "Program Management Lead, Emerging Markets, Americas",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/oura/jobs/4323420009",
+    "posted_date": "2026-07-20",
+    "company": "Oura",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-20"
+  },
+  {
+    "id": "greenhouse_instacart_8074453",
+    "title": "Manager, IT Operations",
+    "location": "San Francisco, Bay Area - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=8074453",
+    "posted_date": "2026-07-20",
+    "company": "Instacart",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-20"
+  },
+  {
     "id": "workday_draftkings_8a62d56de2bc",
     "title": "Manager, iGaming Operations & Personalization",
     "location": "Remote - US",
@@ -473,17 +506,6 @@
     "first_seen": "2026-07-09"
   },
   {
-    "id": "greenhouse_mercury_6097329004",
-    "title": "Head of Technical Program Management - Banking",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/6097329004",
-    "posted_date": "2026-06-18",
-    "company": "Mercury",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-15"
-  },
-  {
     "id": "greenhouse_affirm_7776437003",
     "title": "Staff Product Manager, App Platform & Experience",
     "location": "Remote US",
@@ -680,17 +702,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-15"
-  },
-  {
-    "id": "greenhouse_instacart_7980420",
-    "title": "Program Manager II",
-    "location": "United States - Remote",
-    "url": "https://instacart.careers/job/?gh_jid=7980420",
-    "posted_date": "2026-06-03",
-    "company": "Instacart",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-09"
   },
   {
     "id": "greenhouse_stripe_7966641",
