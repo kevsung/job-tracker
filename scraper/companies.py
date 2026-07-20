@@ -8,6 +8,7 @@
 COMPANIES: dict[str, list[dict]] = {
     "Strong": [
         {"name": "Databricks",  "ats": "greenhouse",       "slug": "databricks"},
+        {"name": "DoorDash",    "ats": "greenhouse",       "slug": "doordashusa"},
         {"name": "Wiz",         "ats": "greenhouse",       "slug": "Wizinc"},
         {"name": "Samsara",     "ats": "greenhouse",       "slug": "samsara"},
         {"name": "Stripe",      "ats": "greenhouse",       "slug": "stripe"},
