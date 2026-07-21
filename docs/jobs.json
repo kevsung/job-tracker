@@ -99,6 +99,17 @@
     "first_seen": "2026-07-17"
   },
   {
+    "id": "greenhouse_coinbase_8069671",
+    "title": "Manager, Corporate Programs",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8069671?gh_jid=8069671",
+    "posted_date": "2026-07-17",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-21"
+  },
+  {
     "id": "ashby_ashby_1d637631-0d53-4e8c-9af7-38633bfc2723",
     "title": "Customer Education Program Manager",
     "location": "Remote - US",
@@ -141,6 +152,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-16"
+  },
+  {
+    "id": "greenhouse_coinbase_8070046",
+    "title": "GFCO Program Manager",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8070046?gh_jid=8070046",
+    "posted_date": "2026-07-16",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-21"
   },
   {
     "id": "smartrecruiters_experian_744000138183459",
@@ -297,6 +319,17 @@
     "first_seen": "2026-07-15"
   },
   {
+    "id": "greenhouse_coinbase_8024877",
+    "title": "Technical Program Manager, GFCO Analytics",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8024877?gh_jid=8024877",
+    "posted_date": "2026-07-08",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-21"
+  },
+  {
     "id": "greenhouse_pinterest_7494932",
     "title": "Staff Product Manager, Advertiser Experience",
     "location": "San Francisco, CA, US; Seattle, WA, US; Remote, CA, US",
@@ -306,28 +339,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-09"
-  },
-  {
-    "id": "greenhouse_dept_8049738",
-    "title": "Director, Program Management (Adobe Technical)",
-    "location": "United States",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/8049738",
-    "posted_date": "2026-07-08",
-    "company": "DEPT",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-07-15"
-  },
-  {
-    "id": "greenhouse_dept_8049696",
-    "title": "Group Director, Program Management (Adobe-Technical) ",
-    "location": "United States",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/8049696",
-    "posted_date": "2026-07-08",
-    "company": "DEPT",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-07-15"
   },
   {
     "id": "greenhouse_stripe_8042055",
@@ -372,6 +383,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-09"
+  },
+  {
+    "id": "greenhouse_coinbase_8047657",
+    "title": "Staff Technical Program Manager, CX Agent Experience",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8047657?gh_jid=8047657",
+    "posted_date": "2026-07-06",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-21"
   },
   {
     "id": "greenhouse_nice_4913553101",
@@ -506,6 +528,17 @@
     "first_seen": "2026-07-09"
   },
   {
+    "id": "greenhouse_mercury_6097329004",
+    "title": "Head of Technical Program Management - Banking",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6097329004",
+    "posted_date": "2026-06-18",
+    "company": "Mercury",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-21"
+  },
+  {
     "id": "greenhouse_affirm_7776437003",
     "title": "Staff Product Manager, App Platform & Experience",
     "location": "Remote US",
@@ -515,6 +548,39 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-02"
+  },
+  {
+    "id": "greenhouse_coinbase_8013948",
+    "title": "Technical Program Manager, CX Intelligence & AI",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8013948?gh_jid=8013948",
+    "posted_date": "2026-06-18",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-21"
+  },
+  {
+    "id": "greenhouse_coinbase_8008047",
+    "title": "Senior Program Manager, Contracts & Analytics",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8008047?gh_jid=8008047",
+    "posted_date": "2026-06-17",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-21"
+  },
+  {
+    "id": "greenhouse_coinbase_8013892",
+    "title": "Technical Program Manager, Knowledge Systems",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8013892?gh_jid=8013892",
+    "posted_date": "2026-06-17",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-21"
   },
   {
     "id": "greenhouse_instacart_8014060",
@@ -572,6 +638,17 @@
     "first_seen": "2026-07-20"
   },
   {
+    "id": "greenhouse_coinbase_8001275",
+    "title": "Staff Product Manager, CX Automation",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8001275?gh_jid=8001275",
+    "posted_date": "2026-06-11",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-21"
+  },
+  {
     "id": "greenhouse_doordashusa_7996665",
     "title": "Associate Manager, New Verticals Strategy & Operations - Merchant Finance",
     "location": "New York, NY; San Francisco, CA; United States - Remote",
@@ -614,6 +691,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-20"
+  },
+  {
+    "id": "greenhouse_coinbase_7981394",
+    "title": "Senior Manager, Clearing Operations",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/7981394?gh_jid=7981394",
+    "posted_date": "2026-06-08",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-21"
   },
   {
     "id": "greenhouse_stripe_7985196",
