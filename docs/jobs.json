@@ -55,6 +55,28 @@
     "first_seen": "2026-07-20"
   },
   {
+    "id": "greenhouse_dept_8075696",
+    "title": "Product Manager (Adobe Experience Engineering & Platforms)",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8075696",
+    "posted_date": "2026-07-20",
+    "company": "DEPT",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-07-21"
+  },
+  {
+    "id": "greenhouse_dept_8075631",
+    "title": "Product Manager (Adobe Intelligent Activation & Growth)",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8075631",
+    "posted_date": "2026-07-20",
+    "company": "DEPT",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-07-21"
+  },
+  {
     "id": "workday_draftkings_8a62d56de2bc",
     "title": "Manager, iGaming Operations & Personalization",
     "location": "Remote - US",
@@ -402,17 +424,6 @@
     "url": "https://instacart.careers/job/?gh_jid=8044197",
     "posted_date": "2026-07-02",
     "company": "Instacart",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "ashby_scribdinc_42ed66d5-dc57-4448-bd27-945b6ee91923",
-    "title": "Senior Technical Program Manager",
-    "location": "Remote - San Francisco",
-    "url": "https://jobs.ashbyhq.com/scribdinc/42ed66d5-dc57-4448-bd27-945b6ee91923",
-    "posted_date": "2026-07-02",
-    "company": "Scribd",
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-02"
@@ -968,17 +979,6 @@
     "first_seen": "2026-06-18"
   },
   {
-    "id": "greenhouse_stripe_7569678",
-    "title": "Program Manager, Intake & Portfolio Management",
-    "location": "Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=7569678",
-    "posted_date": "2026-04-30",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-09"
-  },
-  {
     "id": "greenhouse_pinterest_7770927",
     "title": "Sr. Technical Program Manager, Ads Performance",
     "location": "San Francisco, CA, US; Remote, US",
@@ -988,27 +988,5 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-05-12"
-  },
-  {
-    "id": "greenhouse_stripe_7812856",
-    "title": "Staff Product Manager, Enterprise",
-    "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=7812856",
-    "posted_date": "2026-04-21",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-06-20"
-  },
-  {
-    "id": "greenhouse_duettoresearch_7816116",
-    "title": "Senior Project Manager, PMO",
-    "location": "United States ",
-    "url": "https://job-boards.greenhouse.io/duettoresearch/jobs/7816116",
-    "posted_date": "2026-04-21",
-    "company": "Duetto",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-07-09"
   }
 ]
