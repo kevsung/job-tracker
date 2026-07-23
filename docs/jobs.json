@@ -1,5 +1,16 @@
 [
   {
+    "id": "greenhouse_pinterest_7494652",
+    "title": "Sr. Staff Technical Program Manager",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494652",
+    "posted_date": "2026-07-23",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-23"
+  },
+  {
     "id": "greenhouse_instacart_8077510",
     "title": "Senior Product Manager, Ads Quality",
     "location": "United States - Remote",
@@ -130,6 +141,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-20"
+  },
+  {
+    "id": "greenhouse_nozominetworks_4715406005",
+    "title": "Digital Program Manager",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/nozominetworks/jobs/4715406005",
+    "posted_date": "2026-07-20",
+    "company": "Nozomi Networks",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-23"
   },
   {
     "id": "rippling_rippling_ce9bf549-cd9d-4dcc-8121-98629fdeffd5",
@@ -643,17 +665,6 @@
     "location": "Remote - USA",
     "url": "https://www.coinbase.com/careers/positions/8013948?gh_jid=8013948",
     "posted_date": "2026-06-18",
-    "company": "Coinbase",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-21"
-  },
-  {
-    "id": "greenhouse_coinbase_8008047",
-    "title": "Senior Program Manager, Contracts & Analytics",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/8008047?gh_jid=8008047",
-    "posted_date": "2026-06-17",
     "company": "Coinbase",
     "tier": "Strong",
     "remote": true,
