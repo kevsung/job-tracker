@@ -176,17 +176,6 @@
     "first_seen": "2026-07-21"
   },
   {
-    "id": "workday_draftkings_8a62d56de2bc",
-    "title": "Manager, iGaming Operations & Personalization",
-    "location": "Remote - US",
-    "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Remote---US/Manager--iGaming-Operations---Personalization_JR14597-1",
-    "posted_date": "2026-07-18",
-    "company": "DraftKings",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-18"
-  },
-  {
     "id": "greenhouse_reddit_8060091",
     "title": "Staff Product Manager, Games Ecosystem",
     "location": "Remote - United States",
@@ -682,17 +671,6 @@
     "first_seen": "2026-06-18"
   },
   {
-    "id": "ashby_acorns_bdbd12c5-b94b-4722-8599-f7bcc67f2f4f",
-    "title": "Senior Product Operations Specialist",
-    "location": "Remote - Irvine",
-    "url": "https://jobs.ashbyhq.com/acorns/bdbd12c5-b94b-4722-8599-f7bcc67f2f4f",
-    "posted_date": "2026-06-16",
-    "company": "Acorns",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-06-18"
-  },
-  {
     "id": "greenhouse_reddit_7997186",
     "title": "Staff Product Manager, Growth",
     "location": "Remote - United States",
@@ -957,17 +935,6 @@
     "first_seen": "2026-06-18"
   },
   {
-    "id": "greenhouse_doordashusa_7940194",
-    "title": "Associate Manager, New Verticals - Strategy & Operations",
-    "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Seattle, WA; Washington D.C.",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7940194",
-    "posted_date": "2026-05-20",
-    "company": "DoorDash",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-07-20"
-  },
-  {
     "id": "greenhouse_reddit_7947049",
     "title": "Principal Technical Program Manager, Performance",
     "location": "Remote - United States",
@@ -1131,16 +1098,5 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-06-18"
-  },
-  {
-    "id": "greenhouse_pinterest_7770927",
-    "title": "Sr. Technical Program Manager, Ads Performance",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770927",
-    "posted_date": "2026-04-23",
-    "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-05-12"
   }
 ]
