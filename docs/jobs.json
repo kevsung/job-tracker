@@ -1,5 +1,16 @@
 [
   {
+    "id": "ashby_dandy_08c300c9-54d4-42bf-8ea1-623347453c17",
+    "title": "TPM, Fixed",
+    "location": "USA - Remote",
+    "url": "https://jobs.ashbyhq.com/dandy/08c300c9-54d4-42bf-8ea1-623347453c17",
+    "posted_date": "2026-07-24",
+    "company": "Dandy",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-24"
+  },
+  {
     "id": "greenhouse_pinterest_8059251",
     "title": "Manager II, Escalation Operations ",
     "location": "San Francisco, CA, US; Remote, US",
@@ -295,17 +306,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-21"
-  },
-  {
-    "id": "smartrecruiters_experian_744000138183459",
-    "title": "Senior Product Manager, AdTech Identity Graph - Remote",
-    "location": "United States, UNITED STATES, us",
-    "url": "https://jobs.smartrecruiters.com/experian/744000138183459",
-    "posted_date": "2026-07-16",
-    "company": "Experian",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-07-16"
   },
   {
     "id": "greenhouse_dept_8070783",
