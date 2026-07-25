@@ -209,28 +209,6 @@
     "first_seen": "2026-07-20"
   },
   {
-    "id": "greenhouse_dept_8075696",
-    "title": "Product Manager (Adobe Experience Engineering & Platforms)",
-    "location": "United States",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/8075696",
-    "posted_date": "2026-07-20",
-    "company": "DEPT",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-07-21"
-  },
-  {
-    "id": "greenhouse_dept_8075631",
-    "title": "Product Manager (Adobe Intelligent Activation & Growth)",
-    "location": "United States",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/8075631",
-    "posted_date": "2026-07-20",
-    "company": "DEPT",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-07-21"
-  },
-  {
     "id": "greenhouse_reddit_8060091",
     "title": "Staff Product Manager, Games Ecosystem",
     "location": "Remote - United States",
@@ -623,17 +601,6 @@
     "posted_date": "2026-06-22",
     "company": "HubSpot",
     "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-06-22"
-  },
-  {
-    "id": "greenhouse_pinterest_7997974",
-    "title": "Staff Technical Program Manager, SOX Compliance",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7997974",
-    "posted_date": "2026-06-22",
-    "company": "Pinterest",
-    "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-06-22"
   },
@@ -1054,17 +1021,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-06-18"
-  },
-  {
-    "id": "greenhouse_reddit_7858506",
-    "title": "Senior Group Product Manager, Advertiser Optimization (Ads Marketplace)",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7858506",
-    "posted_date": "2026-05-07",
-    "company": "Reddit",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-09"
   },
   {
     "id": "greenhouse_doordashusa_7875471",
