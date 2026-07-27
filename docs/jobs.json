@@ -1,5 +1,27 @@
 [
   {
+    "id": "greenhouse_stripe_8081754",
+    "title": "Program Manager, Card Network Office (Card Networks)",
+    "location": "US-SF, US-NYC, US-Seattle, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8081754",
+    "posted_date": "2026-07-27",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-27"
+  },
+  {
+    "id": "greenhouse_grafanalabs_6128082004",
+    "title": " Senior Partner Development Program Manager | United States| Remote",
+    "location": "United States (Remote)",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6128082004",
+    "posted_date": "2026-07-27",
+    "company": "Grafana Labs",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-27"
+  },
+  {
     "id": "ashby_dandy_08c300c9-54d4-42bf-8ea1-623347453c17",
     "title": "TPM, Fixed",
     "location": "USA - Remote",
@@ -528,17 +550,6 @@
     "first_seen": "2026-07-02"
   },
   {
-    "id": "greenhouse_oura_4304220009",
-    "title": "Staff Program Manager, Enterprise Data Transformation",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/oura/jobs/4304220009",
-    "posted_date": "2026-07-02",
-    "company": "Oura",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-02"
-  },
-  {
     "id": "greenhouse_instacart_8044197",
     "title": "Senior Product Manager, Growth Marketing Platform",
     "location": "United States - Remote",
@@ -592,17 +603,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-15"
-  },
-  {
-    "id": "greenhouse_hubspotjobs_7741756",
-    "title": "Senior Product Manager, Events Data Platform",
-    "location": "Remote - USA",
-    "url": "https://www.hubspot.com/careers/jobs/7741756?gh_jid=7741756",
-    "posted_date": "2026-06-22",
-    "company": "HubSpot",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-06-22"
   },
   {
     "id": "greenhouse_nice_4831290101",
@@ -836,17 +836,6 @@
     "first_seen": "2026-07-15"
   },
   {
-    "id": "greenhouse_stripe_7966641",
-    "title": "Program Manager, Security Business Enablement",
-    "location": "US-REMOTE",
-    "url": "https://stripe.com/jobs/search?gh_jid=7966641",
-    "posted_date": "2026-05-29",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-09"
-  },
-  {
     "id": "greenhouse_pinterest_7494634",
     "title": "Staff Technical Program Manager, Compute Infrastructure",
     "location": "San Francisco, CA, US; Remote, US",
@@ -955,17 +944,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-17"
-  },
-  {
-    "id": "greenhouse_stripe_7917252",
-    "title": "Program Manager, Security Business Enablement",
-    "location": "US - Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=7917252",
-    "posted_date": "2026-05-14",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-09"
   },
   {
     "id": "greenhouse_pinterest_7525112",
