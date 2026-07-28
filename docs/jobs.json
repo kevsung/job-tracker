@@ -1,5 +1,27 @@
 [
   {
+    "id": "greenhouse_doordashusa_8089089",
+    "title": "GTM Program Manager",
+    "location": "United States - Remote",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8089089",
+    "posted_date": "2026-07-28",
+    "company": "DoorDash",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-28"
+  },
+  {
+    "id": "greenhouse_samsara_8083905",
+    "title": "Senior Program Manager I - Customer Success Programs",
+    "location": "Remote - US",
+    "url": "https://www.samsara.com/company/careers/roles/8083905?gh_jid=8083905",
+    "posted_date": "2026-07-28",
+    "company": "Samsara",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-28"
+  },
+  {
     "id": "greenhouse_stripe_8081754",
     "title": "Program Manager, Card Network Office (Card Networks)",
     "location": "US-SF, US-NYC, US-Seattle, US-Remote",
@@ -391,17 +413,6 @@
     "url": "https://job-boards.greenhouse.io/customerio/jobs/8054502",
     "posted_date": "2026-07-10",
     "company": "Customer.io",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-10"
-  },
-  {
-    "id": "greenhouse_webflow_8054709",
-    "title": "Staff Product Manager, AI",
-    "location": "CA Remote (BC & ON only); U.S. Remote",
-    "url": "https://job-boards.greenhouse.io/webflow/jobs/8054709",
-    "posted_date": "2026-07-10",
-    "company": "Webflow",
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-10"
