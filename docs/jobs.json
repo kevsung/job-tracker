@@ -1,5 +1,16 @@
 [
   {
+    "id": "ashby_ashby_1d637631-0d53-4e8c-9af7-38633bfc2723",
+    "title": "Program Manager, Customer Education",
+    "location": "Remote - US",
+    "url": "https://jobs.ashbyhq.com/ashby/1d637631-0d53-4e8c-9af7-38633bfc2723",
+    "posted_date": "2026-07-29",
+    "company": "Ashby",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-17"
+  },
+  {
     "id": "greenhouse_doordashusa_8089089",
     "title": "GTM Program Manager",
     "location": "United States - Remote",
@@ -12,7 +23,7 @@
   },
   {
     "id": "greenhouse_samsara_8083905",
-    "title": "Senior Program Manager I - Customer Success Programs",
+    "title": "Senior Program Manager - Customer Success Programs",
     "location": "Remote - US",
     "url": "https://www.samsara.com/company/careers/roles/8083905?gh_jid=8083905",
     "posted_date": "2026-07-28",
@@ -42,6 +53,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-27"
+  },
+  {
+    "id": "greenhouse_life360_8652913002",
+    "title": "Principal Product Manager II, Location Platform & Quality",
+    "location": "Remote, USA",
+    "url": "https://job-boards.greenhouse.io/life360/jobs/8652913002",
+    "posted_date": "2026-07-27",
+    "company": "Life360",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-29"
   },
   {
     "id": "ashby_dandy_08c300c9-54d4-42bf-8ea1-623347453c17",
@@ -220,17 +242,6 @@
     "first_seen": "2026-07-23"
   },
   {
-    "id": "rippling_rippling_ce9bf549-cd9d-4dcc-8121-98629fdeffd5",
-    "title": "Senior Manager, Support Operations",
-    "location": "Remote (United States)",
-    "url": "https://ats.rippling.com/rippling/jobs/ce9bf549-cd9d-4dcc-8121-98629fdeffd5",
-    "company": "Rippling",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-20",
-    "posted_date": "2026-07-20"
-  },
-  {
     "id": "greenhouse_oura_4323420009",
     "title": "Program Management Lead, Emerging Markets, Americas",
     "location": "Remote - United States",
@@ -273,17 +284,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-21"
-  },
-  {
-    "id": "ashby_ashby_1d637631-0d53-4e8c-9af7-38633bfc2723",
-    "title": "Customer Education Program Manager",
-    "location": "Remote - US",
-    "url": "https://jobs.ashbyhq.com/ashby/1d637631-0d53-4e8c-9af7-38633bfc2723",
-    "posted_date": "2026-07-17",
-    "company": "Ashby",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-17"
   },
   {
     "id": "greenhouse_doordashusa_8064747",
@@ -737,17 +737,6 @@
     "first_seen": "2026-07-20"
   },
   {
-    "id": "greenhouse_stripe_7991528",
-    "title": "Creative Producer, Link",
-    "location": "US",
-    "url": "https://stripe.com/jobs/search?gh_jid=7991528",
-    "posted_date": "2026-06-09",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-07-09"
-  },
-  {
     "id": "greenhouse_doordashusa_7983403",
     "title": "Associate Manager, Strategy and Operations, Fraud",
     "location": "New York, NY; San Francisco, CA; Chicago, IL; United States - Remote",
@@ -845,17 +834,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-05-29"
-  },
-  {
-    "id": "greenhouse_doordashusa_7958787",
-    "title": "Manager, Dasher & Logistics Strategy & Operations",
-    "location": "New York, NY; Austin, TX; Washington D.C.; San Francisco, CA; Sunnyvale, CA; Seattle, WA; Los Angeles, CA; Chicago, IL",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7958787",
-    "posted_date": "2026-05-27",
-    "company": "DoorDash",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-07-20"
   },
   {
     "id": "greenhouse_pinterest_7957799",
