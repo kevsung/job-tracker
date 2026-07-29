@@ -1,5 +1,49 @@
 [
   {
+    "id": "greenhouse_databricks_8638648002",
+    "title": "Sr. Event Marketing Manager, Field Programming",
+    "location": "United States",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8638648002",
+    "posted_date": "2026-07-29",
+    "company": "Databricks",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "greenhouse_stripe_8059784",
+    "title": "Commercial Solutions Program Manager",
+    "location": "Chicago, IL , Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8059784",
+    "posted_date": "2026-07-29",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "greenhouse_nebius_4932219101",
+    "title": "Network Planning Technical Project Manager (North America)",
+    "location": "Remote - United States",
+    "url": "https://careers.nebius.com/?gh_jid=4932219101",
+    "posted_date": "2026-07-29",
+    "company": "Nebius",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "greenhouse_nice_4940240101",
+    "title": "Senior Project Manager",
+    "location": "USA - Remote",
+    "url": "https://boards.eu.greenhouse.io/nice/jobs/4940240101?gh_jid=4940240101",
+    "posted_date": "2026-07-29",
+    "company": "NICE",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-29"
+  },
+  {
     "id": "ashby_ashby_1d637631-0d53-4e8c-9af7-38633bfc2723",
     "title": "Program Manager, Customer Education",
     "location": "Remote - US",
@@ -9,6 +53,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-17"
+  },
+  {
+    "id": "greenhouse_pinterest_7494650",
+    "title": "Staff Technical Program Manager",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494650",
+    "posted_date": "2026-07-29",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-29"
   },
   {
     "id": "greenhouse_doordashusa_8089089",
