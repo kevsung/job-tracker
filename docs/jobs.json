@@ -1,5 +1,16 @@
 [
   {
+    "id": "rippling_rippling_ce9bf549-cd9d-4dcc-8121-98629fdeffd5",
+    "title": "Senior Manager, Support Operations",
+    "location": "Remote (United States)",
+    "url": "https://ats.rippling.com/rippling/jobs/ce9bf549-cd9d-4dcc-8121-98629fdeffd5",
+    "company": "Rippling",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-30",
+    "posted_date": "2026-07-30"
+  },
+  {
     "id": "greenhouse_databricks_8638648002",
     "title": "Sr. Event Marketing Manager, Field Programming",
     "location": "United States",
@@ -53,6 +64,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-17"
+  },
+  {
+    "id": "greenhouse_pinterest_8067933",
+    "title": "Staff Technical Program Manager",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8067933",
+    "posted_date": "2026-07-29",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-30"
   },
   {
     "id": "greenhouse_pinterest_7494650",
@@ -295,17 +317,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-07-23"
-  },
-  {
-    "id": "greenhouse_oura_4323420009",
-    "title": "Program Management Lead, Emerging Markets, Americas",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/oura/jobs/4323420009",
-    "posted_date": "2026-07-20",
-    "company": "Oura",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-20"
   },
   {
     "id": "greenhouse_instacart_8074453",
@@ -770,17 +781,6 @@
     "first_seen": "2026-07-20"
   },
   {
-    "id": "greenhouse_coinbase_8001275",
-    "title": "Staff Product Manager, CX Automation",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/8001275?gh_jid=8001275",
-    "posted_date": "2026-06-11",
-    "company": "Coinbase",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-21"
-  },
-  {
     "id": "greenhouse_doordashusa_7996665",
     "title": "Associate Manager, New Verticals Strategy & Operations - Merchant Finance",
     "location": "New York, NY; San Francisco, CA; United States - Remote",
@@ -1043,17 +1043,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-07-20"
-  },
-  {
-    "id": "greenhouse_samsara_7864137",
-    "title": "Sr. Product Marketing Manager - Release Marketing & PMM Operations",
-    "location": "Remote - SF Bay Area",
-    "url": "https://www.samsara.com/company/careers/roles/7864137?gh_jid=7864137",
-    "posted_date": "2026-05-04",
-    "company": "Samsara",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-09"
   },
   {
     "id": "ashby_benepass_8d52b724-c0c2-4592-b5a4-0555e66714b9",
