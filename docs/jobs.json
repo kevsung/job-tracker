@@ -11,6 +11,17 @@
     "posted_date": "2026-07-30"
   },
   {
+    "id": "greenhouse_okta_8069537",
+    "title": "Principal Technical Program Manager, Engineering",
+    "location": "San Francisco, California; Washington, DC",
+    "url": "https://www.okta.com/company/careers/opportunity/8069537?gh_jid=8069537",
+    "posted_date": "2026-07-30",
+    "company": "Okta",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-07-30"
+  },
+  {
     "id": "greenhouse_databricks_8638648002",
     "title": "Sr. Event Marketing Manager, Field Programming",
     "location": "United States",
@@ -594,17 +605,6 @@
     "first_seen": "2026-07-21"
   },
   {
-    "id": "greenhouse_nice_4913553101",
-    "title": "Lead Client Services Project Manager, CX",
-    "location": "USA - Remote",
-    "url": "https://boards.eu.greenhouse.io/nice/jobs/4913553101?gh_jid=4913553101",
-    "posted_date": "2026-07-06",
-    "company": "NICE",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-09"
-  },
-  {
     "id": "greenhouse_databricks_8583037002",
     "title": "Sr. Field Technical Program Manager, Forward Deployed Engineering",
     "location": "United States",
@@ -649,6 +649,17 @@
     "first_seen": "2026-07-09"
   },
   {
+    "id": "greenhouse_webflow_8038479",
+    "title": "Staff Product Manager, Governance",
+    "location": "CA Remote (BC & ON only); U.S. Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/8038479",
+    "posted_date": "2026-07-01",
+    "company": "Webflow",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-30"
+  },
+  {
     "id": "greenhouse_pinterest_7782569",
     "title": "Sr. Engineering Manager, Programmatic Ad Tech, tvScientific",
     "location": "San Francisco, CA, US; Remote, US",
@@ -680,6 +691,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-15"
+  },
+  {
+    "id": "greenhouse_hubspotjobs_7741756",
+    "title": "Senior Product Manager, Events Data Platform",
+    "location": "Remote - USA",
+    "url": "https://www.hubspot.com/careers/jobs/7741756?gh_jid=7741756",
+    "posted_date": "2026-06-22",
+    "company": "HubSpot",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-07-30"
   },
   {
     "id": "greenhouse_nice_4831290101",
@@ -1032,6 +1054,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-06-18"
+  },
+  {
+    "id": "greenhouse_okta_7881166",
+    "title": "Senior Manager, M&A Integration & Strategic Programs",
+    "location": "Washington, DC",
+    "url": "https://www.okta.com/company/careers/opportunity/7881166?gh_jid=7881166",
+    "posted_date": "2026-05-05",
+    "company": "Okta",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-07-30"
   },
   {
     "id": "greenhouse_doordashusa_7875471",
