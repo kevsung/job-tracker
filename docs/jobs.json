@@ -77,17 +77,6 @@
     "first_seen": "2026-07-17"
   },
   {
-    "id": "greenhouse_pinterest_8067933",
-    "title": "Staff Technical Program Manager",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8067933",
-    "posted_date": "2026-07-29",
-    "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-30"
-  },
-  {
     "id": "greenhouse_pinterest_7494650",
     "title": "Staff Technical Program Manager",
     "location": "San Francisco, CA, US; Remote, US",
@@ -97,6 +86,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-29"
+  },
+  {
+    "id": "greenhouse_pinterest_8067933",
+    "title": "Staff Technical Program Manager",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8067933",
+    "posted_date": "2026-07-29",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-30"
   },
   {
     "id": "greenhouse_dropbox_8070685",
@@ -474,7 +474,7 @@
   },
   {
     "id": "greenhouse_stripe_8055659",
-    "title": "Risk Operations Program Manager",
+    "title": "Strategy & Operations Program Manager",
     "location": "US-Remote",
     "url": "https://stripe.com/jobs/search?gh_jid=8055659",
     "posted_date": "2026-07-13",
@@ -504,6 +504,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-10"
+  },
+  {
+    "id": "greenhouse_webflow_8054709",
+    "title": "Staff Product Manager, AI",
+    "location": "CA Remote (BC & ON only); U.S. Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/8054709",
+    "posted_date": "2026-07-10",
+    "company": "Webflow",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-31"
   },
   {
     "id": "greenhouse_databricks_8582991002",
@@ -635,17 +646,6 @@
     "company": "Databricks",
     "tier": "Strong",
     "remote": false,
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "greenhouse_instacart_8044197",
-    "title": "Senior Product Manager, Growth Marketing Platform",
-    "location": "United States - Remote",
-    "url": "https://instacart.careers/job/?gh_jid=8044197",
-    "posted_date": "2026-07-02",
-    "company": "Instacart",
-    "tier": "Moderate",
-    "remote": true,
     "first_seen": "2026-07-02"
   },
   {
@@ -902,17 +902,6 @@
     "first_seen": "2026-06-20"
   },
   {
-    "id": "greenhouse_mercury_6013388004",
-    "title": "Customer Support Strategic Program Manager",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/6013388004",
-    "posted_date": "2026-06-03",
-    "company": "Mercury",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-15"
-  },
-  {
     "id": "greenhouse_pinterest_7494634",
     "title": "Staff Technical Program Manager, Compute Infrastructure",
     "location": "San Francisco, CA, US; Remote, US",
@@ -977,17 +966,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-08"
-  },
-  {
-    "id": "ashby_acorns_2263abeb-73d2-448b-8228-4bc1e500c812",
-    "title": "Staff Product Manager, Conversational AI",
-    "location": "Remote",
-    "url": "https://jobs.ashbyhq.com/acorns/2263abeb-73d2-448b-8228-4bc1e500c812",
-    "posted_date": "2026-05-20",
-    "company": "Acorns",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-06-18"
   },
   {
     "id": "greenhouse_dept_7948176",
