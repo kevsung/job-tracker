@@ -1,5 +1,16 @@
 [
   {
+    "id": "greenhouse_gomotive_8654142002",
+    "title": "Manager, Business Operations - Enterprise/Strategic",
+    "location": "United States - Remote",
+    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8654142002",
+    "posted_date": "2026-07-31",
+    "company": "Motive",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-31"
+  },
+  {
     "id": "rippling_rippling_ce9bf549-cd9d-4dcc-8121-98629fdeffd5",
     "title": "Senior Manager, Support Operations",
     "location": "Remote (United States)",
@@ -77,17 +88,6 @@
     "first_seen": "2026-07-17"
   },
   {
-    "id": "greenhouse_pinterest_7494650",
-    "title": "Staff Technical Program Manager",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494650",
-    "posted_date": "2026-07-29",
-    "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-29"
-  },
-  {
     "id": "greenhouse_pinterest_8067933",
     "title": "Staff Technical Program Manager",
     "location": "San Francisco, CA, US; Remote, US",
@@ -97,6 +97,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-30"
+  },
+  {
+    "id": "greenhouse_pinterest_7494650",
+    "title": "Staff Technical Program Manager",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494650",
+    "posted_date": "2026-07-29",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-29"
   },
   {
     "id": "greenhouse_dropbox_8070685",
@@ -650,7 +661,7 @@
   },
   {
     "id": "greenhouse_affirm_7691157003",
-    "title": "Revenue Enablement Program Manager",
+    "title": "Revenue Enablement Program Manager (Leadership & Methodology)",
     "location": "Remote US",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7691157003",
     "posted_date": "2026-07-01",
