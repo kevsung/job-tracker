@@ -99,6 +99,17 @@
     "first_seen": "2026-07-29"
   },
   {
+    "id": "greenhouse_dropbox_8070685",
+    "title": "Senior Product Marketing Operations Manager",
+    "location": "Remote - US: Select locations",
+    "url": "https://jobs.dropbox.com/listing/8070685?gh_jid=8070685",
+    "posted_date": "2026-07-29",
+    "company": "Dropbox",
+    "tier": "Weak",
+    "remote": true,
+    "first_seen": "2026-07-31"
+  },
+  {
     "id": "greenhouse_doordashusa_8089089",
     "title": "GTM Program Manager",
     "location": "United States - Remote",
@@ -1076,16 +1087,5 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-07-20"
-  },
-  {
-    "id": "ashby_benepass_8d52b724-c0c2-4592-b5a4-0555e66714b9",
-    "title": "Staff Product Manager (Fintech)",
-    "location": "U.S Remote",
-    "url": "https://jobs.ashbyhq.com/benepass/8d52b724-c0c2-4592-b5a4-0555e66714b9",
-    "posted_date": "2026-05-01",
-    "company": "Benepass",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-06-18"
   }
 ]
