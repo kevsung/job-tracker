@@ -1,5 +1,38 @@
 [
   {
+    "id": "ashby_ashby_f07cc5aa-e868-43cc-832c-27e186884b51",
+    "title": "Customer Education Program Manager",
+    "location": "Remote - US",
+    "url": "https://jobs.ashbyhq.com/ashby/f07cc5aa-e868-43cc-832c-27e186884b51",
+    "posted_date": "2026-08-04",
+    "company": "Ashby",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-08-04"
+  },
+  {
+    "id": "greenhouse_coinbase_8089161",
+    "title": "Manager, WFM Operations",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8089161?gh_jid=8089161",
+    "posted_date": "2026-08-03",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-04"
+  },
+  {
+    "id": "greenhouse_coinbase_8104175",
+    "title": "Technical Program Manager",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8104175?gh_jid=8104175",
+    "posted_date": "2026-08-03",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-04"
+  },
+  {
     "id": "greenhouse_affirm_7822254003",
     "title": "Senior Product Manager, Agent Enablement",
     "location": "Remote US",
@@ -97,17 +130,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-29"
-  },
-  {
-    "id": "ashby_ashby_1d637631-0d53-4e8c-9af7-38633bfc2723",
-    "title": "Program Manager, Customer Education",
-    "location": "Remote - US",
-    "url": "https://jobs.ashbyhq.com/ashby/1d637631-0d53-4e8c-9af7-38633bfc2723",
-    "posted_date": "2026-07-29",
-    "company": "Ashby",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-17"
   },
   {
     "id": "greenhouse_pinterest_8067933",
