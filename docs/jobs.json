@@ -1,5 +1,38 @@
 [
   {
+    "id": "greenhouse_pinterest_8016634",
+    "title": "Manager II, Technical Program Management",
+    "location": "New York, NY, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8016634",
+    "posted_date": "2026-08-05",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-08-05"
+  },
+  {
+    "id": "greenhouse_okta_8042657",
+    "title": "Senior Manager, Presales Strategy & Operations",
+    "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
+    "url": "https://www.okta.com/company/careers/opportunity/8042657?gh_jid=8042657",
+    "posted_date": "2026-08-05",
+    "company": "Okta",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-08-05"
+  },
+  {
+    "id": "greenhouse_okta_8103816",
+    "title": "Senior Manager, xDR Strategy & Operations",
+    "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
+    "url": "https://www.okta.com/company/careers/opportunity/8103816?gh_jid=8103816",
+    "posted_date": "2026-08-05",
+    "company": "Okta",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-08-05"
+  },
+  {
     "id": "ashby_ashby_f07cc5aa-e868-43cc-832c-27e186884b51",
     "title": "Customer Education Program Manager",
     "location": "Remote - US",
@@ -143,17 +176,6 @@
     "first_seen": "2026-07-29"
   },
   {
-    "id": "greenhouse_pinterest_7494650",
-    "title": "Staff Technical Program Manager",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494650",
-    "posted_date": "2026-07-29",
-    "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-29"
-  },
-  {
     "id": "greenhouse_pinterest_8067933",
     "title": "Staff Technical Program Manager",
     "location": "San Francisco, CA, US; Remote, US",
@@ -163,6 +185,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-30"
+  },
+  {
+    "id": "greenhouse_pinterest_7494650",
+    "title": "Staff Technical Program Manager",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494650",
+    "posted_date": "2026-07-29",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-29"
   },
   {
     "id": "greenhouse_dropbox_8070685",
@@ -231,17 +264,6 @@
     "first_seen": "2026-07-29"
   },
   {
-    "id": "ashby_dandy_08c300c9-54d4-42bf-8ea1-623347453c17",
-    "title": "TPM, Fixed",
-    "location": "USA - Remote",
-    "url": "https://jobs.ashbyhq.com/dandy/08c300c9-54d4-42bf-8ea1-623347453c17",
-    "posted_date": "2026-07-24",
-    "company": "Dandy",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-24"
-  },
-  {
     "id": "greenhouse_pinterest_7494652",
     "title": "Sr. Staff Technical Program Manager",
     "location": "San Francisco, CA, US; Remote, US",
@@ -262,17 +284,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-23"
-  },
-  {
-    "id": "greenhouse_stripe_8039423",
-    "title": "Operations Program Manager",
-    "location": "US-Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=8039423",
-    "posted_date": "2026-07-22",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-22"
   },
   {
     "id": "greenhouse_stripe_8053517",
