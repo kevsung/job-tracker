@@ -1,14 +1,36 @@
 [
   {
-    "id": "greenhouse_pinterest_8016634",
-    "title": "Manager II, Technical Program Management",
-    "location": "New York, NY, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8016634",
+    "id": "greenhouse_coinbase_8110496",
+    "title": "Senior Manager Product Operations, FCM Ops",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8110496?gh_jid=8110496",
+    "posted_date": "2026-08-06",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-06"
+  },
+  {
+    "id": "greenhouse_mercury_6135823004",
+    "title": "Senior Manager - Product Partner Operations",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6135823004",
+    "posted_date": "2026-08-05",
+    "company": "Mercury",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-06"
+  },
+  {
+    "id": "greenhouse_pinterest_7959458",
+    "title": "Staff Product Manager, Programmatic Ads",
+    "location": "San Francisco, CA, US; Remote, CA, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7959458",
     "posted_date": "2026-08-05",
     "company": "Pinterest",
     "tier": "Moderate",
     "remote": true,
-    "first_seen": "2026-08-05"
+    "first_seen": "2026-08-06"
   },
   {
     "id": "greenhouse_okta_8042657",
@@ -581,17 +603,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-31"
-  },
-  {
-    "id": "greenhouse_databricks_8582991002",
-    "title": "Sales Dev AI Program Manager",
-    "location": "United States",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582991002",
-    "posted_date": "2026-07-09",
-    "company": "Databricks",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-07-09"
   },
   {
     "id": "greenhouse_stripe_8036325",
