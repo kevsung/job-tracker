@@ -1,5 +1,38 @@
 [
   {
+    "id": "greenhouse_databricks_8493148002",
+    "title": "Staff Technical Project Manager - Cleared/Security ",
+    "location": "McLean, Virginia; Washington, D.C.",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493148002",
+    "posted_date": "2026-08-07",
+    "company": "Databricks",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-07"
+  },
+  {
+    "id": "greenhouse_mercury_6138978004",
+    "title": "Senior Product Operations Specialist",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6138978004",
+    "posted_date": "2026-08-07",
+    "company": "Mercury",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-07"
+  },
+  {
+    "id": "smartrecruiters_experian_744000142189900",
+    "title": "Senior Product Manager, AdTech Identity Graph - Remote",
+    "location": "United States, UNITED STATES, us",
+    "url": "https://jobs.smartrecruiters.com/experian/744000142189900",
+    "posted_date": "2026-08-07",
+    "company": "Experian",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-08-07"
+  },
+  {
     "id": "greenhouse_coinbase_8110496",
     "title": "Senior Manager Product Operations, FCM Ops",
     "location": "Remote - USA",
@@ -187,17 +220,6 @@
     "first_seen": "2026-07-29"
   },
   {
-    "id": "greenhouse_pinterest_8067933",
-    "title": "Staff Technical Program Manager",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8067933",
-    "posted_date": "2026-07-29",
-    "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-30"
-  },
-  {
     "id": "greenhouse_pinterest_7494650",
     "title": "Staff Technical Program Manager",
     "location": "San Francisco, CA, US; Remote, US",
@@ -207,6 +229,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-29"
+  },
+  {
+    "id": "greenhouse_pinterest_8067933",
+    "title": "Staff Technical Program Manager",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8067933",
+    "posted_date": "2026-07-29",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-30"
   },
   {
     "id": "greenhouse_dropbox_8070685",
@@ -660,17 +693,6 @@
     "first_seen": "2026-07-08"
   },
   {
-    "id": "greenhouse_samsara_8008386",
-    "title": "Manager, Technical Program Management",
-    "location": "Remote - US",
-    "url": "https://www.samsara.com/company/careers/roles/8008386?gh_jid=8008386",
-    "posted_date": "2026-07-06",
-    "company": "Samsara",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-09"
-  },
-  {
     "id": "greenhouse_coinbase_8047657",
     "title": "Staff Technical Program Manager, CX Agent Experience",
     "location": "Remote - USA",
@@ -933,17 +955,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-06-18"
-  },
-  {
-    "id": "greenhouse_stripe_7980498",
-    "title": "Staff Product Manager, Cards Monetization",
-    "location": "Seattle, San Francisco, New York, US - Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=7980498",
-    "posted_date": "2026-06-03",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-06-20"
   },
   {
     "id": "greenhouse_pinterest_7494634",
