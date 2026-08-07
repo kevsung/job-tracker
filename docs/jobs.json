@@ -55,17 +55,6 @@
     "first_seen": "2026-08-05"
   },
   {
-    "id": "ashby_ashby_f07cc5aa-e868-43cc-832c-27e186884b51",
-    "title": "Customer Education Program Manager",
-    "location": "Remote - US",
-    "url": "https://jobs.ashbyhq.com/ashby/f07cc5aa-e868-43cc-832c-27e186884b51",
-    "posted_date": "2026-08-04",
-    "company": "Ashby",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-08-04"
-  },
-  {
     "id": "greenhouse_pinterest_7494648",
     "title": "Sr. Staff Technical Program Manager",
     "location": "San Francisco, CA, US; Remote, US",
@@ -561,17 +550,6 @@
     "first_seen": "2026-07-15"
   },
   {
-    "id": "greenhouse_stripe_8055659",
-    "title": "Strategy & Operations Program Manager",
-    "location": "US-Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=8055659",
-    "posted_date": "2026-07-13",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-14"
-  },
-  {
     "id": "greenhouse_nebius_4925081101",
     "title": "Senior Program Manager, GTM Systems ",
     "location": "United States",
@@ -902,17 +880,6 @@
     "first_seen": "2026-07-20"
   },
   {
-    "id": "greenhouse_doordashusa_7983403",
-    "title": "Associate Manager, Strategy and Operations, Fraud",
-    "location": "New York, NY; San Francisco, CA; Chicago, IL; United States - Remote",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7983403",
-    "posted_date": "2026-06-08",
-    "company": "DoorDash",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-20"
-  },
-  {
     "id": "greenhouse_coinbase_7981394",
     "title": "Senior Manager, Clearing Operations",
     "location": "Remote - USA",
@@ -1120,16 +1087,5 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-06-20"
-  },
-  {
-    "id": "greenhouse_backblaze_5212473008",
-    "title": "Staff Product Manager",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/backblaze/jobs/5212473008",
-    "posted_date": "2026-05-08",
-    "company": "Backblaze",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-06-18"
   }
 ]
