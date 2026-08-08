@@ -1,7 +1,7 @@
 [
   {
     "id": "greenhouse_databricks_8493148002",
-    "title": "Staff Technical Project Manager - Cleared/Security ",
+    "title": "Staff Technical Program Manager - Cleared/Security ",
     "location": "McLean, Virginia; Washington, D.C.",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493148002",
     "posted_date": "2026-08-07",
@@ -20,6 +20,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-08-07"
+  },
+  {
+    "id": "greenhouse_ethoslife_8691451002",
+    "title": "Video Production Lead",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/ethoslife/jobs/8691451002",
+    "posted_date": "2026-08-07",
+    "company": "Ethos",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-08"
   },
   {
     "id": "smartrecruiters_experian_744000142189900",
@@ -220,17 +231,6 @@
     "first_seen": "2026-07-29"
   },
   {
-    "id": "greenhouse_pinterest_7494650",
-    "title": "Staff Technical Program Manager",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494650",
-    "posted_date": "2026-07-29",
-    "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-29"
-  },
-  {
     "id": "greenhouse_pinterest_8067933",
     "title": "Staff Technical Program Manager",
     "location": "San Francisco, CA, US; Remote, US",
@@ -240,6 +240,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-30"
+  },
+  {
+    "id": "greenhouse_pinterest_7494650",
+    "title": "Staff Technical Program Manager",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494650",
+    "posted_date": "2026-07-29",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-29"
   },
   {
     "id": "greenhouse_dropbox_8070685",
@@ -922,17 +933,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-06-20"
-  },
-  {
-    "id": "greenhouse_instacart_7985466",
-    "title": "People Experience Program Manager - San Francisco",
-    "location": "San Francisco- Remote",
-    "url": "https://instacart.careers/job/?gh_jid=7985466",
-    "posted_date": "2026-06-05",
-    "company": "Instacart",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-09"
   },
   {
     "id": "greenhouse_doordashusa_7983274",
