@@ -1,5 +1,16 @@
 [
   {
+    "id": "greenhouse_nebius_4948132101",
+    "title": "Delivery Manager - Data Center, Physical Security ",
+    "location": "United States",
+    "url": "https://careers.nebius.com/?gh_jid=4948132101",
+    "posted_date": "2026-08-10",
+    "company": "Nebius",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-10"
+  },
+  {
     "id": "greenhouse_affirm_7818068003",
     "title": "Senior Product Manager, 1: Many Merchant Growth",
     "location": "Remote US",
@@ -242,17 +253,6 @@
     "first_seen": "2026-07-29"
   },
   {
-    "id": "greenhouse_pinterest_7494650",
-    "title": "Staff Technical Program Manager",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494650",
-    "posted_date": "2026-07-29",
-    "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-29"
-  },
-  {
     "id": "greenhouse_pinterest_8067933",
     "title": "Staff Technical Program Manager",
     "location": "San Francisco, CA, US; Remote, US",
@@ -262,6 +262,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-30"
+  },
+  {
+    "id": "greenhouse_pinterest_7494650",
+    "title": "Staff Technical Program Manager, Security",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494650",
+    "posted_date": "2026-07-29",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-29"
   },
   {
     "id": "greenhouse_dropbox_8070685",
@@ -443,7 +454,7 @@
     "id": "greenhouse_hubspotjobs_8042918",
     "title": "Staff Product Manager, Ads",
     "location": "Remote - USA",
-    "url": "https://www.hubspot.com/careers/jobs/8042918?gh_jid=8042918",
+    "url": "https://job-boards.greenhouse.io/hubspotjobs/jobs/8042918",
     "posted_date": "2026-07-20",
     "company": "HubSpot",
     "tier": "Strong",
@@ -806,7 +817,7 @@
     "id": "greenhouse_hubspotjobs_7741756",
     "title": "Senior Product Manager, Events Data Platform",
     "location": "Remote - USA",
-    "url": "https://www.hubspot.com/careers/jobs/7741756?gh_jid=7741756",
+    "url": "https://job-boards.greenhouse.io/hubspotjobs/jobs/7741756",
     "posted_date": "2026-06-22",
     "company": "HubSpot",
     "tier": "Strong",
@@ -1076,17 +1087,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-14"
-  },
-  {
-    "id": "greenhouse_databricks_8535311002",
-    "title": "Senior Customer Enablement Program Manager",
-    "location": "United States",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8535311002",
-    "posted_date": "2026-05-12",
-    "company": "Databricks",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-07-09"
   },
   {
     "id": "greenhouse_affirm_7728589003",
