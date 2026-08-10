@@ -1,5 +1,16 @@
 [
   {
+    "id": "greenhouse_affirm_7818068003",
+    "title": "Senior Product Manager, 1: Many Merchant Growth",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7818068003",
+    "posted_date": "2026-08-10",
+    "company": "Affirm",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-10"
+  },
+  {
     "id": "greenhouse_databricks_8493148002",
     "title": "Staff Technical Program Manager - Cleared/Security ",
     "location": "McLean, Virginia; Washington, D.C.",
@@ -231,17 +242,6 @@
     "first_seen": "2026-07-29"
   },
   {
-    "id": "greenhouse_pinterest_8067933",
-    "title": "Staff Technical Program Manager",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8067933",
-    "posted_date": "2026-07-29",
-    "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-30"
-  },
-  {
     "id": "greenhouse_pinterest_7494650",
     "title": "Staff Technical Program Manager",
     "location": "San Francisco, CA, US; Remote, US",
@@ -251,6 +251,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-29"
+  },
+  {
+    "id": "greenhouse_pinterest_8067933",
+    "title": "Staff Technical Program Manager",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8067933",
+    "posted_date": "2026-07-29",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-07-30"
   },
   {
     "id": "greenhouse_dropbox_8070685",
