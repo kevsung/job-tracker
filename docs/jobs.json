@@ -11,6 +11,17 @@
     "first_seen": "2026-08-10"
   },
   {
+    "id": "greenhouse_hubspotjobs_8120519",
+    "title": "Staff Product Manager, Monetization",
+    "location": "Remote - USA",
+    "url": "https://www.hubspot.com/careers/jobs/8120519?gh_jid=8120519",
+    "posted_date": "2026-08-10",
+    "company": "HubSpot",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-11"
+  },
+  {
     "id": "greenhouse_affirm_7818068003",
     "title": "Senior Product Manager, 1: Many Merchant Growth",
     "location": "Remote US",
@@ -121,32 +132,10 @@
     "first_seen": "2026-08-05"
   },
   {
-    "id": "greenhouse_pinterest_7494648",
-    "title": "Sr. Staff Technical Program Manager",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494648",
-    "posted_date": "2026-08-04",
-    "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-08-05"
-  },
-  {
     "id": "greenhouse_coinbase_8089161",
     "title": "Manager, WFM Operations",
     "location": "Remote - USA",
     "url": "https://www.coinbase.com/careers/positions/8089161?gh_jid=8089161",
-    "posted_date": "2026-08-03",
-    "company": "Coinbase",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-08-04"
-  },
-  {
-    "id": "greenhouse_coinbase_8104175",
-    "title": "Technical Program Manager",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/8104175?gh_jid=8104175",
     "posted_date": "2026-08-03",
     "company": "Coinbase",
     "tier": "Strong",
@@ -454,7 +443,7 @@
     "id": "greenhouse_hubspotjobs_8042918",
     "title": "Staff Product Manager, Ads",
     "location": "Remote - USA",
-    "url": "https://job-boards.greenhouse.io/hubspotjobs/jobs/8042918",
+    "url": "https://www.hubspot.com/careers/jobs/8042918?gh_jid=8042918",
     "posted_date": "2026-07-20",
     "company": "HubSpot",
     "tier": "Strong",
@@ -660,17 +649,6 @@
     "first_seen": "2026-07-09"
   },
   {
-    "id": "rippling_rippling_254f0445-8640-4a8b-a1b5-03c9a0f9f3fa",
-    "title": "Manager, PEO Benefits Strategy & Operations",
-    "location": "Remote (United States)",
-    "url": "https://ats.rippling.com/rippling/jobs/254f0445-8640-4a8b-a1b5-03c9a0f9f3fa",
-    "company": "Rippling",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-09",
-    "posted_date": "2026-07-09"
-  },
-  {
     "id": "greenhouse_life360_8627517002",
     "title": "Staff Technical Program Manager, AI Native",
     "location": "Remote, USA; Remote, Canada",
@@ -680,17 +658,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-15"
-  },
-  {
-    "id": "greenhouse_coinbase_8024877",
-    "title": "Technical Program Manager, GFCO Analytics",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/8024877?gh_jid=8024877",
-    "posted_date": "2026-07-08",
-    "company": "Coinbase",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-21"
   },
   {
     "id": "greenhouse_stripe_8042055",
@@ -817,7 +784,7 @@
     "id": "greenhouse_hubspotjobs_7741756",
     "title": "Senior Product Manager, Events Data Platform",
     "location": "Remote - USA",
-    "url": "https://job-boards.greenhouse.io/hubspotjobs/jobs/7741756",
+    "url": "https://www.hubspot.com/careers/jobs/7741756?gh_jid=7741756",
     "posted_date": "2026-06-22",
     "company": "HubSpot",
     "tier": "Strong",
@@ -1087,16 +1054,5 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-14"
-  },
-  {
-    "id": "greenhouse_affirm_7728589003",
-    "title": "Staff Technical Program Manager",
-    "location": "Remote US",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7728589003",
-    "posted_date": "2026-05-12",
-    "company": "Affirm",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-02"
   }
 ]
