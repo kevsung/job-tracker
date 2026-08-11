@@ -1,5 +1,49 @@
 [
   {
+    "id": "greenhouse_stripe_8042309",
+    "title": "Program Manager, GTM Strategic Programs",
+    "location": "US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8042309",
+    "posted_date": "2026-08-11",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-11"
+  },
+  {
+    "id": "greenhouse_hubspotjobs_8105358",
+    "title": "Principal Technical Program Manager, Security",
+    "location": "Remote - USA",
+    "url": "https://www.hubspot.com/careers/jobs/8105358?gh_jid=8105358",
+    "posted_date": "2026-08-11",
+    "company": "HubSpot",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-11"
+  },
+  {
+    "id": "greenhouse_reddit_8120503",
+    "title": "Senior Product Manager, Ads -  Shopping Catalogs",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8120503",
+    "posted_date": "2026-08-11",
+    "company": "Reddit",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-11"
+  },
+  {
+    "id": "greenhouse_airbnb_8120458",
+    "title": "Lead Localization Operations Program Manager",
+    "location": "United States ",
+    "url": "https://careers.airbnb.com/positions/8120458?gh_jid=8120458",
+    "posted_date": "2026-08-11",
+    "company": "Airbnb",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-08-11"
+  },
+  {
     "id": "greenhouse_nebius_4948132101",
     "title": "Delivery Manager - Data Center, Physical Security ",
     "location": "United States",
@@ -281,17 +325,6 @@
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8089089",
     "posted_date": "2026-07-28",
     "company": "DoorDash",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-28"
-  },
-  {
-    "id": "greenhouse_samsara_8083905",
-    "title": "Senior Program Manager - Customer Success Programs",
-    "location": "Remote - US",
-    "url": "https://www.samsara.com/company/careers/roles/8083905?gh_jid=8083905",
-    "posted_date": "2026-07-28",
-    "company": "Samsara",
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-28"
@@ -781,17 +814,6 @@
     "first_seen": "2026-07-15"
   },
   {
-    "id": "greenhouse_hubspotjobs_7741756",
-    "title": "Senior Product Manager, Events Data Platform",
-    "location": "Remote - USA",
-    "url": "https://www.hubspot.com/careers/jobs/7741756?gh_jid=7741756",
-    "posted_date": "2026-06-22",
-    "company": "HubSpot",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-30"
-  },
-  {
     "id": "greenhouse_nice_4831290101",
     "title": "Lead AI Project Manager, CX",
     "location": "USA - Remote",
@@ -869,17 +891,6 @@
     "first_seen": "2026-07-08"
   },
   {
-    "id": "greenhouse_pinterest_8002076",
-    "title": "Manager II, Technical Program Management - Ads & Core Infrastructure",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8002076",
-    "posted_date": "2026-06-12",
-    "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-09"
-  },
-  {
     "id": "greenhouse_doordashusa_7996727",
     "title": "Associate Manager, Strategy & Operations",
     "location": "New York, NY; Washington, D.C,; San Francisco, CA",
@@ -922,17 +933,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-06-20"
-  },
-  {
-    "id": "greenhouse_doordashusa_7983274",
-    "title": "Associate Manager, Sales Strategy & Operations",
-    "location": "Atlanta, GA; Austin, TX; Boston, MA; Chicago, IL; Denver, CO; Los Angeles, CA; New York, NY; Tempe, AZ; San Francisco, CA; Seattle, WA; Washington D.C.",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7983274",
-    "posted_date": "2026-06-04",
-    "company": "DoorDash",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-07-20"
   },
   {
     "id": "greenhouse_pinterest_7955593",
