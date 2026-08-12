@@ -57,6 +57,13 @@ COMPANIES: dict[str, list[dict]] = {
             "board": "ClioCareerSite",
             "wd_subdomain": "wd3",
         },
+        {
+            "name": "Capital One",
+            "ats": "workday",
+            "tenant": "capitalone",
+            "board": "Capital_One",
+            "wd_subdomain": "wd12",
+        },
     ],
     "Moderate": [
         {"name": "Oura",        "ats": "greenhouse",      "slug": "oura"},

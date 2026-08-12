@@ -38,14 +38,19 @@ _TITLE_PATTERNS = [
     re.compile(r"\bproject\s+manager[,\s\-]+(sr\.?|senior|staff|lead|principal)", re.I),
     # Product Operations Manager
     re.compile(r"\bproduct\s+operations\s+manager", re.I),
-    # Creative / Marketing Operations Manager
-    re.compile(r"\b(creative|marketing)\s+operations\s+manager", re.I),
-    # Creative Operations (Lead/Manager/Director/Head), without requiring "Manager" suffix
-    re.compile(r"\b(senior|sr\.?|staff|lead|head\s+of)?\s*creative\s+operations\b", re.I),
+    # Creative / Marketing / Design Operations Manager
+    re.compile(r"\b(creative|marketing|design)\s+operations\s+manager", re.I),
+    # Creative / Design Operations (Lead/Manager/Director/Head), without requiring "Manager" suffix
+    re.compile(r"\b(senior|sr\.?|staff|lead|head\s+of)?\s*(creative|design)\s+operations\b", re.I),
+    # Design Ops (abbreviated form; Lead/Manager/Director/Head)
+    re.compile(r"\b(senior|sr\.?|staff|lead|head\s+of)?\s*design\s+ops\b", re.I),
+    # Design Team Manager / Manager, Design (Team)
+    re.compile(r"\bdesign\s+team\s+manager\b", re.I),
+    re.compile(r"\bmanager,?\s+design\s+team\b", re.I),
     # Creative Producer / Senior Producer / Production Producer (any seniority)
     re.compile(r"\b(senior|sr\.?|staff|lead|executive)?\s*(creative|production|content)\s+producer\b", re.I),
-    # Director of [Creative/Marketing/Product/Program] Operations
-    re.compile(r"\bdirector\s+of\s+(creative|marketing|product|program)\s+operations", re.I),
+    # Director of [Creative/Marketing/Product/Program/Design] Operations
+    re.compile(r"\bdirector\s+of\s+(creative|marketing|product|program|design)\s+operations", re.I),
     # Creative Production Lead / Manager / Director (any seniority)
     re.compile(r"\b(senior|sr\.?|staff|lead)?\s*creative\s+production\s+(lead|manager|director)", re.I),
     # Production Manager / Lead / Director (any seniority, incl. unlabeled)
