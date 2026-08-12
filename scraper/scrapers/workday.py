@@ -1,5 +1,7 @@
 import hashlib
 import re
+from datetime import date, timedelta
+
 import requests
 
 _HEADERS = {
@@ -7,6 +9,25 @@ _HEADERS = {
     "Content-Type": "application/json",
 }
 _LIMIT = 20
+
+# Workday's "postedOn" field is a relative string (e.g. "Posted Today",
+# "Posted 3 Days Ago", "Posted 30+ Days Ago") rather than an absolute date.
+_POSTED_ON_RE = re.compile(r"posted\s+(today|yesterday|(\d+)\+?\s+days?\s+ago)", re.I)
+
+
+def _parse_posted_on(text: str) -> str:
+    match = _POSTED_ON_RE.search(text or "")
+    if not match:
+        return ""
+    label, days = match.group(1), match.group(2)
+    if days:
+        days_ago = int(days)
+    elif label.lower() == "yesterday":
+        days_ago = 1
+    else:
+        days_ago = 0
+    return (date.today() - timedelta(days=days_ago)).isoformat()
+
 
 # Some Workday tenants (e.g. Capital One) collapse multi-location postings'
 # locationsText to a generic "N Locations" placeholder instead of naming
@@ -57,7 +78,7 @@ def scrape_workday(tenant: str, board: str, wd_subdomain: str = "wd5") -> list[d
                     "title": job.get("title", ""),
                     "location": location,
                     "url": f"{base}/en-US/{board}{path}",
-                    "posted_date": "",
+                    "posted_date": _parse_posted_on(job.get("postedOn", "")),
                 }
             )
         if len(postings) < _LIMIT:
