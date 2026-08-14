@@ -1,5 +1,38 @@
 [
   {
+    "id": "ashby_1password_99eb8a4c-81e1-413b-822f-dd27598207e0",
+    "title": "Senior Staff Product Manager, Device Security",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/99eb8a4c-81e1-413b-822f-dd27598207e0",
+    "posted_date": "2026-08-14",
+    "company": "1Password",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-14"
+  },
+  {
+    "id": "workday_capitalone_06c43aadf092",
+    "title": "Chief of Staff, Project Manager",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Chief-of-Staff--Project-Manager_R249213-1",
+    "posted_date": "2026-08-14",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-14"
+  },
+  {
+    "id": "workday_capitalone_6717c257b260",
+    "title": "Principal Project Manager, Horizontal Operations, Enterprise Learning",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Project-Manager--Horizontal-Operations--Enterprise-Learning_R245939",
+    "posted_date": "2026-08-14",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-12"
+  },
+  {
     "id": "workday_capitalone_79e452531869",
     "title": "Business Manager, Insights & Strategic Projects | Capital One Business Travel",
     "location": "McLean, VA",
@@ -8,6 +41,17 @@
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
+    "first_seen": "2026-08-14"
+  },
+  {
+    "id": "greenhouse_pinterest_8109351",
+    "title": "Lead SMB & Channel Sales Program Manager",
+    "location": "Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8109351",
+    "posted_date": "2026-08-14",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
     "first_seen": "2026-08-14"
   },
   {
@@ -1056,17 +1100,6 @@
     "first_seen": "2026-08-12"
   },
   {
-    "id": "workday_capitalone_6717c257b260",
-    "title": "Principal Project Manager, Horizontal Operations, Enterprise Learning",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Project-Manager--Horizontal-Operations--Enterprise-Learning_R245939",
-    "posted_date": "2026-07-15",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
     "id": "workday_capitalone_a9fe6474bec6",
     "title": "Manager, eHR Strategic Operations",
     "location": "McLean, VA",
@@ -1093,17 +1126,6 @@
     "title": "Business Manager,Sales Operations-International Acceptance",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Business-Manager-Sales-Operations-International-Acceptance_R245372-1",
-    "posted_date": "2026-07-15",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
-    "id": "workday_capitalone_ed3cf021787e",
-    "title": "Principal Project Manager  (Hybrid)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Project-Manager---Hybrid-_R244008-1",
     "posted_date": "2026-07-15",
     "company": "Capital One",
     "tier": "Strong",
@@ -1472,17 +1494,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-05-29"
-  },
-  {
-    "id": "greenhouse_pinterest_7957799",
-    "title": "Staff Technical Program Manager, Search Relevance",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7957799",
-    "posted_date": "2026-05-27",
-    "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-05-27"
   },
   {
     "id": "greenhouse_reddit_7954001",
