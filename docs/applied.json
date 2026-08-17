@@ -110,5 +110,19 @@
       "first_seen": "2026-07-21"
     },
     "appliedDate": "2026-08-17"
+  },
+  "greenhouse_known_8643490002": {
+    "job": {
+      "id": "greenhouse_known_8643490002",
+      "title": "Sr. Project Manager (Temp-to-Perm)",
+      "location": "Los Angeles, CA; New York, NY; Remote",
+      "url": "https://job-boards.greenhouse.io/known/jobs/8643490002",
+      "posted_date": "2026-07-21",
+      "company": "Known",
+      "tier": "Weak with Caveats",
+      "remote": true,
+      "first_seen": "2026-07-22"
+    },
+    "appliedDate": "2026-08-17"
   }
 }
