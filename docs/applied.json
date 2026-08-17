@@ -138,5 +138,19 @@
       "first_seen": "2026-07-15"
     },
     "appliedDate": "2026-08-17"
+  },
+  "greenhouse_mercury_6138978004": {
+    "job": {
+      "id": "greenhouse_mercury_6138978004",
+      "title": "Senior Product Operations Specialist",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6138978004",
+      "posted_date": "2026-08-07",
+      "company": "Mercury",
+      "tier": "Strong",
+      "remote": true,
+      "first_seen": "2026-08-07"
+    },
+    "appliedDate": "2026-08-17"
   }
 }
