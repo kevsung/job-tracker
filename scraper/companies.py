@@ -36,13 +36,6 @@ COMPANIES: dict[str, list[dict]] = {
         {"name": "Nozomi Networks", "ats": "greenhouse",   "slug": "nozominetworks"},
         {"name": "Rippling",     "ats": "rippling",         "board_id": "rippling"},
         {
-            "name": "Genesys",
-            "ats": "workday",
-            "tenant": "genesys",
-            "board": "Genesys",
-            "wd_subdomain": "wd1",
-        },
-        {
             "name": "Adobe",
             "ats": "workday",
             "tenant": "adobe",
