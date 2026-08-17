@@ -181,17 +181,17 @@
     },
     "appliedDate": "2026-08-17"
   },
-  "workday_capitalone_e60227a8d046": {
+  "greenhouse_reddit_8049762": {
     "job": {
-      "id": "workday_capitalone_e60227a8d046",
-      "title": "Senior Manager, Product Manager - Bank Marketing Adtech",
-      "location": "McLean, VA",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Product-Manager---Bank-Marketing-Adtech_R248321-1",
-      "posted_date": "2026-08-03",
-      "company": "Capital One",
+      "id": "greenhouse_reddit_8049762",
+      "title": "Staff Technical Program Manager",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8049762",
+      "posted_date": "2026-07-07",
+      "company": "Reddit",
       "tier": "Strong",
-      "remote": false,
-      "first_seen": "2026-08-12"
+      "remote": true,
+      "first_seen": "2026-07-08"
     },
     "appliedDate": "2026-08-17"
   }
