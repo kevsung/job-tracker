@@ -110,9 +110,11 @@ _TEMPLATE = """\
         (!localStorage.getItem("theme") && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
       document.documentElement.classList.add("dark");
     }
-    tailwind = { config: { darkMode: "class" } };
   </script>
   <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = { darkMode: "class" };
+  </script>
 </head>
 <body class="bg-gray-100 dark:bg-gray-900 font-sans min-h-screen transition-colors">
 
