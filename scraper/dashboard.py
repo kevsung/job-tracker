@@ -82,6 +82,16 @@ MANUAL_COMPANIES = [
         "tier": "Strong",
         "url": "https://gc.ai/company/careers#openings",
     },
+    {
+        "name": "Deel (careers page changed)",
+        "tier": "Strong",
+        "url": "https://www.deel.com/careers/?location=united+states",
+    },
+    {
+        "name": "Whatnot (Ashby board is JS-rendered)",
+        "tier": "Moderate",
+        "url": "https://jobs.ashbyhq.com/whatnot?workplaceType=Remote",
+    },
 ]
 
 # ---------------------------------------------------------------------------
