@@ -44,7 +44,32 @@ def load_existing() -> dict[str, dict]:
     return {}
 
 
-def scrape_one(company: dict) -> list[dict]:
+def careers_url(company: dict) -> str:
+    """Best-effort link back to the company's careers page, for the errors report."""
+    ats = company["ats"]
+    if ats == "greenhouse":
+        return f"https://job-boards.greenhouse.io/{company['slug']}"
+    if ats == "lever":
+        return f"https://jobs.lever.co/{company['slug']}"
+    if ats == "workday":
+        return f"https://{company['tenant']}.{company.get('wd_subdomain', 'wd5')}.myworkdayjobs.com/{company['board']}"
+    if ats == "ashby":
+        return f"https://jobs.ashbyhq.com/{company['slug']}"
+    if ats == "bamboohr":
+        return f"https://{company['slug']}.bamboohr.com/careers"
+    if ats == "smartrecruiters":
+        return f"https://jobs.smartrecruiters.com/{company['company_id']}"
+    if ats == "paylocity":
+        return f"https://recruiting.paylocity.com/recruiting/jobs/All/{company['guid']}"
+    if ats == "rippling":
+        return f"https://ats.rippling.com/{company['board_id']}/jobs"
+    if ats == "generic":
+        return company.get("url", "")
+    return ""
+
+
+def scrape_one(company: dict) -> tuple[list[dict], str | None, int]:
+    """Returns (matched_jobs, error_message_or_None, raw_total_count)."""
     ats = company["ats"]
     try:
         if ats == "greenhouse":
@@ -71,14 +96,14 @@ def scrape_one(company: dict) -> list[dict]:
             raw = scrape_generic(company["url"])
         else:
             log.warning("Unknown ATS '%s' for %s", ats, company["name"])
-            return []
+            return [], f"Unknown ATS '{ats}'", 0
     except Exception as exc:
         log.error("  %s: %s", company["name"], exc)
-        return []
+        return [], str(exc), 0
 
     matched = [j for j in raw if title_matches(j["title"]) and location_matches(j["location"])]
     log.info("  %-30s  %d match(es) / %d total", company["name"], len(matched), len(raw))
-    return matched
+    return matched, None, len(raw)
 
 
 def run(tiers: list[str] | None = None) -> None:
@@ -88,6 +113,7 @@ def run(tiers: list[str] | None = None) -> None:
 
     existing = load_existing()
     new_data: dict[str, dict] = {}
+    issues: list[dict] = []
 
     for tier, companies in COMPANIES.items():
         if tier not in tiers_to_scrape:
@@ -99,13 +125,28 @@ def run(tiers: list[str] | None = None) -> None:
 
         log.info("=== %s ===", tier)
         for company in companies:
-            for job in scrape_one(company):
+            matched, error, raw_total = scrape_one(company)
+            for job in matched:
                 job["company"] = company["name"]
                 job["tier"] = tier
                 job["remote"] = "remote" in job["location"].lower()
                 job["first_seen"] = existing[job["id"]]["first_seen"] if job["id"] in existing else today
                 job["posted_date"] = effective_date(job) or today
                 new_data[job["id"]] = job
+            if error:
+                issues.append({
+                    "company": company["name"],
+                    "tier": tier,
+                    "url": careers_url(company),
+                    "reason": f"Error: {error}",
+                })
+            elif raw_total == 0:
+                issues.append({
+                    "company": company["name"],
+                    "tier": tier,
+                    "url": careers_url(company),
+                    "reason": "0 results returned",
+                })
             time.sleep(0.5)
 
     scraped_existing_ids = {jid for jid, j in existing.items() if j.get("tier") in tiers_to_scrape}
@@ -128,7 +169,7 @@ def run(tiers: list[str] | None = None) -> None:
     JOBS_FILE.write_text(json.dumps(jobs_list, indent=2, ensure_ascii=False), encoding="utf-8")
     log.info("Saved %d jobs → %s", len(jobs_list), JOBS_FILE)
 
-    render_dashboard(jobs_list, DOCS_DIR / "index.html")
+    render_dashboard(jobs_list, DOCS_DIR / "index.html", issues=issues)
     log.info("Dashboard rendered → %s", DOCS_DIR / "index.html")
 
 
