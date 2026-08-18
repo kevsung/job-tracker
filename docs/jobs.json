@@ -1,5 +1,38 @@
 [
   {
+    "id": "greenhouse_stripe_8138302",
+    "title": "Manager, Risk Operations Technology Programs",
+    "location": "United States",
+    "url": "https://stripe.com/jobs/search?gh_jid=8138302",
+    "posted_date": "2026-08-18",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-18"
+  },
+  {
+    "id": "greenhouse_stripe_8112456",
+    "title": "Strategic Program Manager, Support",
+    "location": "Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8112456",
+    "posted_date": "2026-08-18",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-18"
+  },
+  {
+    "id": "workday_capitalone_a1b9e8166c19",
+    "title": "Director, Technical Program Manager - Bank Tech",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager---Bank-Tech_R249255-1",
+    "posted_date": "2026-08-18",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-18"
+  },
+  {
     "id": "greenhouse_stripe_8127890",
     "title": "Program Manager, Performance and Talent Planning",
     "location": "US-Remote",
@@ -944,17 +977,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-20"
-  },
-  {
-    "id": "greenhouse_nozominetworks_4715406005",
-    "title": "Digital Program Manager",
-    "location": "United States",
-    "url": "https://job-boards.greenhouse.io/nozominetworks/jobs/4715406005",
-    "posted_date": "2026-07-20",
-    "company": "Nozomi Networks",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-07-23"
   },
   {
     "id": "greenhouse_oura_4323420009",
