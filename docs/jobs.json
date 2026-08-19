@@ -44,6 +44,17 @@
     "first_seen": "2026-08-18"
   },
   {
+    "id": "greenhouse_viralnation_5215278007",
+    "title": "Director, Project Management",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/viralnation/jobs/5215278007",
+    "posted_date": "2026-08-18",
+    "company": "Viral Nation",
+    "tier": "Fair",
+    "remote": false,
+    "first_seen": "2026-08-19"
+  },
+  {
     "id": "greenhouse_stripe_8127890",
     "title": "Program Manager, Performance and Talent Planning",
     "location": "US-Remote",
@@ -1615,16 +1626,5 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-06-18"
-  },
-  {
-    "id": "greenhouse_reddit_7947049",
-    "title": "Principal Technical Program Manager, Performance",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7947049",
-    "posted_date": "2026-05-20",
-    "company": "Reddit",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-08"
   }
 ]
