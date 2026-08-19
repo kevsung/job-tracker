@@ -11,6 +11,28 @@
     "first_seen": "2026-08-19"
   },
   {
+    "id": "greenhouse_chime_8728271002",
+    "title": "Program Manager, Member Experience",
+    "location": "Remote, USA",
+    "url": "https://boards.greenhouse.io/chime/jobs/8728271002?gh_jid=8728271002",
+    "posted_date": "2026-08-19",
+    "company": "Chime",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-19"
+  },
+  {
+    "id": "workday_capitalone_e6a84dd63182",
+    "title": "Senior Manager, Tech Program Lead",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Tech-Program-Lead_R247710-1",
+    "posted_date": "2026-08-19",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-19"
+  },
+  {
     "id": "greenhouse_stripe_8138302",
     "title": "Manager, Risk Operations Technology Programs",
     "location": "United States",
@@ -277,7 +299,7 @@
   {
     "id": "greenhouse_doordashusa_8121933",
     "title": "Manager, Global Sourcing PMO and Transformation",
-    "location": "United States",
+    "location": "Los Angeles, CA; Seattle, WA; Phoenix, AZ; Chicago, IL; Washington, DC; Denver, CO; Boston, MA; Austin, TX; Atlanta, GA; Miami, FL",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8121933",
     "posted_date": "2026-08-12",
     "company": "DoorDash",
@@ -422,17 +444,6 @@
     "title": "Senior Director, Technical Program Manager",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Director--Technical-Program-Manager_R248855-1",
-    "posted_date": "2026-08-10",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
-    "id": "workday_capitalone_c9109b49d8a4",
-    "title": "Manager, Project Management (Intelligent Foundations & Experiences)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management--Intelligent-Foundations---Experiences-_R248809-1",
     "posted_date": "2026-08-10",
     "company": "Capital One",
     "tier": "Strong",
