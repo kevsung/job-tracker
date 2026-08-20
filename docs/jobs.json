@@ -1,5 +1,16 @@
 [
   {
+    "id": "ashby_cohere_9ea34f05-be1d-4630-8994-b80faca8cdb0",
+    "title": "People Project Manager",
+    "location": "Remote - United States",
+    "url": "https://jobs.ashbyhq.com/cohere/9ea34f05-be1d-4630-8994-b80faca8cdb0",
+    "posted_date": "2026-08-20",
+    "company": "Cohere",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-20"
+  },
+  {
     "id": "rippling_rippling_ce9bf549-cd9d-4dcc-8121-98629fdeffd5",
     "title": "Senior Manager, Support Operations",
     "location": "Remote (United States)",
@@ -31,6 +42,17 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-12"
+  },
+  {
+    "id": "greenhouse_airbnb_8144691",
+    "title": "Community & Culture Program Manager",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8144691?gh_jid=8144691",
+    "posted_date": "2026-08-20",
+    "company": "Airbnb",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-08-20"
   },
   {
     "id": "greenhouse_airbnb_8143116",
@@ -389,17 +411,6 @@
     "title": "Senior Product Manager - Technical Integration Lead, Capital One Business Travel",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Product-Manager---Technical-Integration-Lead--Capital-One-Business-Travel_R247417-2",
-    "posted_date": "2026-08-12",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-13"
-  },
-  {
-    "id": "workday_capitalone_b1379e8fee0a",
-    "title": "Senior Manager, Project Management - Decisioning Platform",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Project-Management---Decisioning-Platform_R248887",
     "posted_date": "2026-08-12",
     "company": "Capital One",
     "tier": "Strong",
