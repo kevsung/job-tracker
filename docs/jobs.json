@@ -1,5 +1,27 @@
 [
   {
+    "id": "greenhouse_stripe_7983725",
+    "title": "Staff Product Manager, Billing ",
+    "location": "SF, NY, SEA, Remote-US",
+    "url": "https://stripe.com/jobs/search?gh_jid=7983725",
+    "posted_date": "2026-08-21",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-21"
+  },
+  {
+    "id": "workday_capitalone_ad06b9ff635a",
+    "title": "Business Manager, International Risk Program",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Business-Manager--International-Risk-Program_R249754-1",
+    "posted_date": "2026-08-21",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-21"
+  },
+  {
     "id": "rippling_rippling_ce9bf549-cd9d-4dcc-8121-98629fdeffd5",
     "title": "Senior Manager, Support Operations",
     "location": "Remote (United States)",
@@ -41,6 +63,17 @@
     "company": "Instacart",
     "tier": "Moderate",
     "remote": true,
+    "first_seen": "2026-08-21"
+  },
+  {
+    "id": "greenhouse_airbnb_8144691",
+    "title": "Community & Culture Program Manager",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8144691?gh_jid=8144691",
+    "posted_date": "2026-08-20",
+    "company": "Airbnb",
+    "tier": "Moderate",
+    "remote": false,
     "first_seen": "2026-08-21"
   },
   {
@@ -97,17 +130,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-08-20"
-  },
-  {
-    "id": "workday_capitalone_9e477da672bb",
-    "title": "Director, Project Management, Small Business Bank",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Project-Management--Small-Business-Bank_R248804-2",
-    "posted_date": "2026-08-19",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
   },
   {
     "id": "workday_capitalone_e6a84dd63182",
@@ -559,17 +581,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-08-08"
-  },
-  {
-    "id": "smartrecruiters_experian_744000142189900",
-    "title": "Senior Product Manager, AdTech Identity Graph - Remote",
-    "location": "United States, UNITED STATES, us",
-    "url": "https://jobs.smartrecruiters.com/experian/744000142189900",
-    "posted_date": "2026-08-07",
-    "company": "Experian",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-08-07"
   },
   {
     "id": "greenhouse_coinbase_8110496",
