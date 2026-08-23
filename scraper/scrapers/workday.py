@@ -1,5 +1,6 @@
 import hashlib
 import re
+import time
 from datetime import date, timedelta
 
 import requests
@@ -9,6 +10,13 @@ _HEADERS = {
     "Content-Type": "application/json",
 }
 _LIMIT = 20
+_TIMEOUT = 15
+_MAX_RETRIES = 2
+_RETRY_BACKOFF = 3
+# Safety valve so one slow/rate-limited Workday tenant can't hang the whole
+# scrape run indefinitely (e.g. large tenants like Capital One paginate
+# through 1,000+ postings). 100 pages * 20/page = 2,000 postings/tenant.
+_MAX_PAGES = 100
 
 # Workday's "postedOn" field is a relative string (e.g. "Posted Today",
 # "Posted 3 Days Ago", "Posted 30+ Days Ago") rather than an absolute date.
@@ -56,15 +64,22 @@ def scrape_workday(tenant: str, board: str, wd_subdomain: str = "wd5") -> list[d
 
     jobs = []
     offset = 0
-    while True:
-        resp = requests.post(
-            api_url,
-            headers=_HEADERS,
-            json={"limit": _LIMIT, "offset": offset, "searchText": "", "appliedFacets": {}},
-            timeout=30,
-        )
-        resp.raise_for_status()
-        data = resp.json()
+    for page in range(_MAX_PAGES):
+        for attempt in range(_MAX_RETRIES + 1):
+            try:
+                resp = requests.post(
+                    api_url,
+                    headers=_HEADERS,
+                    json={"limit": _LIMIT, "offset": offset, "searchText": "", "appliedFacets": {}},
+                    timeout=_TIMEOUT,
+                )
+                resp.raise_for_status()
+                data = resp.json()
+                break
+            except (requests.RequestException, ValueError):
+                if attempt == _MAX_RETRIES:
+                    raise
+                time.sleep(_RETRY_BACKOFF * (attempt + 1))
         postings = data.get("jobPostings", [])
         for job in postings:
             path = job.get("externalPath", "")
