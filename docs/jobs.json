@@ -11,6 +11,28 @@
     "first_seen": "2026-08-24"
   },
   {
+    "id": "greenhouse_coinbase_8148396",
+    "title": "Staff IT Technical Program Manager",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8148396?gh_jid=8148396",
+    "posted_date": "2026-08-24",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-24"
+  },
+  {
+    "id": "workday_capitalone_5b03959689bc",
+    "title": "Principal Associate, Retail Bank Campaign Project Manager",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate--Retail-Bank-Campaign-Project-Manager_R249857-1",
+    "posted_date": "2026-08-24",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-24"
+  },
+  {
     "id": "greenhouse_stripe_7983725",
     "title": "Staff Product Manager, Billing ",
     "location": "SF, NY, SEA, Remote-US",
@@ -154,17 +176,6 @@
     "first_seen": "2026-08-20"
   },
   {
-    "id": "workday_capitalone_e6a84dd63182",
-    "title": "Senior Manager, Tech Program Lead",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Tech-Program-Lead_R247710-1",
-    "posted_date": "2026-08-19",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-19"
-  },
-  {
     "id": "greenhouse_pinterest_8082033",
     "title": "Staff Product Manager, Applied Science",
     "location": "San Francisco, CA, US; Remote, US",
@@ -184,17 +195,6 @@
     "company": "Stripe",
     "tier": "Strong",
     "remote": false,
-    "first_seen": "2026-08-18"
-  },
-  {
-    "id": "greenhouse_stripe_8112456",
-    "title": "Strategic Program Manager, Support",
-    "location": "Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=8112456",
-    "posted_date": "2026-08-18",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
     "first_seen": "2026-08-18"
   },
   {
@@ -781,17 +781,6 @@
     "first_seen": "2026-08-01"
   },
   {
-    "id": "greenhouse_gomotive_8654142002",
-    "title": "Manager, Business Operations - Enterprise/Strategic",
-    "location": "United States - Remote",
-    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8654142002",
-    "posted_date": "2026-07-31",
-    "company": "Motive",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-31"
-  },
-  {
     "id": "greenhouse_dropbox_8092224",
     "title": "Program Manager, Workforce Planning",
     "location": "Remote - US: Select locations",
@@ -1320,17 +1309,6 @@
     "first_seen": "2026-07-17"
   },
   {
-    "id": "greenhouse_stripe_8039954",
-    "title": "People Project Manager",
-    "location": "US-Remote, Atlanta, Chicago",
-    "url": "https://stripe.com/jobs/search?gh_jid=8039954",
-    "posted_date": "2026-07-16",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-16"
-  },
-  {
     "id": "greenhouse_coinbase_8070046",
     "title": "GFCO Program Manager",
     "location": "Remote - USA",
@@ -1461,17 +1439,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-07-02"
-  },
-  {
-    "id": "greenhouse_webflow_8038479",
-    "title": "Staff Product Manager, Governance",
-    "location": "CA Remote (BC & ON only); U.S. Remote",
-    "url": "https://job-boards.greenhouse.io/webflow/jobs/8038479",
-    "posted_date": "2026-07-01",
-    "company": "Webflow",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-30"
   },
   {
     "id": "greenhouse_pinterest_7782569",
@@ -1615,17 +1582,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-20"
-  },
-  {
-    "id": "greenhouse_coinbase_7981394",
-    "title": "Senior Manager, Clearing Operations",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/7981394?gh_jid=7981394",
-    "posted_date": "2026-06-08",
-    "company": "Coinbase",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-21"
   },
   {
     "id": "greenhouse_stripe_7985196",
