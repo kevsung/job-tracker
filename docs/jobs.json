@@ -1,5 +1,27 @@
 [
   {
+    "id": "greenhouse_stripe_8127894",
+    "title": "Staff Program Manager, Event Design",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8127894",
+    "posted_date": "2026-08-25",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-25"
+  },
+  {
+    "id": "greenhouse_grafanalabs_6161249004",
+    "title": "Staff Product Manager, OpenTelemetry | US | Remote",
+    "location": "United States (Remote)",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6161249004",
+    "posted_date": "2026-08-25",
+    "company": "Grafana Labs",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-25"
+  },
+  {
     "id": "ashby_1password_0b37fa60-5cbc-4b9a-84c9-4afe50634db7",
     "title": "Staff Product Manager, SaaS Manager",
     "location": "Remote (United States | Canada)",
@@ -77,6 +99,17 @@
     "first_seen": "2026-08-24"
   },
   {
+    "id": "greenhouse_okta_8155421",
+    "title": "Program Manager, ISV Ecosystem",
+    "location": "Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC",
+    "url": "https://www.okta.com/company/careers/opportunity/8155421?gh_jid=8155421",
+    "posted_date": "2026-08-24",
+    "company": "Okta",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-08-25"
+  },
+  {
     "id": "greenhouse_stripe_7983725",
     "title": "Staff Product Manager, Billing ",
     "location": "SF, NY, SEA, Remote-US",
@@ -99,17 +132,6 @@
     "first_seen": "2026-08-21"
   },
   {
-    "id": "rippling_rippling_ce9bf549-cd9d-4dcc-8121-98629fdeffd5",
-    "title": "Senior Manager, Support Operations",
-    "location": "Remote (United States)",
-    "url": "https://ats.rippling.com/rippling/jobs/ce9bf549-cd9d-4dcc-8121-98629fdeffd5",
-    "company": "Rippling",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-08-20",
-    "posted_date": "2026-08-20"
-  },
-  {
     "id": "workday_capitalone_f9303250e294",
     "title": "Senior Manager, Technical Program Management",
     "location": "McLean, VA",
@@ -119,17 +141,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-20"
-  },
-  {
-    "id": "workday_capitalone_a2a5e899bbc7",
-    "title": "Senior Manager, Technical Program Management",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Technical-Program-Management_R245525-1",
-    "posted_date": "2026-08-20",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
   },
   {
     "id": "greenhouse_instacart_8145958",
@@ -1100,17 +1111,6 @@
     "first_seen": "2026-08-12"
   },
   {
-    "id": "workday_capitalone_6fef232a023d",
-    "title": "Senior Cyber Program Manager",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Cyber-Reporting_R245087-1",
-    "posted_date": "2026-07-26",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
     "id": "workday_capitalone_4525ee6c6dc8",
     "title": "Business Manager,Sales Operations-International Acceptance",
     "location": "McLean, VA",
@@ -1274,17 +1274,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-08-13"
-  },
-  {
-    "id": "greenhouse_instacart_8074453",
-    "title": "Manager, IT Operations",
-    "location": "San Francisco, Bay Area - Remote",
-    "url": "https://instacart.careers/job/?gh_jid=8074453",
-    "posted_date": "2026-07-20",
-    "company": "Instacart",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-20"
   },
   {
     "id": "greenhouse_coinbase_8069671",
