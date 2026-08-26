@@ -11,6 +11,61 @@
     "posted_date": "2026-08-26"
   },
   {
+    "id": "workday_capitalone_7794e17a727e",
+    "title": "Senior Cyber Program Manager",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Cyber-Program-Manager_R244715-2",
+    "posted_date": "2026-08-26",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-26"
+  },
+  {
+    "id": "workday_capitalone_756205f4c920",
+    "title": "Senior Associate, Project Manager | Retail Bank Operations & Market Experience (Hybrid)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Project-Manager---Retail-Bank-Operations---Market-Experience--Hybrid-_R249823-1",
+    "posted_date": "2026-08-26",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-26"
+  },
+  {
+    "id": "workday_capitalone_4d4e2112fb81",
+    "title": "Director, Technical Program Manager (Resiliency and Reliability Engineering)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager--Resiliency-and-Reliability-Engineering-_R999186-2",
+    "posted_date": "2026-08-26",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-26"
+  },
+  {
+    "id": "greenhouse_dept_8147731",
+    "title": "Associate Director, Technical Product & Program Manager",
+    "location": "NY, US, CA, US, IL, US - Remote",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8147731",
+    "posted_date": "2026-08-26",
+    "company": "DEPT",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-08-26"
+  },
+  {
+    "id": "greenhouse_dept_8148071",
+    "title": "Group Director, Program Manager",
+    "location": "NY, US, CA, US, IL, US - Remote",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8148071",
+    "posted_date": "2026-08-26",
+    "company": "DEPT",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-08-26"
+  },
+  {
     "id": "greenhouse_stripe_8158082",
     "title": "Program Manager, Risk Operations GTM Enablement",
     "location": "United States",
@@ -251,17 +306,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-08-19"
-  },
-  {
-    "id": "greenhouse_chime_8731531002",
-    "title": "Program Manager, Voice of the Member",
-    "location": "Remote, USA",
-    "url": "https://boards.greenhouse.io/chime/jobs/8731531002?gh_jid=8731531002",
-    "posted_date": "2026-08-19",
-    "company": "Chime",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-08-20"
   },
   {
     "id": "greenhouse_pinterest_8082033",
@@ -847,6 +891,17 @@
     "first_seen": "2026-08-01"
   },
   {
+    "id": "greenhouse_gomotive_8654142002",
+    "title": "Manager, Business Operations - Enterprise/Strategic",
+    "location": "United States - Remote",
+    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8654142002",
+    "posted_date": "2026-07-31",
+    "company": "Motive",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-08-26"
+  },
+  {
     "id": "greenhouse_dropbox_8092224",
     "title": "Program Manager, Workforce Planning",
     "location": "Remote - US: Select locations",
@@ -1331,17 +1386,6 @@
     "first_seen": "2026-08-01"
   },
   {
-    "id": "greenhouse_doordashusa_8064747",
-    "title": "Associate Manager, Strategy & Operations for Marketing Products, In-Store",
-    "location": "New York, NY; Miami, FL; Washington D.C.",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8064747",
-    "posted_date": "2026-07-16",
-    "company": "DoorDash",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-07-20"
-  },
-  {
     "id": "greenhouse_samsara_8053373",
     "title": "Sr. Marketing Operations Manager - Global Lead Flow",
     "location": "Remote - US",
@@ -1373,6 +1417,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-21"
+  },
+  {
+    "id": "greenhouse_pinterest_7638587",
+    "title": "Sr. Project & Program Manager",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7638587",
+    "posted_date": "2026-07-16",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-08-26"
   },
   {
     "id": "greenhouse_grafanalabs_6115634004",
