@@ -1,5 +1,16 @@
 [
   {
+    "id": "greenhouse_doordashusa_8161478",
+    "title": "Associate Manager, Strategy and Operations - Fraud",
+    "location": "United States - Remote",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8161478",
+    "posted_date": "2026-08-27",
+    "company": "DoorDash",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-27"
+  },
+  {
     "id": "rippling_rippling_ce9bf549-cd9d-4dcc-8121-98629fdeffd5",
     "title": "Senior Manager, Support Operations",
     "location": "Remote (United States)",
@@ -1122,17 +1133,6 @@
     "first_seen": "2026-08-12"
   },
   {
-    "id": "workday_capitalone_cb9fbd46af3c",
-    "title": "Senior Associate Product Manager – US Card Core Platforms & Servicing",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate-Product-Manager---US-Card-Core-Platforms---Servicing_R246413-1",
-    "posted_date": "2026-07-28",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
     "id": "workday_capitalone_e4f2ca3392ef",
     "title": "Director, Product Manager, Product Practice and Enablement",
     "location": "McLean, VA",
@@ -1159,17 +1159,6 @@
     "title": "Principal Associate, Project Manager - Product Operations: Governance & People Excellence",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate--Project-Manager---Product-Operations--Governance---People-Excellence_R244661-1",
-    "posted_date": "2026-07-28",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
-    "id": "workday_capitalone_6270492bef5b",
-    "title": "Manager, Project Management-Enterprise Data",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management-Enterprise-Data_R246053-1",
     "posted_date": "2026-07-28",
     "company": "Capital One",
     "tier": "Strong",
@@ -1219,17 +1208,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-12"
-  },
-  {
-    "id": "greenhouse_stripe_8081754",
-    "title": "Program Manager, Card Network Office (Card Networks)",
-    "location": "US-SF, US-NYC, US-Seattle, US-Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=8081754",
-    "posted_date": "2026-07-27",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-27"
   },
   {
     "id": "greenhouse_life360_8652913002",
@@ -1350,17 +1328,6 @@
     "company": "DoorDash",
     "tier": "Strong",
     "remote": false,
-    "first_seen": "2026-07-20"
-  },
-  {
-    "id": "greenhouse_hubspotjobs_8042918",
-    "title": "Staff Product Manager, Ads",
-    "location": "Remote - USA",
-    "url": "https://www.hubspot.com/careers/jobs/8042918?gh_jid=8042918",
-    "posted_date": "2026-07-20",
-    "company": "HubSpot",
-    "tier": "Strong",
-    "remote": true,
     "first_seen": "2026-07-20"
   },
   {
@@ -1494,17 +1461,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-31"
-  },
-  {
-    "id": "greenhouse_life360_8627517002",
-    "title": "Staff Technical Program Manager, AI Native",
-    "location": "Remote, USA; Remote, Canada",
-    "url": "https://job-boards.greenhouse.io/life360/jobs/8627517002",
-    "posted_date": "2026-07-09",
-    "company": "Life360",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-15"
   },
   {
     "id": "greenhouse_stripe_8042055",
