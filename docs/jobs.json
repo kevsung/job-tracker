@@ -1,5 +1,27 @@
 [
   {
+    "id": "greenhouse_nebius_4962494101",
+    "title": "Manager, Sales Strategy and Operations",
+    "location": "Remote - United States",
+    "url": "https://careers.nebius.com/?gh_jid=4962494101",
+    "posted_date": "2026-08-28",
+    "company": "Nebius",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-28"
+  },
+  {
+    "id": "workday_capitalone_fabe509fafc2",
+    "title": "Sr. Manager, Project Manager | Signature Experiences Programming Lead",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager--Project-Manager---Signature-Experiences-Programming-Lead_R246918-2",
+    "posted_date": "2026-08-28",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-28"
+  },
+  {
     "id": "greenhouse_dropbox_8144634",
     "title": "Program Manager, People Operations",
     "location": "Remote - US: All locations",
@@ -218,17 +240,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-08-24"
-  },
-  {
-    "id": "workday_capitalone_79e452531869",
-    "title": "Business Manager, Insights & Strategic Projects | Capital One Business Travel",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Business-Manager--Marketing---Best-Customer---Field-Assessment--COBT_R248415-1",
-    "posted_date": "2026-08-24",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-14"
   },
   {
     "id": "workday_capitalone_de734a15e129",
@@ -1384,6 +1395,17 @@
     "tier": "Weak with Caveats",
     "remote": true,
     "first_seen": "2026-07-22"
+  },
+  {
+    "id": "greenhouse_hubspotjobs_8042918",
+    "title": "Staff Product Manager, Ads",
+    "location": "Remote - USA",
+    "url": "https://www.hubspot.com/careers/jobs/8042918?gh_jid=8042918",
+    "posted_date": "2026-07-20",
+    "company": "HubSpot",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-28"
   },
   {
     "id": "greenhouse_oura_4323420009",
