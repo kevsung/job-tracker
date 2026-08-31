@@ -1,5 +1,60 @@
 [
   {
+    "id": "greenhouse_databricks_8586857002",
+    "title": "Sr. Field Technical Program Manager, FDE",
+    "location": "United States",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8586857002",
+    "posted_date": "2026-08-31",
+    "company": "Databricks",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-31"
+  },
+  {
+    "id": "greenhouse_stripe_8147961",
+    "title": "Program Manager, GTM Planning",
+    "location": "Chicago, Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8147961",
+    "posted_date": "2026-08-31",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-31"
+  },
+  {
+    "id": "greenhouse_reddit_8167412",
+    "title": "Staff Product Manager, Ads Formats",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8167412",
+    "posted_date": "2026-08-31",
+    "company": "Reddit",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-08-31"
+  },
+  {
+    "id": "workday_capitalone_54d8b405991c",
+    "title": "Senior Director, Technical Program Manager",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Director--Technical-Program-Manager_R999540-1",
+    "posted_date": "2026-08-31",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-31"
+  },
+  {
+    "id": "workday_capitalone_345ea6bc3825",
+    "title": "Sr. Manager, Project Management (Enterprise Platforms Technology)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager--Project-Management--Enterprise-Platforms-Technology-_R999466",
+    "posted_date": "2026-08-31",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-31"
+  },
+  {
     "id": "greenhouse_samsara_8112696",
     "title": "Sr. Manager, Business Operations",
     "location": "Remote - US",
@@ -1505,17 +1560,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-21"
-  },
-  {
-    "id": "greenhouse_databricks_8583037002",
-    "title": "Sr. Field Technical Program Manager, Forward Deployed Engineering",
-    "location": "United States",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8583037002",
-    "posted_date": "2026-07-02",
-    "company": "Databricks",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-07-09"
   },
   {
     "id": "greenhouse_databricks_8549259002",
