@@ -1,11 +1,66 @@
 [
   {
+    "id": "greenhouse_doordashusa_8162204",
+    "title": "Associate Manager, Marketplace - Strategy & Operations ",
+    "location": "San Francisco, CA; New York, NY; Seattle, WA; Miami, FL; Los Angeles, CA; Denver, CO; Washington D.C.; Tempe, AZ; Chicago, IL; Austin, TX",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8162204",
+    "posted_date": "2026-09-01",
+    "company": "DoorDash",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-01"
+  },
+  {
     "id": "greenhouse_stripe_8155390",
     "title": "Design Program Manager, Research Operations",
     "location": "US",
     "url": "https://stripe.com/jobs/search?gh_jid=8155390",
     "posted_date": "2026-09-01",
     "company": "Stripe",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-01"
+  },
+  {
+    "id": "rippling_rippling_49d7af7f-f8ae-4f9a-8806-ae59c6ba5833",
+    "title": "Support Operations, Program Manager (Systems, Tools and AI)",
+    "location": "Remote (United States)",
+    "url": "https://ats.rippling.com/rippling/jobs/49d7af7f-f8ae-4f9a-8806-ae59c6ba5833",
+    "company": "Rippling",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-01",
+    "posted_date": "2026-09-01"
+  },
+  {
+    "id": "workday_capitalone_1e1fcf86b001",
+    "title": "Manager, Project Manager - Consumer Behavior Analytics",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Manager---Consumer-Behavior-Analytics_R999642-1",
+    "posted_date": "2026-09-01",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-01"
+  },
+  {
+    "id": "workday_capitalone_bc8cd53c3a28",
+    "title": "Senior Manager, Project Manager",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Project-Manager_R999668-1",
+    "posted_date": "2026-09-01",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-01"
+  },
+  {
+    "id": "workday_capitalone_4dd8d7db85c8",
+    "title": "Principal Project Manager",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Project-Manager_R999548-1",
+    "posted_date": "2026-09-01",
+    "company": "Capital One",
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-09-01"
@@ -77,17 +132,6 @@
     "first_seen": "2026-08-29"
   },
   {
-    "id": "greenhouse_nebius_4962494101",
-    "title": "Manager, Sales Strategy and Operations (IC)",
-    "location": "Remote - United States",
-    "url": "https://careers.nebius.com/?gh_jid=4962494101",
-    "posted_date": "2026-08-28",
-    "company": "Nebius",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-08-28"
-  },
-  {
     "id": "workday_capitalone_fabe509fafc2",
     "title": "Sr. Manager, Project Manager | Signature Experiences Programming Lead",
     "location": "McLean, VA",
@@ -119,6 +163,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-08-27"
+  },
+  {
+    "id": "greenhouse_stripe_8160754",
+    "title": "Hardware Program Manager, Terminal Logistics",
+    "location": "Chicago, Atlanta, US-Remote ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8160754",
+    "posted_date": "2026-08-27",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-01"
   },
   {
     "id": "greenhouse_affirm_7821076003",
@@ -196,17 +251,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-26"
-  },
-  {
-    "id": "greenhouse_instacart_8160738",
-    "title": "CX Technology Program Manager",
-    "location": "United States - Remote",
-    "url": "https://instacart.careers/job/?gh_jid=8160738",
-    "posted_date": "2026-08-26",
-    "company": "Instacart",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-08-27"
   },
   {
     "id": "greenhouse_dept_8147731",
@@ -529,7 +573,7 @@
   },
   {
     "id": "greenhouse_doordashusa_8131068",
-    "title": "Associate Manager, - Strategy & Operations",
+    "title": "Associate Manager, Strategy & Operations",
     "location": "Austin, TX; San Francisco, CA; Seattle, WA; Chicago, IL; New York, NY; Los Angeles, CA; United States - Remote",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8131068",
     "posted_date": "2026-08-14",
@@ -946,17 +990,6 @@
     "first_seen": "2026-08-12"
   },
   {
-    "id": "workday_capitalone_5b38c82083e3",
-    "title": "Sr. Manager - S&G Analyst Development Program Lead",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager---S-G-Analyst-Development-Program-Lead_R244744-2",
-    "posted_date": "2026-08-03",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
     "id": "workday_capitalone_e16cf1f6857a",
     "title": "Bilingual (Spanish) Senior Manager, Account Executive Operations (Remote Eligible)",
     "location": "McLean, VA",
@@ -994,17 +1027,6 @@
     "title": "Director, Technical Program Manager",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager_R248070",
-    "posted_date": "2026-08-02",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
-    "id": "workday_capitalone_2265ddbdcaf6",
-    "title": "Manager, Project Manager - Product Operations (Business Cards & Payments)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Manager---Product-Operations--Business-Cards---Payments-_R247764-1",
     "posted_date": "2026-08-02",
     "company": "Capital One",
     "tier": "Strong",
@@ -1582,17 +1604,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-09"
-  },
-  {
-    "id": "greenhouse_mercury_6097329004",
-    "title": "Head of Technical Program Management - Banking",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/6097329004",
-    "posted_date": "2026-06-18",
-    "company": "Mercury",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-21"
   },
   {
     "id": "greenhouse_affirm_7776437003",
