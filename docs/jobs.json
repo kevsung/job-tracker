@@ -1,5 +1,38 @@
 [
   {
+    "id": "greenhouse_affirm_7832310003",
+    "title": "Senior Technical Program Manager",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7832310003",
+    "posted_date": "2026-09-02",
+    "company": "Affirm",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-02"
+  },
+  {
+    "id": "greenhouse_nice_4962550101",
+    "title": "Lead Client Services Project Manager, CX",
+    "location": "USA - Remote",
+    "url": "https://boards.eu.greenhouse.io/nice/jobs/4962550101?gh_jid=4962550101",
+    "posted_date": "2026-09-02",
+    "company": "NICE",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-09-02"
+  },
+  {
+    "id": "greenhouse_dept_8174108",
+    "title": "Freelance Manager, Programmatic",
+    "location": "Denver CO; San Diego CA; Los Angeles CA; San Francisco CA; Salt Lake City UT; Portland OR; Seattle WA;  US - Remote",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8174108",
+    "posted_date": "2026-09-02",
+    "company": "DEPT",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-09-02"
+  },
+  {
     "id": "greenhouse_doordashusa_8162204",
     "title": "Associate Manager, Marketplace - Strategy & Operations ",
     "location": "San Francisco, CA; New York, NY; Seattle, WA; Miami, FL; Los Angeles, CA; Denver, CO; Washington D.C.; Tempe, AZ; Chicago, IL; Austin, TX",
@@ -152,17 +185,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-08-27"
-  },
-  {
-    "id": "greenhouse_stripe_8160754",
-    "title": "Hardware Program Manager, Terminal Logistics",
-    "location": "Chicago, Atlanta, US-Remote ",
-    "url": "https://stripe.com/jobs/search?gh_jid=8160754",
-    "posted_date": "2026-08-27",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-09-01"
   },
   {
     "id": "greenhouse_affirm_7821076003",
@@ -825,17 +847,6 @@
     "first_seen": "2026-08-10"
   },
   {
-    "id": "workday_capitalone_d58946e2492c",
-    "title": "Senior Director, Technical Program Manager",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Director--Technical-Program-Manager_R248855-1",
-    "posted_date": "2026-08-10",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
     "id": "greenhouse_databricks_8493148002",
     "title": "Staff Technical Program Manager - Cleared/Security ",
     "location": "McLean, Virginia; Washington, D.C.",
@@ -1441,6 +1452,17 @@
     "first_seen": "2026-08-01"
   },
   {
+    "id": "greenhouse_stripe_8069155",
+    "title": "Manager, Administrative Coordinator Program",
+    "location": "US-remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8069155",
+    "posted_date": "2026-07-16",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-02"
+  },
+  {
     "id": "greenhouse_stripe_8039954",
     "title": "People Project Manager",
     "location": "US-Remote, Atlanta, Chicago",
@@ -1549,6 +1571,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-21"
+  },
+  {
+    "id": "greenhouse_nice_4913553101",
+    "title": "Lead Client Services Project Manager, CX",
+    "location": "USA - Remote",
+    "url": "https://boards.eu.greenhouse.io/nice/jobs/4913553101?gh_jid=4913553101",
+    "posted_date": "2026-07-06",
+    "company": "NICE",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-09-02"
   },
   {
     "id": "greenhouse_databricks_8549259002",
