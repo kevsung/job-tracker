@@ -1,5 +1,16 @@
 [
   {
+    "id": "ashby_cohere_41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
+    "title": "Technical Program Manager, AI Delivery",
+    "location": "United States",
+    "url": "https://jobs.ashbyhq.com/cohere/41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
+    "posted_date": "2026-09-03",
+    "company": "Cohere",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-19"
+  },
+  {
     "id": "greenhouse_reddit_8145926",
     "title": "Staff Product Manager, Ads Signals",
     "location": "Remote - United States",
@@ -8,6 +19,17 @@
     "company": "Reddit",
     "tier": "Strong",
     "remote": true,
+    "first_seen": "2026-09-03"
+  },
+  {
+    "id": "workday_capitalone_7b0302b979d8",
+    "title": "Director, Project Manager, Debit Products ",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Project-Manager--Debit-Products-_R243496-1",
+    "posted_date": "2026-09-03",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
     "first_seen": "2026-09-03"
   },
   {
@@ -515,17 +537,6 @@
     "tier": "Weak",
     "remote": true,
     "first_seen": "2026-08-22"
-  },
-  {
-    "id": "ashby_cohere_41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
-    "title": "Technical Program Manager, AI Delivery",
-    "location": "United States",
-    "url": "https://jobs.ashbyhq.com/cohere/41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
-    "posted_date": "2026-08-19",
-    "company": "Cohere",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-19"
   },
   {
     "id": "greenhouse_ethoslife_8729912002",
