@@ -121,17 +121,6 @@
     "first_seen": "2026-09-01"
   },
   {
-    "id": "workday_capitalone_bc8cd53c3a28",
-    "title": "Senior Manager, Project Manager",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Project-Manager_R999668-1",
-    "posted_date": "2026-09-01",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-01"
-  },
-  {
     "id": "workday_capitalone_4dd8d7db85c8",
     "title": "Principal Project Manager",
     "location": "McLean, VA",
@@ -312,17 +301,6 @@
     "title": "Associate Director, Technical Product & Program Manager",
     "location": "NY, US, CA, US, IL, US - Remote",
     "url": "https://job-boards.greenhouse.io/dept/jobs/8147731",
-    "posted_date": "2026-08-26",
-    "company": "DEPT",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-08-26"
-  },
-  {
-    "id": "greenhouse_dept_8148071",
-    "title": "Group Director, Program Manager",
-    "location": "NY, US, CA, US, IL, US - Remote",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/8148071",
     "posted_date": "2026-08-26",
     "company": "DEPT",
     "tier": "Moderate",
