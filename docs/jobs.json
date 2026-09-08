@@ -1,5 +1,27 @@
 [
   {
+    "id": "greenhouse_coinbase_8186586",
+    "title": "Manager, WFM Operations",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8186586?gh_jid=8186586",
+    "posted_date": "2026-09-08",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-08"
+  },
+  {
+    "id": "workday_capitalone_2aca9c395642",
+    "title": "Director, Technical Program Manager (Core TPM Tower)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager--Core-TPM-Tower-_R999993-1",
+    "posted_date": "2026-09-08",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-08"
+  },
+  {
     "id": "greenhouse_stripe_8175629",
     "title": "Program Manager, Executive Experiences",
     "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
@@ -396,17 +418,6 @@
     "first_seen": "2026-08-25"
   },
   {
-    "id": "greenhouse_hubspotjobs_8073616",
-    "title": "AI Transformation Program Manager, Finance Transformation",
-    "location": "Remote - USA",
-    "url": "https://www.hubspot.com/careers/jobs/8073616?gh_jid=8073616",
-    "posted_date": "2026-08-25",
-    "company": "HubSpot",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-08-26"
-  },
-  {
     "id": "greenhouse_grafanalabs_6161249004",
     "title": "Staff Product Manager, OpenTelemetry | US | Remote",
     "location": "United States (Remote)",
@@ -515,17 +526,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-21"
-  },
-  {
-    "id": "workday_capitalone_f9303250e294",
-    "title": "Senior Manager, Technical Program Management",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Technical-Program-Management_R249727-1",
-    "posted_date": "2026-08-20",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-20"
   },
   {
     "id": "greenhouse_airbnb_8143116",
@@ -690,17 +690,6 @@
     "company": "1Password",
     "tier": "Strong",
     "remote": true,
-    "first_seen": "2026-08-14"
-  },
-  {
-    "id": "workday_capitalone_06c43aadf092",
-    "title": "Chief of Staff, Project Manager",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Chief-of-Staff--Project-Manager_R249213-1",
-    "posted_date": "2026-08-14",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
     "first_seen": "2026-08-14"
   },
   {
