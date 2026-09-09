@@ -1,5 +1,71 @@
 [
   {
+    "id": "greenhouse_samsara_8179593",
+    "title": "Senior Web Program Manager",
+    "location": "Remote - SF Bay Area",
+    "url": "https://www.samsara.com/company/careers/roles/8179593?gh_jid=8179593",
+    "posted_date": "2026-09-09",
+    "company": "Samsara",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-09"
+  },
+  {
+    "id": "greenhouse_chime_8790458002",
+    "title": "Sr. Program Manager, Member Experience",
+    "location": "Remote, USA",
+    "url": "https://boards.greenhouse.io/chime/jobs/8790458002?gh_jid=8790458002",
+    "posted_date": "2026-09-09",
+    "company": "Chime",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-09"
+  },
+  {
+    "id": "workday_capitalone_85efb6c8b668",
+    "title": "Senior Business Manager - AI Strategy & Operations",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Business-Manager---AI-Strategy---Operations_R1000283-1",
+    "posted_date": "2026-09-09",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-09"
+  },
+  {
+    "id": "workday_capitalone_8f4317612380",
+    "title": "Principal Project Manager (Principal Associate)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Project-Manager--Principal-Associate-_R999844-1",
+    "posted_date": "2026-09-09",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-09"
+  },
+  {
+    "id": "workday_capitalone_eea144ff9d9f",
+    "title": "Manager, Product Manager - Enterprise Payments - Core Platform",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Product-Manager---Enterprise-Payments---Core-Platform_R246402-1",
+    "posted_date": "2026-09-09",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-12"
+  },
+  {
+    "id": "workday_capitalone_ada6cc038c05",
+    "title": "Senior Manager, Project Manager HR Strategic Operations",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Project-Manager-HR-Strategic-Operations_R1000037-1",
+    "posted_date": "2026-09-09",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-09"
+  },
+  {
     "id": "greenhouse_coinbase_8186586",
     "title": "Manager, WFM Operations",
     "location": "Remote - USA",
@@ -152,17 +218,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-09-03"
-  },
-  {
-    "id": "greenhouse_toast_8164718",
-    "title": "Manager Enablement, Sr. Program Manager",
-    "location": "Remote",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8164718",
-    "posted_date": "2026-09-02",
-    "company": "Toast",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-09-02"
   },
   {
     "id": "greenhouse_affirm_7832310003",
@@ -341,17 +396,6 @@
     "first_seen": "2026-08-28"
   },
   {
-    "id": "workday_capitalone_7069144bc5f9",
-    "title": "Principal Associate, Project Manager - Card Payments Well Managed Team",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate--Project-Manager---Card-Payments-Well-Managed-Team_R999341-1",
-    "posted_date": "2026-08-27",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-28"
-  },
-  {
     "id": "greenhouse_life360_8758183002",
     "title": "Senior Product Manager, Ads Exchange",
     "location": "Remote, USA ; Remote, Canada",
@@ -393,17 +437,6 @@
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
-    "first_seen": "2026-08-26"
-  },
-  {
-    "id": "greenhouse_dept_8147731",
-    "title": "Associate Director, Technical Product & Program Manager",
-    "location": "NY, US, CA, US, IL, US - Remote",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/8147731",
-    "posted_date": "2026-08-26",
-    "company": "DEPT",
-    "tier": "Moderate",
-    "remote": true,
     "first_seen": "2026-08-26"
   },
   {
@@ -1071,17 +1104,6 @@
     "title": "Director, Product Manager, Product Practice and Enablement",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Product-Manager--Product-Practice-and-Enablement_R246335",
-    "posted_date": "2026-08-10",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
-    "id": "workday_capitalone_eea144ff9d9f",
-    "title": "Manager, Product Manager - Enterprise Payments - Core Platform",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Product-Manager---Enterprise-Payments---Core-Platform_R246402-1",
     "posted_date": "2026-08-10",
     "company": "Capital One",
     "tier": "Strong",
