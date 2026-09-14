@@ -1,5 +1,71 @@
 [
   {
+    "id": "workday_capitalone_179e25bbc66b",
+    "title": "Manager, Product Manager - Incentive Core Platform",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Product-Manager---Incentive-Platform_R246607-1",
+    "posted_date": "2026-09-14",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-12"
+  },
+  {
+    "id": "workday_capitalone_e60227a8d046",
+    "title": "Senior Manager, Product Manager - Bank Marketing Adtech",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Product-Manager---Bank-Marketing-Adtech_R248321-1",
+    "posted_date": "2026-09-14",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-12"
+  },
+  {
+    "id": "workday_capitalone_5a9693355664",
+    "title": "Principal Associate, Project Manager - Product Operations: Governance & People Excellence",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate--Project-Manager---Product-Operations--Governance---People-Excellence_R244661-1",
+    "posted_date": "2026-09-14",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-14"
+  },
+  {
+    "id": "workday_capitalone_1afa8431f049",
+    "title": "Manager, Project Management - Card Data",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management---Card-Data_R1000563-1",
+    "posted_date": "2026-09-14",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-14"
+  },
+  {
+    "id": "workday_capitalone_f23ea4d4f053",
+    "title": "Manager, Project Management  - Product Operations: People Excellence (Culture) & Governance",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management----Product-Operations--People-Excellence--Culture----Governance_R1000568-1",
+    "posted_date": "2026-09-14",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-14"
+  },
+  {
+    "id": "greenhouse_attentive_4402183009",
+    "title": "Senior Product Manager, Data Platform Extensibility",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/attentive/jobs/4402183009",
+    "posted_date": "2026-09-14",
+    "company": "Attentive",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-09-14"
+  },
+  {
     "id": "greenhouse_backblaze_5422975008",
     "title": "Senior Technical Program Manager (Security)",
     "location": "Remote - US",
@@ -42,28 +108,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-18"
-  },
-  {
-    "id": "workday_capitalone_7069144bc5f9",
-    "title": "Principal Associate, Project Manager - Card Payments Well Managed Team",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate--Project-Manager---Card-Payments-Well-Managed-Team_R999341-1",
-    "posted_date": "2026-09-11",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-11"
-  },
-  {
-    "id": "workday_capitalone_179e25bbc66b",
-    "title": "Manager, Product Manager - Incentive Core Platform",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Product-Manager---Incentive-Platform_R246607-1",
-    "posted_date": "2026-09-11",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
   },
   {
     "id": "workday_capitalone_f49141cba71b",
@@ -111,7 +155,7 @@
   },
   {
     "id": "greenhouse_gomotive_8782064002",
-    "title": "Staff Product Manager - Connected Devices",
+    "title": "Staff Product Manager - IoT Connected Devices",
     "location": "United States - Remote",
     "url": "https://job-boards.greenhouse.io/gomotive/jobs/8782064002",
     "posted_date": "2026-09-11",
@@ -273,17 +317,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-09-09"
-  },
-  {
-    "id": "ashby_harvey_eb29cd1a-6015-49a0-b6a9-259f10a0a4b1",
-    "title": "Global Operations Program Manager",
-    "location": "Remote",
-    "url": "https://jobs.ashbyhq.com/harvey/eb29cd1a-6015-49a0-b6a9-259f10a0a4b1",
-    "posted_date": "2026-09-04",
-    "company": "Harvey",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-09-04"
   },
   {
     "id": "smartrecruiters_experian_744000147570894",
@@ -528,17 +561,6 @@
     "first_seen": "2026-08-27"
   },
   {
-    "id": "greenhouse_stripe_8160754",
-    "title": "Hardware Program Manager, Terminal Logistics",
-    "location": "Chicago, Atlanta, US-Remote ",
-    "url": "https://stripe.com/jobs/search?gh_jid=8160754",
-    "posted_date": "2026-08-27",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-09-14"
-  },
-  {
     "id": "greenhouse_affirm_7821076003",
     "title": "Manager, Fraud Operations",
     "location": "Remote US",
@@ -737,17 +759,6 @@
     "first_seen": "2026-08-21"
   },
   {
-    "id": "greenhouse_airbnb_8143116",
-    "title": "Senior Manager, Scaled Operations, FSI",
-    "location": "United States ",
-    "url": "https://careers.airbnb.com/positions/8143116?gh_jid=8143116",
-    "posted_date": "2026-08-20",
-    "company": "Airbnb",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-08-20"
-  },
-  {
     "id": "greenhouse_dropbox_8094537",
     "title": "Renewals Strategy Principal Program Manager",
     "location": "Remote - US: Select locations",
@@ -906,17 +917,6 @@
     "title": "Senior Associate, Project Manager Campaign Delivery | Retail Bank",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Project-Manager-Campaign-Delivery---Retail-Bank_R248294-1",
-    "posted_date": "2026-08-15",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
-    "id": "workday_capitalone_e60227a8d046",
-    "title": "Senior Manager, Product Manager - Bank Marketing Adtech",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Product-Manager---Bank-Marketing-Adtech_R248321-1",
     "posted_date": "2026-08-15",
     "company": "Capital One",
     "tier": "Strong",
@@ -1262,17 +1262,6 @@
     "company": "Databricks",
     "tier": "Strong",
     "remote": false,
-    "first_seen": "2026-08-07"
-  },
-  {
-    "id": "greenhouse_mercury_6138978004",
-    "title": "Senior Product Operations Specialist",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/6138978004",
-    "posted_date": "2026-08-07",
-    "company": "Mercury",
-    "tier": "Strong",
-    "remote": true,
     "first_seen": "2026-08-07"
   },
   {
