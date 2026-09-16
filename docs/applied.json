@@ -320,5 +320,19 @@
       "first_seen": "2026-09-11"
     },
     "appliedDate": "2026-09-13"
+  },
+  "greenhouse_databricks_8806815002": {
+    "job": {
+      "id": "greenhouse_databricks_8806815002",
+      "title": "Program Manager, Scaled User Programs",
+      "location": "United States",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8806815002",
+      "posted_date": "2026-09-15",
+      "company": "Databricks",
+      "tier": "Strong",
+      "remote": false,
+      "first_seen": "2026-09-15"
+    },
+    "appliedDate": "2026-09-16"
   }
 }
