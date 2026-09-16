@@ -1,20 +1,20 @@
 [
   {
-    "id": "greenhouse_databricks_8806815002",
-    "title": "Program Manager, Scaled User Programs",
-    "location": "United States",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8806815002",
-    "posted_date": "2026-09-15",
-    "company": "Databricks",
+    "id": "greenhouse_toast_8201051",
+    "title": "Senior Privacy Program Manager",
+    "location": "Remote - USA",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8201051",
+    "posted_date": "2026-09-16",
+    "company": "Toast",
     "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-15"
+    "remote": true,
+    "first_seen": "2026-09-16"
   },
   {
-    "id": "greenhouse_samsara_8204376",
+    "id": "greenhouse_samsara_8204370",
     "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - MA",
-    "url": "https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376",
+    "location": "Remote - Dallas",
+    "url": "https://www.samsara.com/company/careers/roles/8204370?gh_jid=8204370",
     "posted_date": "2026-09-15",
     "company": "Samsara",
     "tier": "Strong",
@@ -22,10 +22,10 @@
     "first_seen": "2026-09-15"
   },
   {
-    "id": "greenhouse_samsara_8204370",
+    "id": "greenhouse_samsara_8204376",
     "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - Dallas",
-    "url": "https://www.samsara.com/company/careers/roles/8204370?gh_jid=8204370",
+    "location": "Remote - MA",
+    "url": "https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376",
     "posted_date": "2026-09-15",
     "company": "Samsara",
     "tier": "Strong",
@@ -231,17 +231,6 @@
     "first_seen": "2026-08-18"
   },
   {
-    "id": "workday_capitalone_f49141cba71b",
-    "title": "Director, Project Management (EPTech)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Project-Management--EPTech-_R1000411",
-    "posted_date": "2026-09-11",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-11"
-  },
-  {
     "id": "greenhouse_oura_4398245009",
     "title": "Technical Project Manager, Science",
     "location": "Remote - United States",
@@ -303,17 +292,6 @@
     "url": "https://www.samsara.com/company/careers/roles/8164851?gh_jid=8164851",
     "posted_date": "2026-09-10",
     "company": "Samsara",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-09-10"
-  },
-  {
-    "id": "greenhouse_stripe_8173467",
-    "title": "People Project Manager",
-    "location": "Chicago, Atlanta, US-Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=8173467",
-    "posted_date": "2026-09-10",
-    "company": "Stripe",
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-09-10"
@@ -759,6 +737,17 @@
     "first_seen": "2026-08-25"
   },
   {
+    "id": "ashby_cohere_5476ce62-13bd-497b-b988-0a8f85cf6262",
+    "title": "Manager, People Operations, Data & Reporting",
+    "location": "Remote - Toronto",
+    "url": "https://jobs.ashbyhq.com/cohere/5476ce62-13bd-497b-b988-0a8f85cf6262",
+    "posted_date": "2026-08-25",
+    "company": "Cohere",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-16"
+  },
+  {
     "id": "greenhouse_grafanalabs_6161249004",
     "title": "Staff Product Manager, OpenTelemetry | US | Remote",
     "location": "United States (Remote)",
@@ -957,17 +946,6 @@
     "first_seen": "2026-08-15"
   },
   {
-    "id": "workday_capitalone_6717c257b260",
-    "title": "Principal Project Manager, Horizontal Operations, Enterprise Learning",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Project-Manager--Horizontal-Operations--Enterprise-Learning_R245939",
-    "posted_date": "2026-08-17",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
     "id": "workday_capitalone_e0d8179123ff",
     "title": "Senior Associate, Project Manager - CFI&I Strategic Events & Convenings",
     "location": "McLean, VA",
@@ -1005,17 +983,6 @@
     "title": "Senior Associate, Project Manager Campaign Delivery | Retail Bank",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Project-Manager-Campaign-Delivery---Retail-Bank_R248294-1",
-    "posted_date": "2026-08-17",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
-    "id": "workday_capitalone_fbd2369f9886",
-    "title": "Manager - S&G Analyst Development Program Experience Lead",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager---S-G-Analyst-Development-Program-Experience-Lead_R245594-1",
     "posted_date": "2026-08-17",
     "company": "Capital One",
     "tier": "Strong",
@@ -1387,7 +1354,7 @@
   },
   {
     "id": "greenhouse_coinbase_8089161",
-    "title": "Manager, WFM Operations",
+    "title": "Manager, WFM Compliance Operations",
     "location": "Remote - USA",
     "url": "https://www.coinbase.com/careers/positions/8089161?gh_jid=8089161",
     "posted_date": "2026-08-03",
