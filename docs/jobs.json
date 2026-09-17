@@ -1,5 +1,38 @@
 [
   {
+    "id": "workday_capitalone_844bc62fef76",
+    "title": "Senior Associate- Commercial S&G Program Manager",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Commercial-S-G-Program-Manager_R1000915-1",
+    "posted_date": "2026-09-17",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-17"
+  },
+  {
+    "id": "greenhouse_pinterest_8209845",
+    "title": "Sr. IT Project & Program Manager, Asset Management ",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209845",
+    "posted_date": "2026-09-17",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-09-17"
+  },
+  {
+    "id": "greenhouse_instacart_8205692",
+    "title": "Knowledge Program Manager",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=8205692",
+    "posted_date": "2026-09-17",
+    "company": "Instacart",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-09-17"
+  },
+  {
     "id": "greenhouse_gomotive_8722920002",
     "title": "Senior Program Manager, AI Ops (GTM)",
     "location": "United States - Remote",
@@ -287,7 +320,7 @@
   },
   {
     "id": "greenhouse_gomotive_8782064002",
-    "title": "Staff Product Manager - IoT Connected Devices",
+    "title": "Senior / Staff Product Manager - IoT Connected Devices",
     "location": "United States - Remote",
     "url": "https://job-boards.greenhouse.io/gomotive/jobs/8782064002",
     "posted_date": "2026-09-11",
