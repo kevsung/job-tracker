@@ -1,5 +1,16 @@
 [
   {
+    "id": "greenhouse_Wizinc_4705217006",
+    "title": "Senior Technical Enablement Program Manager",
+    "location": "Remote - USA",
+    "url": "https://www.wiz.io/careers/job/4705217006/:title?gh_jid=4705217006",
+    "posted_date": "2026-09-21",
+    "company": "Wiz",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-21"
+  },
+  {
     "id": "greenhouse_stripe_8209996",
     "title": "Staff Product Manager, Payments Intelligence",
     "location": "NYC, SF, Seattle, US - Remote",
@@ -7,6 +18,39 @@
     "posted_date": "2026-09-21",
     "company": "Stripe",
     "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-21"
+  },
+  {
+    "id": "workday_capitalone_5993089324f2",
+    "title": "Senior Manager, Project Management - Learning & Development Strategic Operations and Facilitation Lead",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Project-Management---Learning---Development-Strategic-Operations-and-Facilitation-Lead_R1001015-1",
+    "posted_date": "2026-09-21",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-21"
+  },
+  {
+    "id": "workday_capitalone_1c7ace2ffdd2",
+    "title": "Principal Associate - Program Manager- Product College",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate---Program-Manager--Product-College_R1001326-1",
+    "posted_date": "2026-09-21",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-21"
+  },
+  {
+    "id": "greenhouse_gomotive_8811800002",
+    "title": "Senior Manager, Security Operations",
+    "location": "United States - Remote",
+    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8811800002",
+    "posted_date": "2026-09-21",
+    "company": "Motive",
+    "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-09-21"
   },
@@ -165,10 +209,10 @@
     "first_seen": "2026-09-16"
   },
   {
-    "id": "greenhouse_samsara_8204376",
+    "id": "greenhouse_samsara_8204370",
     "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - MA",
-    "url": "https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376",
+    "location": "Remote - Dallas",
+    "url": "https://www.samsara.com/company/careers/roles/8204370?gh_jid=8204370",
     "posted_date": "2026-09-15",
     "company": "Samsara",
     "tier": "Strong",
@@ -176,10 +220,10 @@
     "first_seen": "2026-09-15"
   },
   {
-    "id": "greenhouse_samsara_8204370",
+    "id": "greenhouse_samsara_8204376",
     "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - Dallas",
-    "url": "https://www.samsara.com/company/careers/roles/8204370?gh_jid=8204370",
+    "location": "Remote - MA",
+    "url": "https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376",
     "posted_date": "2026-09-15",
     "company": "Samsara",
     "tier": "Strong",
@@ -394,17 +438,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-09-11"
-  },
-  {
-    "id": "greenhouse_dept_8191991",
-    "title": "Project Manager - Creative - US Remote",
-    "location": "United States",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/8191991",
-    "posted_date": "2026-09-11",
-    "company": "DEPT",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-09-15"
   },
   {
     "id": "greenhouse_gomotive_8782064002",
@@ -1010,6 +1043,17 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-12"
+  },
+  {
+    "id": "workday_capitalone_b475afb7ae22",
+    "title": "Sr Manager, Product Management - Staff Operations",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager--Product-Management---Staff-Operations_R246928-1",
+    "posted_date": "2026-08-22",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-21"
   },
   {
     "id": "workday_capitalone_a9fe6474bec6",
@@ -1637,17 +1681,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-15"
-  },
-  {
-    "id": "greenhouse_toast_8054004",
-    "title": "Principal Technical Program Manager, Toast IQ",
-    "location": "Remote, US ",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8054004",
-    "posted_date": "2026-07-14",
-    "company": "Toast",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-14"
   },
   {
     "id": "greenhouse_webflow_8054709",
