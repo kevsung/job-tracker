@@ -308,17 +308,6 @@
     "first_seen": "2026-09-15"
   },
   {
-    "id": "workday_capitalone_4525ee6c6dc8",
-    "title": "Business Manager,Sales Operations-International Acceptance",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Business-Manager-Sales-Operations-International-Acceptance_R245372-1",
-    "posted_date": "2026-09-15",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
     "id": "workday_capitalone_e17625c98fb6",
     "title": "Senior Manager - Project Management - Special Projects",
     "location": "McLean, VA",
@@ -391,17 +380,6 @@
     "url": "https://job-boards.greenhouse.io/attentive/jobs/4402183009",
     "posted_date": "2026-09-14",
     "company": "Attentive",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-09-14"
-  },
-  {
-    "id": "greenhouse_airbnb_8202846",
-    "title": "Senior Technical Program Manager, Payments",
-    "location": "United States",
-    "url": "https://careers.airbnb.com/positions/8202846?gh_jid=8202846",
-    "posted_date": "2026-09-14",
-    "company": "Airbnb",
     "tier": "Moderate",
     "remote": false,
     "first_seen": "2026-09-14"
@@ -1210,17 +1188,6 @@
     "first_seen": "2026-08-18"
   },
   {
-    "id": "greenhouse_mercury_6144590004",
-    "title": "Senior Customer Support Controls & Governance Program Manager",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/6144590004",
-    "posted_date": "2026-08-14",
-    "company": "Mercury",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-08-15"
-  },
-  {
     "id": "greenhouse_mercury_6144592004",
     "title": "Senior Customer Support Operations Readiness Program Manager",
     "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
@@ -1494,17 +1461,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-29"
-  },
-  {
-    "id": "greenhouse_doordashusa_8089089",
-    "title": "GTM Program Manager",
-    "location": "United States - Remote",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8089089",
-    "posted_date": "2026-07-28",
-    "company": "DoorDash",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-28"
   },
   {
     "id": "greenhouse_stripe_8081754",
