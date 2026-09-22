@@ -1,5 +1,27 @@
 [
   {
+    "id": "greenhouse_Wizinc_4703613006",
+    "title": "Senior Technical Program Manager, Security",
+    "location": "Remote - USA",
+    "url": "https://www.wiz.io/careers/job/4703613006/:title?gh_jid=4703613006",
+    "posted_date": "2026-09-22",
+    "company": "Wiz",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "id": "workday_capitalone_0bab72f75ae8",
+    "title": "Principal Associate – Events Project Manager, Community Finance, Impact & Investment",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate---Events-Project-Manager--Community-Finance--Impact---Investment_R1000519-1",
+    "posted_date": "2026-09-22",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-22"
+  },
+  {
     "id": "greenhouse_Wizinc_4705217006",
     "title": "Senior Technical Enablement Program Manager",
     "location": "Remote - USA",
@@ -231,10 +253,10 @@
     "first_seen": "2026-09-16"
   },
   {
-    "id": "greenhouse_samsara_8204376",
+    "id": "greenhouse_samsara_8204370",
     "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - MA",
-    "url": "https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376",
+    "location": "Remote - Dallas",
+    "url": "https://www.samsara.com/company/careers/roles/8204370?gh_jid=8204370",
     "posted_date": "2026-09-15",
     "company": "Samsara",
     "tier": "Strong",
@@ -242,10 +264,10 @@
     "first_seen": "2026-09-15"
   },
   {
-    "id": "greenhouse_samsara_8204370",
+    "id": "greenhouse_samsara_8204376",
     "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - Dallas",
-    "url": "https://www.samsara.com/company/careers/roles/8204370?gh_jid=8204370",
+    "location": "Remote - MA",
+    "url": "https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376",
     "posted_date": "2026-09-15",
     "company": "Samsara",
     "tier": "Strong",
@@ -737,17 +759,6 @@
     "first_seen": "2026-09-01"
   },
   {
-    "id": "workday_capitalone_4dd8d7db85c8",
-    "title": "Principal Project Manager",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Project-Manager_R999548-1",
-    "posted_date": "2026-09-01",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-01"
-  },
-  {
     "id": "greenhouse_databricks_8586857002",
     "title": "Sr. Field Technical Program Manager, FDE",
     "location": "United States",
@@ -946,17 +957,6 @@
     "first_seen": "2026-08-25"
   },
   {
-    "id": "workday_capitalone_5b03959689bc",
-    "title": "Principal Associate, Retail Bank Campaign Project Manager",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate--Retail-Bank-Campaign-Project-Manager_R249857-1",
-    "posted_date": "2026-08-24",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-24"
-  },
-  {
     "id": "greenhouse_okta_8155421",
     "title": "Program Manager, ISV Ecosystem",
     "location": "Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC",
@@ -977,17 +977,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-08-15"
-  },
-  {
-    "id": "workday_capitalone_ad06b9ff635a",
-    "title": "Business Manager, International Risk Program",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Business-Manager--International-Risk-Program_R249754-1",
-    "posted_date": "2026-08-23",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-21"
   },
   {
     "id": "workday_capitalone_a1b9e8166c19",
@@ -1430,17 +1419,6 @@
     "first_seen": "2026-08-06"
   },
   {
-    "id": "greenhouse_okta_8042657",
-    "title": "Senior Manager, Presales Strategy & Operations",
-    "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
-    "url": "https://www.okta.com/company/careers/opportunity/8042657?gh_jid=8042657",
-    "posted_date": "2026-08-05",
-    "company": "Okta",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-08-05"
-  },
-  {
     "id": "greenhouse_okta_8103816",
     "title": "Senior Manager, xDR Strategy & Operations",
     "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
@@ -1540,17 +1518,6 @@
     "first_seen": "2026-08-28"
   },
   {
-    "id": "greenhouse_pinterest_7494652",
-    "title": "Sr. Staff Technical Program Manager, Monetization",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494652",
-    "posted_date": "2026-07-23",
-    "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-23"
-  },
-  {
     "id": "greenhouse_instacart_8077510",
     "title": "Senior Product Manager, Ads Quality",
     "location": "United States - Remote",
@@ -1639,17 +1606,6 @@
     "first_seen": "2026-08-01"
   },
   {
-    "id": "greenhouse_stripe_8069155",
-    "title": "Manager, Administrative Coordinator Program",
-    "location": "US-remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=8069155",
-    "posted_date": "2026-07-16",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-09-02"
-  },
-  {
     "id": "greenhouse_stripe_8039954",
     "title": "People Project Manager",
     "location": "US-Remote, Atlanta, Chicago",
@@ -1703,17 +1659,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-07-31"
-  },
-  {
-    "id": "greenhouse_stripe_8042055",
-    "title": "Technical Program Manager, Money-as-a-Service",
-    "location": "Remote in the US",
-    "url": "https://stripe.com/jobs/search?gh_jid=8042055",
-    "posted_date": "2026-07-07",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-07"
   },
   {
     "id": "greenhouse_reddit_8049762",
