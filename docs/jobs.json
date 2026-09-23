@@ -1,5 +1,49 @@
 [
   {
+    "id": "greenhouse_databricks_8831555002",
+    "title": "Staff Product Manager, US Public Sector",
+    "location": "Remote - California; Remote - Virginia; Remote - Washington D.C.",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8831555002",
+    "posted_date": "2026-09-23",
+    "company": "Databricks",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-23"
+  },
+  {
+    "id": "greenhouse_doordashusa_8227346",
+    "title": "Manager, Sales Strategy & Operations",
+    "location": "Los Angeles, CA; San Francisco, CA; New York, NY; Atlanta, GA; Tempe, AZ; Austin, TX; Seattle, WA; Washington D.C.; Chicago, IL; Denver, CO; Boston, MA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8227346",
+    "posted_date": "2026-09-23",
+    "company": "DoorDash",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-23"
+  },
+  {
+    "id": "workday_capitalone_8c2f2702ad8a",
+    "title": "Principal Associate, Project Manager - Product Operations (Execution & Talent Enablement)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate--Project-Manager---Product-Operations--Execution---Talent-Enablement-_R1001746-1",
+    "posted_date": "2026-09-23",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-23"
+  },
+  {
+    "id": "workday_capitalone_a97c71aa560f",
+    "title": "Principal Associate Campaign Project Manager | Retail Bank",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate-Campaign-Project-Manager---Retail-Bank_R1001716-1",
+    "posted_date": "2026-09-23",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-23"
+  },
+  {
     "id": "workday_capitalone_39cadf540467",
     "title": "Manager, Project Management",
     "location": "McLean, VA",
@@ -8,6 +52,39 @@
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
+    "first_seen": "2026-09-23"
+  },
+  {
+    "id": "greenhouse_pinterest_8208419",
+    "title": "Sr. Technical Program Manager, Ads Delivery Infrastructure",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8208419",
+    "posted_date": "2026-09-23",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-09-23"
+  },
+  {
+    "id": "greenhouse_pinterest_8209014",
+    "title": "Sr. Technical Program Manager, Data Engineering",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209014",
+    "posted_date": "2026-09-23",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-09-23"
+  },
+  {
+    "id": "greenhouse_pinterest_8209324",
+    "title": "Technical Program Manager II, Infrastructure (Capacity & Efficiency)",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209324",
+    "posted_date": "2026-09-23",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
     "first_seen": "2026-09-23"
   },
   {
@@ -264,10 +341,10 @@
     "first_seen": "2026-09-16"
   },
   {
-    "id": "greenhouse_samsara_8204376",
+    "id": "greenhouse_samsara_8204370",
     "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - MA",
-    "url": "https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376",
+    "location": "Remote - Dallas",
+    "url": "https://www.samsara.com/company/careers/roles/8204370?gh_jid=8204370",
     "posted_date": "2026-09-15",
     "company": "Samsara",
     "tier": "Strong",
@@ -275,10 +352,10 @@
     "first_seen": "2026-09-15"
   },
   {
-    "id": "greenhouse_samsara_8204370",
+    "id": "greenhouse_samsara_8204376",
     "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - Dallas",
-    "url": "https://www.samsara.com/company/careers/roles/8204370?gh_jid=8204370",
+    "location": "Remote - MA",
+    "url": "https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376",
     "posted_date": "2026-09-15",
     "company": "Samsara",
     "tier": "Strong",
@@ -902,17 +979,6 @@
     "first_seen": "2026-08-25"
   },
   {
-    "id": "greenhouse_hubspotjobs_7845167",
-    "title": "Principal Technical Program Manager, Pricing and Monetization",
-    "location": "Remote - USA",
-    "url": "https://www.hubspot.com/careers/jobs/7845167?gh_jid=7845167",
-    "posted_date": "2026-08-24",
-    "company": "HubSpot",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-08-24"
-  },
-  {
     "id": "workday_clio_72cf8c00c0ad",
     "title": "Staff Product Manager, Vincent Enterprise",
     "location": "Remote   USA",
@@ -1307,17 +1373,6 @@
     "tier": "Moderate",
     "remote": false,
     "first_seen": "2026-08-11"
-  },
-  {
-    "id": "greenhouse_nebius_4948132101",
-    "title": "Delivery Manager - Data Center, Physical Security ",
-    "location": "United States",
-    "url": "https://careers.nebius.com/?gh_jid=4948132101",
-    "posted_date": "2026-08-10",
-    "company": "Nebius",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-10"
   },
   {
     "id": "greenhouse_hubspotjobs_8120519",
