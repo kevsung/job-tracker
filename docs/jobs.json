@@ -1,5 +1,16 @@
 [
   {
+    "id": "workday_capitalone_39cadf540467",
+    "title": "Manager, Project Management",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management_R1001760-1",
+    "posted_date": "2026-09-23",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-23"
+  },
+  {
     "id": "greenhouse_Wizinc_4703613006",
     "title": "Senior Technical Program Manager, Security",
     "location": "Remote - USA",
@@ -1416,17 +1427,6 @@
     "company": "Databricks",
     "tier": "Strong",
     "remote": false,
-    "first_seen": "2026-07-29"
-  },
-  {
-    "id": "greenhouse_nebius_4932219101",
-    "title": "Network Planning Technical Project Manager (North America)",
-    "location": "Remote - United States",
-    "url": "https://careers.nebius.com/?gh_jid=4932219101",
-    "posted_date": "2026-07-29",
-    "company": "Nebius",
-    "tier": "Strong",
-    "remote": true,
     "first_seen": "2026-07-29"
   },
   {
