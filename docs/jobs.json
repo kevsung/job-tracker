@@ -1,5 +1,16 @@
 [
   {
+    "id": "workday_capitalone_4dd8d7db85c8",
+    "title": "Principal Project Manager",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Project-Manager_R999548-1",
+    "posted_date": "2026-09-24",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-24"
+  },
+  {
     "id": "greenhouse_databricks_8831555002",
     "title": "Staff Product Manager, US Public Sector",
     "location": "Remote - California; Remote - Virginia; Remote - Washington D.C.",
@@ -693,17 +704,6 @@
     "first_seen": "2026-09-03"
   },
   {
-    "id": "workday_capitalone_7b0302b979d8",
-    "title": "Director, Project Manager, Debit Products ",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Project-Manager--Debit-Products-_R243496-1",
-    "posted_date": "2026-09-03",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-03"
-  },
-  {
     "id": "greenhouse_gomotive_8776759002",
     "title": "Senior Project Manager - Events",
     "location": "United States - Remote",
@@ -1067,17 +1067,6 @@
     "first_seen": "2026-08-12"
   },
   {
-    "id": "workday_capitalone_ad3a268dcb6e",
-    "title": "Director, Technical Program Manager - Bank Tech",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager---Bank-Tech_R243753-1",
-    "posted_date": "2026-08-25",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
     "id": "workday_capitalone_ee4e0cb5426a",
     "title": "Manager, Design Operations",
     "location": "McLean, VA",
@@ -1386,17 +1375,6 @@
     "first_seen": "2026-08-07"
   },
   {
-    "id": "greenhouse_ethoslife_8691451002",
-    "title": "Video Production Lead",
-    "location": "Remote US",
-    "url": "https://job-boards.greenhouse.io/ethoslife/jobs/8691451002",
-    "posted_date": "2026-08-07",
-    "company": "Ethos",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-08-08"
-  },
-  {
     "id": "greenhouse_coinbase_8110496",
     "title": "Senior Manager Product Operations, FCM Ops",
     "location": "Remote - USA",
@@ -1573,17 +1551,6 @@
     "first_seen": "2026-07-21"
   },
   {
-    "id": "ashby_payscale_c6335723-b5b7-4cfe-9d8b-2a7106bd4acc",
-    "title": "Technology Program Manager",
-    "location": "Remote-United States",
-    "url": "https://jobs.ashbyhq.com/payscale/c6335723-b5b7-4cfe-9d8b-2a7106bd4acc",
-    "posted_date": "2026-07-17",
-    "company": "Payscale",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-08-01"
-  },
-  {
     "id": "greenhouse_stripe_8039954",
     "title": "People Project Manager",
     "location": "US-Remote, Atlanta, Chicago",
@@ -1612,17 +1579,6 @@
     "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6115634004",
     "posted_date": "2026-07-15",
     "company": "Grafana Labs",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-15"
-  },
-  {
-    "id": "greenhouse_stripe_8065643",
-    "title": "Head of Marketing Operations",
-    "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Toronto, Remote in the US, Remote in Canada",
-    "url": "https://stripe.com/jobs/search?gh_jid=8065643",
-    "posted_date": "2026-07-14",
-    "company": "Stripe",
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-15"
