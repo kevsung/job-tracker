@@ -396,10 +396,10 @@
     "first_seen": "2026-09-16"
   },
   {
-    "id": "greenhouse_samsara_8204376",
+    "id": "greenhouse_samsara_8204370",
     "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - MA",
-    "url": "https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376",
+    "location": "Remote - Dallas",
+    "url": "https://www.samsara.com/company/careers/roles/8204370?gh_jid=8204370",
     "posted_date": "2026-09-15",
     "company": "Samsara",
     "tier": "Strong",
@@ -407,10 +407,10 @@
     "first_seen": "2026-09-15"
   },
   {
-    "id": "greenhouse_samsara_8204370",
+    "id": "greenhouse_samsara_8204376",
     "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - Dallas",
-    "url": "https://www.samsara.com/company/careers/roles/8204370?gh_jid=8204370",
+    "location": "Remote - MA",
+    "url": "https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376",
     "posted_date": "2026-09-15",
     "company": "Samsara",
     "tier": "Strong",
@@ -856,6 +856,17 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-31"
+  },
+  {
+    "id": "greenhouse_stripe_8147961",
+    "title": "Program Manager, GTM Planning",
+    "location": "Chicago, Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8147961",
+    "posted_date": "2026-08-31",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-25"
   },
   {
     "id": "greenhouse_reddit_8167412",
@@ -1626,17 +1637,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-08"
-  },
-  {
-    "id": "greenhouse_coinbase_8047657",
-    "title": "Staff Technical Program Manager, CX Agent Experience",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/8047657?gh_jid=8047657",
-    "posted_date": "2026-07-06",
-    "company": "Coinbase",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-07-21"
   },
   {
     "id": "greenhouse_nice_4913553101",
