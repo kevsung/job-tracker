@@ -1,20 +1,31 @@
 [
   {
+    "id": "greenhouse_coinbase_8232211",
+    "title": "Manager, Strategic Programs",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8232211?gh_jid=8232211",
+    "posted_date": "2026-09-28",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-28"
+  },
+  {
+    "id": "workday_clio_21910478c2db",
+    "title": "Senior Manager, Sales Operations",
+    "location": "Remote   USA",
+    "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Remote---USA/Manager--Sales-Operations_REQ-5181",
+    "posted_date": "2026-09-28",
+    "company": "Clio",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-28"
+  },
+  {
     "id": "workday_capitalone_a38a2b2ae0c9",
     "title": "Director, Technical Program Manager (EPTech)",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager--EPTech-_R1002066-1",
-    "posted_date": "2026-09-28",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-28"
-  },
-  {
-    "id": "workday_capitalone_187c7fd3301f",
-    "title": "Principal Project Manager - Card Partnerships Acquisitions Team\"",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Project-Manager---Card-Partnerships-Acquisitions-Team-_R249060",
     "posted_date": "2026-09-28",
     "company": "Capital One",
     "tier": "Strong",
@@ -418,10 +429,10 @@
     "first_seen": "2026-09-16"
   },
   {
-    "id": "greenhouse_samsara_8204370",
+    "id": "greenhouse_samsara_8204376",
     "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - Dallas",
-    "url": "https://www.samsara.com/company/careers/roles/8204370?gh_jid=8204370",
+    "location": "Remote - MA",
+    "url": "https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376",
     "posted_date": "2026-09-15",
     "company": "Samsara",
     "tier": "Strong",
@@ -429,10 +440,10 @@
     "first_seen": "2026-09-15"
   },
   {
-    "id": "greenhouse_samsara_8204376",
+    "id": "greenhouse_samsara_8204370",
     "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - MA",
-    "url": "https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376",
+    "location": "Remote - Dallas",
+    "url": "https://www.samsara.com/company/careers/roles/8204370?gh_jid=8204370",
     "posted_date": "2026-09-15",
     "company": "Samsara",
     "tier": "Strong",
@@ -950,17 +961,6 @@
     "title": "Manager, Project Management (Tech Learning)",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management--Tech-Learning-_R999035-1",
-    "posted_date": "2026-08-29",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-25"
-  },
-  {
-    "id": "workday_capitalone_5f4c2af2e6f7",
-    "title": "Manager, Project Management (Tech Learning Consultation & Design)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management--Tech-Learning-Consultation---Design-_R999034-1",
     "posted_date": "2026-08-29",
     "company": "Capital One",
     "tier": "Strong",
