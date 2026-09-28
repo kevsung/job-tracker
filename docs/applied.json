@@ -334,5 +334,19 @@
       "first_seen": "2026-09-15"
     },
     "appliedDate": "2026-09-16"
+  },
+  "greenhouse_stripe_8181030": {
+    "job": {
+      "id": "greenhouse_stripe_8181030",
+      "title": "Program Manager, Customer Advocacy & Programs",
+      "location": "US-ATL, US-CHI, US-Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8181030",
+      "posted_date": "2026-09-17",
+      "company": "Stripe",
+      "tier": "Strong",
+      "remote": true,
+      "first_seen": "2026-09-18"
+    },
+    "appliedDate": "2026-09-28"
   }
 }
