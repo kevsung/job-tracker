@@ -1,5 +1,16 @@
 [
   {
+    "id": "workday_capitalone_a38a2b2ae0c9",
+    "title": "Director, Technical Program Manager (EPTech)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager--EPTech-_R1002066-1",
+    "posted_date": "2026-09-28",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-28"
+  },
+  {
     "id": "workday_capitalone_187c7fd3301f",
     "title": "Principal Project Manager - Card Partnerships Acquisitions Team\"",
     "location": "McLean, VA",
@@ -407,10 +418,10 @@
     "first_seen": "2026-09-16"
   },
   {
-    "id": "greenhouse_samsara_8204376",
+    "id": "greenhouse_samsara_8204370",
     "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - MA",
-    "url": "https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376",
+    "location": "Remote - Dallas",
+    "url": "https://www.samsara.com/company/careers/roles/8204370?gh_jid=8204370",
     "posted_date": "2026-09-15",
     "company": "Samsara",
     "tier": "Strong",
@@ -418,10 +429,10 @@
     "first_seen": "2026-09-15"
   },
   {
-    "id": "greenhouse_samsara_8204370",
+    "id": "greenhouse_samsara_8204376",
     "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - Dallas",
-    "url": "https://www.samsara.com/company/careers/roles/8204370?gh_jid=8204370",
+    "location": "Remote - MA",
+    "url": "https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376",
     "posted_date": "2026-09-15",
     "company": "Samsara",
     "tier": "Strong",
@@ -1023,17 +1034,6 @@
     "first_seen": "2026-09-21"
   },
   {
-    "id": "workday_capitalone_a9fe6474bec6",
-    "title": "Manager, eHR Strategic Operations",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--eHR-Strategic-Operations_R245725-2",
-    "posted_date": "2026-08-29",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
     "id": "workday_capitalone_ee4e0cb5426a",
     "title": "Manager, Design Operations",
     "location": "McLean, VA",
@@ -1208,17 +1208,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-08-20"
-  },
-  {
-    "id": "greenhouse_chime_8728271002",
-    "title": "Program Manager, Member Experience",
-    "location": "Remote, USA",
-    "url": "https://boards.greenhouse.io/chime/jobs/8728271002?gh_jid=8728271002",
-    "posted_date": "2026-08-19",
-    "company": "Chime",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-08-19"
   },
   {
     "id": "greenhouse_pinterest_8082033",
@@ -1474,17 +1463,6 @@
     "first_seen": "2026-08-04"
   },
   {
-    "id": "greenhouse_okta_8069537",
-    "title": "Principal Technical Program Manager, Engineering",
-    "location": "San Francisco, California; Washington, DC",
-    "url": "https://www.okta.com/company/careers/opportunity/8069537?gh_jid=8069537",
-    "posted_date": "2026-07-30",
-    "company": "Okta",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-07-30"
-  },
-  {
     "id": "greenhouse_databricks_8638648002",
     "title": "Sr. Event Marketing Manager, Field Programming",
     "location": "United States",
@@ -1637,17 +1615,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-08"
-  },
-  {
-    "id": "greenhouse_nice_4913553101",
-    "title": "Lead Client Services Project Manager, CX",
-    "location": "USA - Remote",
-    "url": "https://boards.eu.greenhouse.io/nice/jobs/4913553101?gh_jid=4913553101",
-    "posted_date": "2026-07-06",
-    "company": "NICE",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-09-02"
   },
   {
     "id": "greenhouse_databricks_8549259002",
