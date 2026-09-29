@@ -1,5 +1,38 @@
 [
   {
+    "id": "greenhouse_samsara_8239916",
+    "title": "Principal Product Manager, Monetization Platform",
+    "location": "Remote - US",
+    "url": "https://www.samsara.com/company/careers/roles/8239916?gh_jid=8239916",
+    "posted_date": "2026-09-29",
+    "company": "Samsara",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-29"
+  },
+  {
+    "id": "workday_capitalone_c0eab5d8daf9",
+    "title": "Sr. Manager, Technical Program Management",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager--Technical-Program-Management_R1002236-1",
+    "posted_date": "2026-09-29",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-29"
+  },
+  {
+    "id": "workday_capitalone_187c7fd3301f",
+    "title": "Principal Project Manager - Card Partnerships Acquisitions Team\"",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Project-Manager---Card-Partnerships-Acquisitions-Team-_R249060",
+    "posted_date": "2026-09-29",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-29"
+  },
+  {
     "id": "greenhouse_coinbase_8232211",
     "title": "Manager, Strategic Programs",
     "location": "Remote - USA",
@@ -42,6 +75,17 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-09-28"
+  },
+  {
+    "id": "greenhouse_stripe_8209633",
+    "title": "Program Manager, Deal Operations",
+    "location": "San Francisco, CA / Chicago, IL / Seattle, WA / NYC / Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209633",
+    "posted_date": "2026-09-25",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-29"
   },
   {
     "id": "workday_capitalone_d1e576f0de0a",
@@ -944,17 +988,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-26"
-  },
-  {
-    "id": "workday_capitalone_de734a15e129",
-    "title": "Manager, Project Management (Tech Learning)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management--Tech-Learning-_R999035-1",
-    "posted_date": "2026-08-30",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-25"
   },
   {
     "id": "workday_capitalone_a1b9e8166c19",
