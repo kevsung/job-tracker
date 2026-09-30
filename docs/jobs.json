@@ -1,5 +1,38 @@
 [
   {
+    "id": "ashby_harvey_bab83f3e-dfa4-4e8e-9160-6ed428d3ab13",
+    "title": "IT Program Manager",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/harvey/bab83f3e-dfa4-4e8e-9160-6ed428d3ab13",
+    "posted_date": "2026-09-30",
+    "company": "Harvey",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-30"
+  },
+  {
+    "id": "workday_capitalone_1f276fa821a0",
+    "title": "Senior Manager, Well-Managed, QA & Program Execution",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Well-Managed--QA---Program-Execution_R1002602-1",
+    "posted_date": "2026-09-30",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-30"
+  },
+  {
+    "id": "workday_capitalone_cd1ce6913146",
+    "title": "Manager - Joining Product Operations",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager---Joining-Product-Operations_R1002535-1",
+    "posted_date": "2026-09-30",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-30"
+  },
+  {
     "id": "greenhouse_samsara_8239916",
     "title": "Principal Product Manager, Monetization Platform",
     "location": "Remote - US",
@@ -616,17 +649,6 @@
     "first_seen": "2026-09-25"
   },
   {
-    "id": "workday_capitalone_9c7dfe3b0ec0",
-    "title": "Manager, Project Management - Card, Customer Office Team (Hybrid)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management---Card--Customer-Office-Team--Hybrid-_R245610-2",
-    "posted_date": "2026-09-11",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-11"
-  },
-  {
     "id": "workday_capitalone_0543f1858bba",
     "title": "Project Manager, Enterprise Data Risk Management",
     "location": "McLean, VA",
@@ -1241,17 +1263,6 @@
     "tier": "Fair",
     "remote": false,
     "first_seen": "2026-08-19"
-  },
-  {
-    "id": "greenhouse_stripe_8127890",
-    "title": "Program Manager, Performance and Talent Planning",
-    "location": "US-Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=8127890",
-    "posted_date": "2026-08-17",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-08-17"
   },
   {
     "id": "greenhouse_pinterest_8049832",
