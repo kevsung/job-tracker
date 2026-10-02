@@ -22,6 +22,17 @@
     "first_seen": "2026-10-02"
   },
   {
+    "id": "greenhouse_instacart_8249751",
+    "title": "Senior Design Program Manager II",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=8249751",
+    "posted_date": "2026-10-02",
+    "company": "Instacart",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-02"
+  },
+  {
     "id": "greenhouse_samsara_8223708",
     "title": "Sr Finance Program Manager",
     "location": "Remote - US",
@@ -248,17 +259,6 @@
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209020",
     "posted_date": "2026-09-24",
     "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-09-24"
-  },
-  {
-    "id": "greenhouse_webflow_8230796",
-    "title": "Technical Program Manager",
-    "location": "U.S. Remote",
-    "url": "https://job-boards.greenhouse.io/webflow/jobs/8230796",
-    "posted_date": "2026-09-24",
-    "company": "Webflow",
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-09-24"
@@ -999,28 +999,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-12"
-  },
-  {
-    "id": "greenhouse_nice_4962550101",
-    "title": "Lead Client Services Project Manager, CX",
-    "location": "USA - Remote",
-    "url": "https://boards.eu.greenhouse.io/nice/jobs/4962550101?gh_jid=4962550101",
-    "posted_date": "2026-09-02",
-    "company": "NICE",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-09-02"
-  },
-  {
-    "id": "greenhouse_dept_8174108",
-    "title": "Freelance Manager, Programmatic",
-    "location": "Denver CO; San Diego CA; Los Angeles CA; San Francisco CA; Salt Lake City UT; Portland OR; Seattle WA;  US - Remote",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/8174108",
-    "posted_date": "2026-09-02",
-    "company": "DEPT",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-09-02"
   },
   {
     "id": "workday_draftkings_1274b66a812e",
