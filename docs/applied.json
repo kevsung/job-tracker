@@ -362,5 +362,19 @@
       "first_seen": "2026-10-01"
     },
     "appliedDate": "2026-10-02"
+  },
+  "workday_capitalone_bb97de03d149": {
+    "job": {
+      "id": "workday_capitalone_bb97de03d149",
+      "title": "Senior Manager, Project Management",
+      "location": "McLean, VA",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Project-Management_R1002796",
+      "posted_date": "2026-10-02",
+      "company": "Capital One",
+      "tier": "Strong",
+      "remote": false,
+      "first_seen": "2026-10-02"
+    },
+    "appliedDate": "2026-10-02"
   }
 }
