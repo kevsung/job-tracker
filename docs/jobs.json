@@ -1,5 +1,27 @@
 [
   {
+    "id": "greenhouse_hubspotjobs_8249167",
+    "title": "Senior Content Producer, HubSpot Academy ",
+    "location": "Remote - USA",
+    "url": "https://www.hubspot.com/careers/jobs/8249167?gh_jid=8249167",
+    "posted_date": "2026-10-02",
+    "company": "HubSpot",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-02"
+  },
+  {
+    "id": "workday_capitalone_bb97de03d149",
+    "title": "Senior Manager, Project Management",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Project-Management_R1002796",
+    "posted_date": "2026-10-02",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-02"
+  },
+  {
     "id": "greenhouse_samsara_8223708",
     "title": "Sr Finance Program Manager",
     "location": "Remote - US",
@@ -473,17 +495,6 @@
     "first_seen": "2026-09-18"
   },
   {
-    "id": "workday_capitalone_97c1e73aa7ef",
-    "title": "Manager of Project Management",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager-of-Project-Management_R1000930-1",
-    "posted_date": "2026-09-18",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-18"
-  },
-  {
     "id": "greenhouse_dept_8213803",
     "title": "Senior Account Manager, Programmatic Retail",
     "location": "CO, US, AZ, US, UT, US, OR, US, CA, US, WA, US - Remote",
@@ -539,10 +550,10 @@
     "first_seen": "2026-09-16"
   },
   {
-    "id": "greenhouse_samsara_8204376",
+    "id": "greenhouse_samsara_8204370",
     "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - MA",
-    "url": "https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376",
+    "location": "Remote - Dallas",
+    "url": "https://www.samsara.com/company/careers/roles/8204370?gh_jid=8204370",
     "posted_date": "2026-09-15",
     "company": "Samsara",
     "tier": "Strong",
@@ -550,10 +561,10 @@
     "first_seen": "2026-09-15"
   },
   {
-    "id": "greenhouse_samsara_8204370",
+    "id": "greenhouse_samsara_8204376",
     "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - Dallas",
-    "url": "https://www.samsara.com/company/careers/roles/8204370?gh_jid=8204370",
+    "location": "Remote - MA",
+    "url": "https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376",
     "posted_date": "2026-09-15",
     "company": "Samsara",
     "tier": "Strong",
@@ -757,6 +768,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-09-10"
+  },
+  {
+    "id": "greenhouse_stripe_8140438",
+    "title": "Staff Product Manager, Mobile",
+    "location": "New York City, Toronto, Chicago, or Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8140438",
+    "posted_date": "2026-09-09",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-02"
   },
   {
     "id": "workday_capitalone_eea144ff9d9f",
