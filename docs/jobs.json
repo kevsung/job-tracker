@@ -165,17 +165,6 @@
     "first_seen": "2026-09-29"
   },
   {
-    "id": "workday_capitalone_187c7fd3301f",
-    "title": "Principal Project Manager - Card Partnerships Acquisitions Team\"",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Project-Manager---Card-Partnerships-Acquisitions-Team-_R249060",
-    "posted_date": "2026-09-29",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-29"
-  },
-  {
     "id": "greenhouse_coinbase_8232211",
     "title": "Manager, Strategic Programs",
     "location": "Remote - USA",
@@ -251,17 +240,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-09-25"
-  },
-  {
-    "id": "workday_capitalone_4dd8d7db85c8",
-    "title": "Principal Project Manager",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Project-Manager_R999548-1",
-    "posted_date": "2026-09-24",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-24"
   },
   {
     "id": "greenhouse_pinterest_8209020",
@@ -513,17 +491,6 @@
     "posted_date": "2026-09-18",
     "company": "DEPT",
     "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-09-18"
-  },
-  {
-    "id": "greenhouse_stripe_8181030",
-    "title": "Program Manager, Customer Advocacy & Programs",
-    "location": "US-ATL, US-CHI, US-Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=8181030",
-    "posted_date": "2026-09-17",
-    "company": "Stripe",
-    "tier": "Strong",
     "remote": true,
     "first_seen": "2026-09-18"
   },
@@ -1494,6 +1461,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-08-28"
+  },
+  {
+    "id": "greenhouse_airbnb_8082863",
+    "title": "Senior Platform Product Manager, Payment Platform Accounts",
+    "location": "United States ",
+    "url": "https://careers.airbnb.com/positions/8082863?gh_jid=8082863",
+    "posted_date": "2026-07-24",
+    "company": "Airbnb",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-10-05"
   },
   {
     "id": "greenhouse_instacart_8077510",
