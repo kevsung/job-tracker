@@ -13,6 +13,16 @@ MANUAL_COMPANIES = [
         "url": "https://www.github.careers/careers-home/jobs",
     },
     {
+        "name": "Hightouch",
+        "tier": "Strong",
+        "url": "https://hightouch.com/careers#open-positions",
+    },
+    {
+        "name": "Aha!",
+        "tier": "Moderate",
+        "url": "https://www.aha.io/company/careers/current-openings",
+    },
+    {
         "name": "Cape",
         "tier": "Strong",
         "url": "https://www.cape.co/careers",
