@@ -1,5 +1,60 @@
 [
   {
+    "id": "greenhouse_stripe_7983854",
+    "title": "Product Manager, Radar",
+    "location": "San Francisco, Seattle, New York, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7983854",
+    "posted_date": "2026-10-06",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-06"
+  },
+  {
+    "id": "greenhouse_stripe_8258815",
+    "title": "Staff Product Manager, Radar - Fraud and Abuse Prevention",
+    "location": "San Francisco, Seattle, New York, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8258815",
+    "posted_date": "2026-10-06",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-06"
+  },
+  {
+    "id": "ashby_harvey_bab83f3e-dfa4-4e8e-9160-6ed428d3ab13",
+    "title": "Sr. Technical Program Manager, GTM Technology",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/harvey/bab83f3e-dfa4-4e8e-9160-6ed428d3ab13",
+    "posted_date": "2026-10-06",
+    "company": "Harvey",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-06"
+  },
+  {
+    "id": "workday_capitalone_b5724f2581d6",
+    "title": "Manager, Project Management - Enterprise Service and Risk",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management---Enterprise-Service-and-Risk_R1003026-1",
+    "posted_date": "2026-10-06",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-06"
+  },
+  {
+    "id": "workday_capitalone_7d062c51d2f6",
+    "title": "Senior Associate, Project Manager Campaign Delivery | Retail Bank",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Project-Manager-Campaign-Delivery---Retail-Bank_R1003041-1",
+    "posted_date": "2026-10-06",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-06"
+  },
+  {
     "id": "workday_capitalone_eea144ff9d9f",
     "title": "Manager, Product Manager - Enterprise Payments - Core Platform",
     "location": "McLean, VA",
@@ -9,6 +64,17 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-12"
+  },
+  {
+    "id": "greenhouse_airbnb_8231975",
+    "title": "Senior Manager, Technical Program Management (Data, Reliability & Developer Experience)",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8231975?gh_jid=8231975",
+    "posted_date": "2026-10-06",
+    "company": "Airbnb",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-10-06"
   },
   {
     "id": "greenhouse_affirm_8011038003",
@@ -1032,17 +1098,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-08-31"
-  },
-  {
-    "id": "greenhouse_doordashusa_8161478",
-    "title": "Associate Manager, Strategy and Operations - Fraud",
-    "location": "United States - Remote",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8161478",
-    "posted_date": "2026-08-27",
-    "company": "DoorDash",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-08-27"
   },
   {
     "id": "greenhouse_affirm_7821076003",
