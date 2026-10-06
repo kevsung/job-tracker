@@ -33,6 +33,28 @@
     "first_seen": "2026-10-06"
   },
   {
+    "id": "greenhouse_coinbase_8259801",
+    "title": "Senior Technical Program Manager, Consumer ",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8259801?gh_jid=8259801",
+    "posted_date": "2026-10-06",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-06"
+  },
+  {
+    "id": "rippling_rippling_e2a5b70b-567b-4feb-b778-3e6032c59ce2",
+    "title": "Global Payroll Escalations & Project Manager",
+    "location": "Remote (United States)",
+    "url": "https://ats.rippling.com/rippling/jobs/e2a5b70b-567b-4feb-b778-3e6032c59ce2",
+    "company": "Rippling",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-06",
+    "posted_date": "2026-10-06"
+  },
+  {
     "id": "workday_capitalone_b5724f2581d6",
     "title": "Manager, Project Management - Enterprise Service and Risk",
     "location": "McLean, VA",
@@ -240,17 +262,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-09-30"
-  },
-  {
-    "id": "greenhouse_samsara_8239916",
-    "title": "Principal Product Manager, Monetization Platform",
-    "location": "Remote - US",
-    "url": "https://www.samsara.com/company/careers/roles/8239916?gh_jid=8239916",
-    "posted_date": "2026-09-29",
-    "company": "Samsara",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-09-29"
   },
   {
     "id": "workday_capitalone_c0eab5d8daf9",
@@ -891,17 +902,6 @@
     "first_seen": "2026-08-26"
   },
   {
-    "id": "workday_capitalone_a1b9e8166c19",
-    "title": "Director, Technical Program Manager - Bank Tech",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager---Bank-Tech_R249255-1",
-    "posted_date": "2026-09-06",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-18"
-  },
-  {
     "id": "workday_capitalone_e0d8179123ff",
     "title": "Senior Associate, Project Manager - CFI&I Strategic Events & Convenings",
     "location": "McLean, VA",
@@ -1111,17 +1111,6 @@
     "first_seen": "2026-08-28"
   },
   {
-    "id": "greenhouse_life360_8758183002",
-    "title": "Senior Product Manager, Ads Exchange",
-    "location": "Remote, USA ; Remote, Canada",
-    "url": "https://job-boards.greenhouse.io/life360/jobs/8758183002",
-    "posted_date": "2026-08-27",
-    "company": "Life360",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-08-28"
-  },
-  {
     "id": "rippling_rippling_ce9bf549-cd9d-4dcc-8121-98629fdeffd5",
     "title": "Senior Manager, Support Operations",
     "location": "Remote (United States)",
@@ -1318,17 +1307,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-08-15"
-  },
-  {
-    "id": "greenhouse_coinbase_8126484",
-    "title": "Senior Talent Program Manager",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/8126484?gh_jid=8126484",
-    "posted_date": "2026-08-13",
-    "company": "Coinbase",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-08-14"
   },
   {
     "id": "greenhouse_doordashusa_8121933",
