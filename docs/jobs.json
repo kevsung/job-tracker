@@ -1,5 +1,16 @@
 [
   {
+    "id": "greenhouse_samsara_8261992",
+    "title": "Senior Product Manager, Monetization Platform",
+    "location": "Remote - US",
+    "url": "https://www.samsara.com/company/careers/roles/8261992?gh_jid=8261992",
+    "posted_date": "2026-10-07",
+    "company": "Samsara",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-07"
+  },
+  {
     "id": "greenhouse_reddit_7996994",
     "title": "Staff Product Manager, Community Builders",
     "location": "Remote - United States",
@@ -22,6 +33,28 @@
     "first_seen": "2026-10-07"
   },
   {
+    "id": "greenhouse_reddit_7995207",
+    "title": "Staff Technical Program Manager, Infrastructure ",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7995207",
+    "posted_date": "2026-10-07",
+    "company": "Reddit",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-07"
+  },
+  {
+    "id": "workday_capitalone_e17625c98fb6",
+    "title": "Senior Manager - Project Management - Special Projects",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager---Project-Management---Special-Projects_R1000664-1",
+    "posted_date": "2026-10-07",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-15"
+  },
+  {
     "id": "workday_capitalone_086a12eb5d8f",
     "title": "Director, Project Management (Cyber Secuirity, Governance, & Risk)",
     "location": "McLean, VA",
@@ -42,6 +75,17 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-12"
+  },
+  {
+    "id": "greenhouse_pinterest_8239171",
+    "title": "Staff Product Manager, Content-to-Discovery Infrastructure",
+    "location": "San Francisco, CA, US; Seattle, WA, US; Remote, CA, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8239171",
+    "posted_date": "2026-10-07",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-07"
   },
   {
     "id": "greenhouse_dept_8261217",
@@ -451,17 +495,6 @@
     "first_seen": "2026-09-23"
   },
   {
-    "id": "workday_capitalone_a97c71aa560f",
-    "title": "Principal Associate Campaign Project Manager | Retail Bank",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate-Campaign-Project-Manager---Retail-Bank_R1001716-1",
-    "posted_date": "2026-09-23",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-23"
-  },
-  {
     "id": "greenhouse_pinterest_8208419",
     "title": "Sr. Technical Program Manager, Ads Delivery Infrastructure",
     "location": "San Francisco, CA, US; Remote, US",
@@ -671,28 +704,6 @@
     "first_seen": "2026-09-16"
   },
   {
-    "id": "greenhouse_samsara_8204376",
-    "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - MA",
-    "url": "https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376",
-    "posted_date": "2026-09-15",
-    "company": "Samsara",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-09-15"
-  },
-  {
-    "id": "greenhouse_samsara_8204370",
-    "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - Dallas",
-    "url": "https://www.samsara.com/company/careers/roles/8204370?gh_jid=8204370",
-    "posted_date": "2026-09-15",
-    "company": "Samsara",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-09-15"
-  },
-  {
     "id": "greenhouse_nebius_4817210101",
     "title": "Senior Technical Program Manager ",
     "location": "Remote - United States",
@@ -712,28 +723,6 @@
     "company": "Coinbase",
     "tier": "Strong",
     "remote": true,
-    "first_seen": "2026-09-15"
-  },
-  {
-    "id": "workday_capitalone_bb5f7b1cc4e0",
-    "title": "Director,  Project Management - Design Operations",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director---Project-Management---Design-Operations_R1000747",
-    "posted_date": "2026-09-15",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-15"
-  },
-  {
-    "id": "workday_capitalone_e17625c98fb6",
-    "title": "Senior Manager - Project Management - Special Projects",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager---Project-Management---Special-Projects_R1000664-1",
-    "posted_date": "2026-09-15",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
     "first_seen": "2026-09-15"
   },
   {
@@ -834,17 +823,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-09-11"
-  },
-  {
-    "id": "greenhouse_samsara_8164851",
-    "title": "Technical Program Manager - Enterprise Security",
-    "location": "Remote - Seattle",
-    "url": "https://www.samsara.com/company/careers/roles/8164851?gh_jid=8164851",
-    "posted_date": "2026-09-10",
-    "company": "Samsara",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-09-10"
   },
   {
     "id": "greenhouse_samsara_8179593",
