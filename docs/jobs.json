@@ -1,5 +1,27 @@
 [
   {
+    "id": "greenhouse_affirm_8015158003",
+    "title": "Senior Manager, Affirm Bank Operations Enablement",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8015158003",
+    "posted_date": "2026-10-08",
+    "company": "Affirm",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-08"
+  },
+  {
+    "id": "workday_capitalone_100e1651a52e",
+    "title": "Manager, Project Management – Card Data",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management---Card-Data_R249242-1",
+    "posted_date": "2026-10-08",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-08"
+  },
+  {
     "id": "workday_capitalone_f043c0828349",
     "title": "Manager, Project Management - Global Payment Network PMO",
     "location": "McLean, VA",
@@ -8,6 +30,17 @@
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
+    "first_seen": "2026-10-08"
+  },
+  {
+    "id": "greenhouse_gomotive_8859354002",
+    "title": "Senior Manager, GTM Operations",
+    "location": "United States - Remote",
+    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8859354002",
+    "posted_date": "2026-10-08",
+    "company": "Motive",
+    "tier": "Moderate",
+    "remote": true,
     "first_seen": "2026-10-08"
   },
   {
@@ -671,17 +704,6 @@
     "first_seen": "2026-09-18"
   },
   {
-    "id": "workday_capitalone_c3b0fe279f1e",
-    "title": "Director, Technical Program Manager (Resiliency and Reliability Engineering)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager--Resiliency-and-Reliability-Engineering-_R1000983-1",
-    "posted_date": "2026-09-18",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-18"
-  },
-  {
     "id": "workday_capitalone_4c5a5c69ce57",
     "title": "Senior Manager, Project Manager - Global Enterprise Communications (GEC)",
     "location": "McLean, VA",
@@ -782,7 +804,7 @@
   },
   {
     "id": "greenhouse_backblaze_5422975008",
-    "title": "Senior Technical Program Manager (Security)",
+    "title": "Sr. Technical Program Manager (Security)",
     "location": "Remote - US",
     "url": "https://job-boards.greenhouse.io/backblaze/jobs/5422975008",
     "posted_date": "2026-09-14",
@@ -1032,17 +1054,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-19"
-  },
-  {
-    "id": "greenhouse_reddit_8145926",
-    "title": "Staff Product Manager, Ads Signals",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8145926",
-    "posted_date": "2026-09-03",
-    "company": "Reddit",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-09-03"
   },
   {
     "id": "greenhouse_gomotive_8756914002",
@@ -1384,6 +1395,17 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-07"
+  },
+  {
+    "id": "greenhouse_stripe_8114397",
+    "title": "Technical Program Manager, Extensibility ",
+    "location": "Remote US ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114397",
+    "posted_date": "2026-08-07",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-08"
   },
   {
     "id": "greenhouse_coinbase_8110496",
