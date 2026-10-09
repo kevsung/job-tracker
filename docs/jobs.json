@@ -1,5 +1,16 @@
 [
   {
+    "id": "greenhouse_stripe_8250483",
+    "title": "Marketing Operations Manager, AMER Events",
+    "location": "US Remote; Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8250483",
+    "posted_date": "2026-10-09",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-09"
+  },
+  {
     "id": "greenhouse_affirm_8015158003",
     "title": "Senior Manager, Affirm Bank Operations Enablement",
     "location": "Remote US",
@@ -913,22 +924,11 @@
     "first_seen": "2026-09-09"
   },
   {
-    "id": "greenhouse_coinbase_8186586",
-    "title": "Manager, WFM CX Operations",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/8186586?gh_jid=8186586",
-    "posted_date": "2026-09-08",
-    "company": "Coinbase",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-09-08"
-  },
-  {
     "id": "workday_capitalone_fabe509fafc2",
     "title": "Sr. Manager, Project Manager | Signature Experiences Programming Lead",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager--Project-Manager---Signature-Experiences-Programming-Lead_R246918-2",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-09",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
@@ -939,7 +939,7 @@
     "title": "Senior Associate, Project Manager | Retail Bank Operations & Market Experience (Hybrid)",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Project-Manager---Retail-Bank-Operations---Market-Experience--Hybrid-_R249823-1",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-09",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
@@ -950,7 +950,7 @@
     "title": "Senior Associate, Project Manager - CFI&I Strategic Events & Convenings",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Project-Manager---CFI-I-Strategic-Events---Convenings_R249247",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-09",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
@@ -961,7 +961,7 @@
     "title": "Senior Associate, Project Manager Campaign Delivery | Retail Bank",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Project-Manager-Campaign-Delivery---Retail-Bank_R248294-1",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-09",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
@@ -972,7 +972,7 @@
     "title": "Senior Associate, Project Manager",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Project-Manager_R247797-1",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-09",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
@@ -983,7 +983,7 @@
     "title": "Sr Manager, Product Management - Staff Operations",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager--Product-Management---Staff-Operations_R246928-1",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-09",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
@@ -994,7 +994,7 @@
     "title": "Manager, Design Operations",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Design-Operations_R232569-2",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-09",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
@@ -1005,11 +1005,22 @@
     "title": "Senior Associate Delivery Manager",
     "location": "Remote  , US",
     "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Remote---US/Senior-Associate-Delivery-Manager_JR14679-2",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-09",
     "company": "DraftKings",
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-08-15"
+  },
+  {
+    "id": "greenhouse_coinbase_8186586",
+    "title": "Manager, WFM CX Operations",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8186586?gh_jid=8186586",
+    "posted_date": "2026-09-08",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-08"
   },
   {
     "id": "greenhouse_dropbox_8075211",
@@ -1593,16 +1604,5 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-07-15"
-  },
-  {
-    "id": "greenhouse_webflow_8054709",
-    "title": "Staff Product Manager, AI",
-    "location": "CA Remote (BC & ON only); U.S. Remote",
-    "url": "https://job-boards.greenhouse.io/webflow/jobs/8054709",
-    "posted_date": "2026-07-10",
-    "company": "Webflow",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-31"
   }
 ]
