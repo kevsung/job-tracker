@@ -1,11 +1,44 @@
 [
   {
+    "id": "greenhouse_samsara_8261809",
+    "title": "Senior Creative Program Manager",
+    "location": "Remote - Seattle",
+    "url": "https://www.samsara.com/company/careers/roles/8261809?gh_jid=8261809",
+    "posted_date": "2026-10-09",
+    "company": "Samsara",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-09"
+  },
+  {
+    "id": "greenhouse_samsara_8256425",
+    "title": "Staff Product Operations Manager, Platform",
+    "location": "Remote - US",
+    "url": "https://www.samsara.com/company/careers/roles/8256425?gh_jid=8256425",
+    "posted_date": "2026-10-09",
+    "company": "Samsara",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-09"
+  },
+  {
     "id": "greenhouse_stripe_8250483",
     "title": "Marketing Operations Manager, AMER Events",
     "location": "US Remote; Canada",
     "url": "https://stripe.com/jobs/search?gh_jid=8250483",
     "posted_date": "2026-10-09",
     "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-09"
+  },
+  {
+    "id": "greenhouse_mercury_6221555004",
+    "title": "Senior Risk Program Manager - Fraud & Disputes Enablement",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6221555004",
+    "posted_date": "2026-10-09",
+    "company": "Mercury",
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-10-09"
@@ -19,6 +52,28 @@
     "company": "Affirm",
     "tier": "Strong",
     "remote": true,
+    "first_seen": "2026-10-09"
+  },
+  {
+    "id": "workday_capitalone_79c46e25710c",
+    "title": "Senior Associate, Project Manager",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Project-Manager_R1003485-2",
+    "posted_date": "2026-10-09",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-09"
+  },
+  {
+    "id": "workday_capitalone_3d494edb3232",
+    "title": "Manager, Project Manager, Consumer Intelligence",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Manager--Consumer-Intelligence_R1003097-1",
+    "posted_date": "2026-10-09",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
     "first_seen": "2026-10-09"
   },
   {
@@ -41,6 +96,17 @@
     "company": "Instacart",
     "tier": "Moderate",
     "remote": true,
+    "first_seen": "2026-10-09"
+  },
+  {
+    "id": "greenhouse_airbnb_8262207",
+    "title": "Product Manager, API Platform",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8262207?gh_jid=8262207",
+    "posted_date": "2026-10-09",
+    "company": "Airbnb",
+    "tier": "Moderate",
+    "remote": false,
     "first_seen": "2026-10-09"
   },
   {
@@ -74,17 +140,6 @@
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
-    "first_seen": "2026-10-08"
-  },
-  {
-    "id": "greenhouse_gomotive_8859354002",
-    "title": "Senior Manager, GTM Operations",
-    "location": "United States - Remote",
-    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8859354002",
-    "posted_date": "2026-10-08",
-    "company": "Motive",
-    "tier": "Moderate",
-    "remote": true,
     "first_seen": "2026-10-08"
   },
   {
@@ -400,17 +455,6 @@
     "title": "Manager, Project Management (Intelligent Foundations & Experiences)",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management--Intelligent-Foundations---Experiences-_R1001296-2",
-    "posted_date": "2026-10-01",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-01"
-  },
-  {
-    "id": "workday_capitalone_581a3a3d7ae6",
-    "title": "Business Manager - CR&A, Credit Enablement and Operations",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Business-Manager---CR-A--Credit-Enablement-and-Operations_R1002757",
     "posted_date": "2026-10-01",
     "company": "Capital One",
     "tier": "Strong",
@@ -836,17 +880,6 @@
     "first_seen": "2026-09-14"
   },
   {
-    "id": "greenhouse_attentive_4402183009",
-    "title": "Senior Product Manager, Data Platform Extensibility",
-    "location": "United States",
-    "url": "https://job-boards.greenhouse.io/attentive/jobs/4402183009",
-    "posted_date": "2026-09-14",
-    "company": "Attentive",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-09-14"
-  },
-  {
     "id": "greenhouse_backblaze_5422975008",
     "title": "Sr. Technical Program Manager (Security)",
     "location": "Remote - US",
@@ -1131,17 +1164,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-09-02"
-  },
-  {
-    "id": "greenhouse_doordashusa_8162204",
-    "title": "Associate Manager, Marketplace - Strategy & Operations ",
-    "location": "San Francisco, CA; New York, NY; Seattle, WA; Miami, FL; Los Angeles, CA; Denver, CO; Washington D.C.; Tempe, AZ; Chicago, IL; Austin, TX",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8162204",
-    "posted_date": "2026-09-01",
-    "company": "DoorDash",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-01"
   },
   {
     "id": "greenhouse_stripe_8155390",
@@ -1450,17 +1472,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-10-08"
-  },
-  {
-    "id": "greenhouse_coinbase_8110496",
-    "title": "Senior Manager Product Operations, FCM Ops",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/8110496?gh_jid=8110496",
-    "posted_date": "2026-08-06",
-    "company": "Coinbase",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-08-06"
   },
   {
     "id": "greenhouse_pinterest_7959458",
