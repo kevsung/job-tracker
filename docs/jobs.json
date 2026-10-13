@@ -1,5 +1,16 @@
 [
   {
+    "id": "workday_capitalone_0eccd4d2f3a5",
+    "title": "Senior Product Manager, AI Enablement - Analytics: Capital One Shopping (Remote-Eligible)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Product-Manager--AI-Enablement---Analytics--Capital-One-Shopping--Remote-Eligible-_R1003310-1",
+    "posted_date": "2026-10-13",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-13"
+  },
+  {
     "id": "workday_capitalone_2da972423fa5",
     "title": "Senior Manager, Product Manager-Retail Bank Platform Enablement",
     "location": "McLean, VA",
@@ -229,6 +240,17 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-10-08"
+  },
+  {
+    "id": "greenhouse_gomotive_8859354002",
+    "title": "Senior Manager, GTM Operations",
+    "location": "United States - Remote",
+    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8859354002",
+    "posted_date": "2026-10-08",
+    "company": "Motive",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-13"
   },
   {
     "id": "greenhouse_samsara_8261992",
