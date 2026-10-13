@@ -1,5 +1,38 @@
 [
   {
+    "id": "workday_capitalone_1df8cb357242",
+    "title": "Director, Technical Program Manager",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager_R1003330-1",
+    "posted_date": "2026-10-13",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-13"
+  },
+  {
+    "id": "greenhouse_gomotive_8372647002",
+    "title": "Senior Manager, People Operations",
+    "location": "United States - Remote",
+    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8372647002",
+    "posted_date": "2026-10-13",
+    "company": "Motive",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-13"
+  },
+  {
+    "id": "workday_draftkings_ea14d4c86edd",
+    "title": "Manager, Loyalty Program Operations",
+    "location": "Remote - US",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Remote---US/Manager--Loyalty-Program-Operations_JR15271-1",
+    "posted_date": "2026-10-13",
+    "company": "DraftKings",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-13"
+  },
+  {
     "id": "greenhouse_backblaze_5440590008",
     "title": "Senior Technical Program Manager",
     "location": "Remote - US",
