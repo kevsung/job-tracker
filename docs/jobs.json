@@ -1,5 +1,16 @@
 [
   {
+    "id": "workday_capitalone_2da972423fa5",
+    "title": "Senior Manager, Product Manager-Retail Bank Platform Enablement",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Product-Manager-Retail-Bank-Platform-Enablement_R1003519-1",
+    "posted_date": "2026-10-13",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-13"
+  },
+  {
     "id": "workday_capitalone_1df8cb357242",
     "title": "Director, Technical Program Manager",
     "location": "McLean, VA",
@@ -11,6 +22,17 @@
     "first_seen": "2026-10-13"
   },
   {
+    "id": "greenhouse_instacart_8275352",
+    "title": "Associate Product Operations Manager",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=8275352",
+    "posted_date": "2026-10-13",
+    "company": "Instacart",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-13"
+  },
+  {
     "id": "greenhouse_gomotive_8372647002",
     "title": "Senior Manager, People Operations",
     "location": "United States - Remote",
@@ -19,6 +41,17 @@
     "company": "Motive",
     "tier": "Moderate",
     "remote": true,
+    "first_seen": "2026-10-13"
+  },
+  {
+    "id": "greenhouse_airbnb_8278753",
+    "title": "Program Manager, Community Support",
+    "location": "United States ",
+    "url": "https://careers.airbnb.com/positions/8278753?gh_jid=8278753",
+    "posted_date": "2026-10-13",
+    "company": "Airbnb",
+    "tier": "Moderate",
+    "remote": false,
     "first_seen": "2026-10-13"
   },
   {
@@ -240,17 +273,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-10-07"
-  },
-  {
-    "id": "workday_capitalone_e17625c98fb6",
-    "title": "Senior Manager - Project Management - Special Projects",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager---Project-Management---Special-Projects_R1000664-1",
-    "posted_date": "2026-10-07",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-15"
   },
   {
     "id": "workday_capitalone_086a12eb5d8f",
@@ -836,17 +858,6 @@
     "first_seen": "2026-09-18"
   },
   {
-    "id": "workday_capitalone_4c5a5c69ce57",
-    "title": "Senior Manager, Project Manager - Global Enterprise Communications (GEC)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Project-Manager---Global-Enterprise-Communications--GEC-_R1000999-1",
-    "posted_date": "2026-09-18",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-18"
-  },
-  {
     "id": "workday_capitalone_682b7e597383",
     "title": "Manager, HR Strategic Operations",
     "location": "McLean, VA",
@@ -944,17 +955,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-09-09"
-  },
-  {
-    "id": "workday_capitalone_fabe509fafc2",
-    "title": "Sr. Manager, Project Manager | Signature Experiences Programming Lead",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager--Project-Manager---Signature-Experiences-Programming-Lead_R246918-2",
-    "posted_date": "2026-09-13",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-28"
   },
   {
     "id": "workday_capitalone_756205f4c920",
