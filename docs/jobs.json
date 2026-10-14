@@ -1,11 +1,22 @@
 [
   {
-    "id": "greenhouse_instacart_8281405",
-    "title": "Senior Product Manager, Ad Formats",
-    "location": "United States - Remote",
-    "url": "https://instacart.careers/job/?gh_jid=8281405",
+    "id": "greenhouse_pinterest_8145923",
+    "title": "Sr. Staff Product Manager, Adversarial Actors",
+    "location": "San Francisco, CA, US; Seattle, WA, US; Remote, CA, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8145923",
     "posted_date": "2026-10-14",
-    "company": "Instacart",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-14"
+  },
+  {
+    "id": "greenhouse_dept_8282107",
+    "title": "Senior Account Manager, Programmatic",
+    "location": "US - Remote",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8282107",
+    "posted_date": "2026-10-14",
+    "company": "DEPT",
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-10-14"
@@ -418,17 +429,6 @@
     "first_seen": "2026-10-06"
   },
   {
-    "id": "rippling_rippling_e2a5b70b-567b-4feb-b778-3e6032c59ce2",
-    "title": "Global Payroll Escalations & Project Manager",
-    "location": "Remote (United States)",
-    "url": "https://ats.rippling.com/rippling/jobs/e2a5b70b-567b-4feb-b778-3e6032c59ce2",
-    "company": "Rippling",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-10-06",
-    "posted_date": "2026-10-06"
-  },
-  {
     "id": "workday_capitalone_b5724f2581d6",
     "title": "Manager, Project Management - Enterprise Service and Risk",
     "location": "McLean, VA",
@@ -628,7 +628,7 @@
   },
   {
     "id": "greenhouse_coinbase_8232211",
-    "title": "Manager, Strategic Programs",
+    "title": "Senior Strategic Program Manager",
     "location": "Remote - USA",
     "url": "https://www.coinbase.com/careers/positions/8232211?gh_jid=8232211",
     "posted_date": "2026-09-28",
