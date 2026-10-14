@@ -1,5 +1,27 @@
 [
   {
+    "id": "greenhouse_instacart_8281405",
+    "title": "Senior Product Manager, Ad Formats",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=8281405",
+    "posted_date": "2026-10-14",
+    "company": "Instacart",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-14"
+  },
+  {
+    "id": "workday_draftkings_ea14d4c86edd",
+    "title": "Manager, Loyalty Program Operations",
+    "location": "Remote - US",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Remote---US/Manager--Loyalty-Program-Operations_JR15271-1",
+    "posted_date": "2026-10-14",
+    "company": "DraftKings",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-13"
+  },
+  {
     "id": "workday_capitalone_0eccd4d2f3a5",
     "title": "Senior Product Manager, AI Enablement - Analytics: Capital One Shopping (Remote-Eligible)",
     "location": "McLean, VA",
@@ -63,17 +85,6 @@
     "company": "Airbnb",
     "tier": "Moderate",
     "remote": false,
-    "first_seen": "2026-10-13"
-  },
-  {
-    "id": "workday_draftkings_ea14d4c86edd",
-    "title": "Manager, Loyalty Program Operations",
-    "location": "Remote - US",
-    "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Remote---US/Manager--Loyalty-Program-Operations_JR15271-1",
-    "posted_date": "2026-10-13",
-    "company": "DraftKings",
-    "tier": "Moderate",
-    "remote": true,
     "first_seen": "2026-10-13"
   },
   {
@@ -385,6 +396,17 @@
     "first_seen": "2026-10-07"
   },
   {
+    "id": "greenhouse_coinbase_8258909",
+    "title": "Product Manager II, Advanced Trade ",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8258909?gh_jid=8258909",
+    "posted_date": "2026-10-06",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-14"
+  },
+  {
     "id": "greenhouse_coinbase_8259801",
     "title": "Staff Technical Program Manager, Consumer ",
     "location": "Remote - USA",
@@ -680,17 +702,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-09-25"
-  },
-  {
-    "id": "greenhouse_pinterest_8209020",
-    "title": "Technical Program Manager II, Shopping Platforms",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209020",
-    "posted_date": "2026-09-24",
-    "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-09-24"
   },
   {
     "id": "greenhouse_databricks_8831555002",
