@@ -1,47 +1,25 @@
 [
   {
-    "id": "workday_capitalone_400cc0871904",
-    "title": "Sr. Manager - S&G Analyst Development Program Lead",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager---S-G-Analyst-Development-Program-Lead_R1003822-1",
+    "id": "ashby_dandy_ff070e42-782a-4438-b7e5-57122a4427aa",
+    "title": "Senior Manager, Finance Operations",
+    "location": "USA - Remote",
+    "url": "https://jobs.ashbyhq.com/dandy/ff070e42-782a-4438-b7e5-57122a4427aa",
     "posted_date": "2026-10-16",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
+    "company": "Dandy",
+    "tier": "Moderate",
+    "remote": true,
     "first_seen": "2026-10-15"
   },
   {
-    "id": "workday_capitalone_cbe7abfd53a5",
-    "title": "Principal Project Manager,  Design Manager (Airport Lounge)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Project-Manager---Design-Manager--Airport-Lounge-_R1003841-1",
+    "id": "ashby_ashby_390e266b-4b6c-4490-ad74-05ff5e0bb36a",
+    "title": "Product Manager, Onboarding and Growth",
+    "location": "Remote - US",
+    "url": "https://jobs.ashbyhq.com/ashby/390e266b-4b6c-4490-ad74-05ff5e0bb36a",
     "posted_date": "2026-10-16",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-15"
-  },
-  {
-    "id": "workday_capitalone_25c9a9d03974",
-    "title": "Manager, Project Management - Enterprise Service and Risk",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management---Enterprise-Service-and-Risk_R1003239-1",
-    "posted_date": "2026-10-16",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-15"
-  },
-  {
-    "id": "workday_capitalone_124fc6879e59",
-    "title": "Manager, Project Management - Enterprise Service and Risk",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management---Enterprise-Service-and-Risk_R1003238-1",
-    "posted_date": "2026-10-16",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-15"
+    "company": "Ashby",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-16"
   },
   {
     "id": "greenhouse_stripe_8282859",
@@ -66,14 +44,47 @@
     "first_seen": "2026-10-16"
   },
   {
-    "id": "ashby_dandy_ff070e42-782a-4438-b7e5-57122a4427aa",
-    "title": "Senior Manager, Finance Operations",
-    "location": "USA - Remote",
-    "url": "https://jobs.ashbyhq.com/dandy/ff070e42-782a-4438-b7e5-57122a4427aa",
+    "id": "workday_capitalone_400cc0871904",
+    "title": "Sr. Manager - S&G Analyst Development Program Lead",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager---S-G-Analyst-Development-Program-Lead_R1003822-1",
     "posted_date": "2026-10-15",
-    "company": "Dandy",
-    "tier": "Moderate",
-    "remote": true,
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-15"
+  },
+  {
+    "id": "workday_capitalone_cbe7abfd53a5",
+    "title": "Principal Project Manager,  Design Manager (Airport Lounge)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Project-Manager---Design-Manager--Airport-Lounge-_R1003841-1",
+    "posted_date": "2026-10-15",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-15"
+  },
+  {
+    "id": "workday_capitalone_25c9a9d03974",
+    "title": "Manager, Project Management - Enterprise Service and Risk",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management---Enterprise-Service-and-Risk_R1003239-1",
+    "posted_date": "2026-10-15",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-15"
+  },
+  {
+    "id": "workday_capitalone_124fc6879e59",
+    "title": "Manager, Project Management - Enterprise Service and Risk",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management---Enterprise-Service-and-Risk_R1003238-1",
+    "posted_date": "2026-10-15",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
     "first_seen": "2026-10-15"
   },
   {
@@ -97,61 +108,6 @@
     "tier": "Moderate",
     "remote": false,
     "first_seen": "2026-10-15"
-  },
-  {
-    "id": "workday_draftkings_0d952220eb5f",
-    "title": "Senior Technical Program Manager, Data",
-    "location": "Remote - US",
-    "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Remote---US/Senior-Technical-Program-Manager--Data_JR14539-1",
-    "posted_date": "2026-10-15",
-    "company": "DraftKings",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-10-14"
-  },
-  {
-    "id": "workday_draftkings_ea14d4c86edd",
-    "title": "Manager, Loyalty Program Operations",
-    "location": "Remote - US",
-    "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Remote---US/Manager--Loyalty-Program-Operations_JR15271-1",
-    "posted_date": "2026-10-15",
-    "company": "DraftKings",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-10-13"
-  },
-  {
-    "id": "workday_capitalone_0eccd4d2f3a5",
-    "title": "Senior Product Manager, AI Enablement - Analytics: Capital One Shopping (Remote-Eligible)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Product-Manager--AI-Enablement---Analytics--Capital-One-Shopping--Remote-Eligible-_R1003310-1",
-    "posted_date": "2026-10-14",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-13"
-  },
-  {
-    "id": "workday_capitalone_2da972423fa5",
-    "title": "Senior Manager, Product Manager-Retail Bank Platform Enablement",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Product-Manager-Retail-Bank-Platform-Enablement_R1003519-1",
-    "posted_date": "2026-10-14",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-13"
-  },
-  {
-    "id": "workday_capitalone_1df8cb357242",
-    "title": "Director, Technical Program Manager",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager_R1003330-1",
-    "posted_date": "2026-10-14",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-13"
   },
   {
     "id": "greenhouse_pinterest_7770970",
@@ -209,6 +165,61 @@
     "first_seen": "2026-10-14"
   },
   {
+    "id": "workday_draftkings_0d952220eb5f",
+    "title": "Senior Technical Program Manager, Data",
+    "location": "Remote - US",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Remote---US/Senior-Technical-Program-Manager--Data_JR14539-1",
+    "posted_date": "2026-10-14",
+    "company": "DraftKings",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-14"
+  },
+  {
+    "id": "workday_draftkings_ea14d4c86edd",
+    "title": "Manager, Loyalty Program Operations",
+    "location": "Remote - US",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Remote---US/Manager--Loyalty-Program-Operations_JR15271-1",
+    "posted_date": "2026-10-14",
+    "company": "DraftKings",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-13"
+  },
+  {
+    "id": "workday_capitalone_0eccd4d2f3a5",
+    "title": "Senior Product Manager, AI Enablement - Analytics: Capital One Shopping (Remote-Eligible)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Product-Manager--AI-Enablement---Analytics--Capital-One-Shopping--Remote-Eligible-_R1003310-1",
+    "posted_date": "2026-10-13",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-13"
+  },
+  {
+    "id": "workday_capitalone_2da972423fa5",
+    "title": "Senior Manager, Product Manager-Retail Bank Platform Enablement",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Product-Manager-Retail-Bank-Platform-Enablement_R1003519-1",
+    "posted_date": "2026-10-13",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-13"
+  },
+  {
+    "id": "workday_capitalone_1df8cb357242",
+    "title": "Director, Technical Program Manager",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager_R1003330-1",
+    "posted_date": "2026-10-13",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-13"
+  },
+  {
     "id": "greenhouse_gomotive_8372647002",
     "title": "Senior Manager, People Operations",
     "location": "United States - Remote",
@@ -251,39 +262,6 @@
     "tier": "Weak",
     "remote": true,
     "first_seen": "2026-10-13"
-  },
-  {
-    "id": "workday_capitalone_79c46e25710c",
-    "title": "Senior Associate, Project Manager",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Project-Manager_R1003485-2",
-    "posted_date": "2026-10-10",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "id": "workday_capitalone_3d494edb3232",
-    "title": "Manager, Project Manager, Consumer Intelligence",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Manager--Consumer-Intelligence_R1003097-1",
-    "posted_date": "2026-10-10",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "id": "workday_capitalone_bcea5070c20d",
-    "title": "Sr. Manager, Product Manager- AI Enablement- GPN",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager--Product-Manager--AI-Enablement--GPN_R1002871-2",
-    "posted_date": "2026-10-10",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-09"
   },
   {
     "id": "greenhouse_samsara_8261809",
@@ -341,15 +319,37 @@
     "first_seen": "2026-10-09"
   },
   {
-    "id": "workday_capitalone_f043c0828349",
-    "title": "Manager, Project Management - Global Payment Network PMO",
+    "id": "workday_capitalone_79c46e25710c",
+    "title": "Senior Associate, Project Manager",
     "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management---Global-Payment-Network-PMO_R1002580-2",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Project-Manager_R1003485-2",
     "posted_date": "2026-10-09",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
-    "first_seen": "2026-10-08"
+    "first_seen": "2026-10-09"
+  },
+  {
+    "id": "workday_capitalone_3d494edb3232",
+    "title": "Manager, Project Manager, Consumer Intelligence",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Manager--Consumer-Intelligence_R1003097-1",
+    "posted_date": "2026-10-09",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-09"
+  },
+  {
+    "id": "workday_capitalone_bcea5070c20d",
+    "title": "Sr. Manager, Product Manager- AI Enablement- GPN",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager--Product-Manager--AI-Enablement--GPN_R1002871-2",
+    "posted_date": "2026-10-09",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-09"
   },
   {
     "id": "greenhouse_instacart_8266401",
@@ -385,26 +385,15 @@
     "first_seen": "2026-10-08"
   },
   {
-    "id": "workday_capitalone_086a12eb5d8f",
-    "title": "Director, Project Management (Cyber Secuirity, Governance, & Risk)",
+    "id": "workday_capitalone_f043c0828349",
+    "title": "Manager, Project Management - Global Payment Network PMO",
     "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Project-Management--Cyber-Secuirity--Governance----Risk-_R1003154-1",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management---Global-Payment-Network-PMO_R1002580-2",
     "posted_date": "2026-10-08",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
-    "first_seen": "2026-10-07"
-  },
-  {
-    "id": "workday_capitalone_e60227a8d046",
-    "title": "Senior Manager, Product Manager - Bank Marketing Adtech",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Product-Manager---Bank-Marketing-Adtech_R248321-1",
-    "posted_date": "2026-10-08",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
+    "first_seen": "2026-10-08"
   },
   {
     "id": "greenhouse_gomotive_8859354002",
@@ -462,32 +451,21 @@
     "first_seen": "2026-10-07"
   },
   {
-    "id": "workday_capitalone_b5724f2581d6",
-    "title": "Manager, Project Management - Enterprise Service and Risk",
+    "id": "workday_capitalone_086a12eb5d8f",
+    "title": "Director, Project Management (Cyber Secuirity, Governance, & Risk)",
     "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management---Enterprise-Service-and-Risk_R1003026-1",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Project-Management--Cyber-Secuirity--Governance----Risk-_R1003154-1",
     "posted_date": "2026-10-07",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
-    "first_seen": "2026-10-06"
+    "first_seen": "2026-10-07"
   },
   {
-    "id": "workday_capitalone_7d062c51d2f6",
-    "title": "Senior Associate, Project Manager Campaign Delivery | Retail Bank",
+    "id": "workday_capitalone_e60227a8d046",
+    "title": "Senior Manager, Product Manager - Bank Marketing Adtech",
     "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Project-Manager-Campaign-Delivery---Retail-Bank_R1003041-1",
-    "posted_date": "2026-10-07",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-06"
-  },
-  {
-    "id": "workday_capitalone_eea144ff9d9f",
-    "title": "Manager, Product Manager - Enterprise Payments - Core Platform",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Product-Manager---Enterprise-Payments---Core-Platform_R246402-1",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Product-Manager---Bank-Marketing-Adtech_R248321-1",
     "posted_date": "2026-10-07",
     "company": "Capital One",
     "tier": "Strong",
@@ -583,15 +561,37 @@
     "first_seen": "2026-10-06"
   },
   {
-    "id": "workday_capitalone_dac04df89128",
-    "title": "Senior Manager, Project Management - Integrated Global Workforce Planning",
+    "id": "workday_capitalone_b5724f2581d6",
+    "title": "Manager, Project Management - Enterprise Service and Risk",
     "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Project-Management---Integrated-Global-Workforce-Planning_R1001008-1",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management---Enterprise-Service-and-Risk_R1003026-1",
     "posted_date": "2026-10-06",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-10-06"
+  },
+  {
+    "id": "workday_capitalone_7d062c51d2f6",
+    "title": "Senior Associate, Project Manager Campaign Delivery | Retail Bank",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Project-Manager-Campaign-Delivery---Retail-Bank_R1003041-1",
+    "posted_date": "2026-10-06",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-06"
+  },
+  {
+    "id": "workday_capitalone_eea144ff9d9f",
+    "title": "Manager, Product Manager - Enterprise Payments - Core Platform",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Product-Manager---Enterprise-Payments---Core-Platform_R246402-1",
+    "posted_date": "2026-10-06",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-08-12"
   },
   {
     "id": "greenhouse_airbnb_8231975",
@@ -605,17 +605,6 @@
     "first_seen": "2026-10-06"
   },
   {
-    "id": "workday_draftkings_591f1973e7b2",
-    "title": "Senior Product Manager, Fraud Risk Platforms",
-    "location": "Remote - US",
-    "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Remote---US/Senior-Product-Manager--Fraud-Risk-Platforms_JR15262-1",
-    "posted_date": "2026-10-06",
-    "company": "DraftKings",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-10-06"
-  },
-  {
     "id": "greenhouse_affirm_8011038003",
     "title": "Staff Product Manager, Consumer Growth Loyalty",
     "location": "Remote US",
@@ -623,6 +612,28 @@
     "posted_date": "2026-10-05",
     "company": "Affirm",
     "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-06"
+  },
+  {
+    "id": "workday_capitalone_dac04df89128",
+    "title": "Senior Manager, Project Management - Integrated Global Workforce Planning",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Project-Management---Integrated-Global-Workforce-Planning_R1001008-1",
+    "posted_date": "2026-10-05",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-06"
+  },
+  {
+    "id": "workday_draftkings_591f1973e7b2",
+    "title": "Senior Product Manager, Fraud Risk Platforms",
+    "location": "Remote - US",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Remote---US/Senior-Product-Manager--Fraud-Risk-Platforms_JR15262-1",
+    "posted_date": "2026-10-05",
+    "company": "DraftKings",
+    "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-10-06"
   },
@@ -642,33 +653,11 @@
     "title": "Senior Manager, Project Management",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Project-Management_R1002796",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-10-02"
-  },
-  {
-    "id": "workday_capitalone_5b62161799a4",
-    "title": "Manager, Project Management (Intelligent Foundations & Experiences)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management--Intelligent-Foundations---Experiences-_R1001296-2",
-    "posted_date": "2026-10-02",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-01"
-  },
-  {
-    "id": "workday_capitalone_9d0c01b7f757",
-    "title": "Manager, TMPM Process & Risk Operations Lead",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--TMPM-Process---Risk-Operations-Lead_R1001671-1",
-    "posted_date": "2026-10-02",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-01"
   },
   {
     "id": "greenhouse_samsara_8223708",
@@ -693,11 +682,33 @@
     "first_seen": "2026-10-01"
   },
   {
+    "id": "workday_capitalone_5b62161799a4",
+    "title": "Manager, Project Management (Intelligent Foundations & Experiences)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management--Intelligent-Foundations---Experiences-_R1001296-2",
+    "posted_date": "2026-10-01",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-01"
+  },
+  {
+    "id": "workday_capitalone_9d0c01b7f757",
+    "title": "Manager, TMPM Process & Risk Operations Lead",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--TMPM-Process---Risk-Operations-Lead_R1001671-1",
+    "posted_date": "2026-10-01",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-01"
+  },
+  {
     "id": "workday_capitalone_823d505377f6",
     "title": "Senior Associate, Product Manager - Trade Credit",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Product-Manager---Trade-Credit_R1002699",
-    "posted_date": "2026-10-01",
+    "posted_date": "2026-09-30",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
@@ -708,7 +719,7 @@
     "title": "Senior Manager, Well-Managed, QA & Program Execution",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Well-Managed--QA---Program-Execution_R1002602-1",
-    "posted_date": "2026-10-01",
+    "posted_date": "2026-09-30",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
@@ -719,7 +730,7 @@
     "title": "Manager - Joining Product Operations",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager---Joining-Product-Operations_R1002535-1",
-    "posted_date": "2026-10-01",
+    "posted_date": "2026-09-30",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
@@ -730,44 +741,11 @@
     "title": "Sr. Manager, Technical Program Management",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager--Technical-Program-Management_R1002236-1",
-    "posted_date": "2026-09-30",
+    "posted_date": "2026-09-29",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-09-29"
-  },
-  {
-    "id": "workday_clio_21910478c2db",
-    "title": "Senior Manager, Sales Operations",
-    "location": "Remote   USA",
-    "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Remote---USA/Manager--Sales-Operations_REQ-5181",
-    "posted_date": "2026-09-29",
-    "company": "Clio",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-09-28"
-  },
-  {
-    "id": "workday_capitalone_a38a2b2ae0c9",
-    "title": "Director, Technical Program Manager (EPTech)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager--EPTech-_R1002066-1",
-    "posted_date": "2026-09-29",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-28"
-  },
-  {
-    "id": "workday_capitalone_fd39583d5114",
-    "title": "Director, Technical Program Manager",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager_R1002194-1",
-    "posted_date": "2026-09-29",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-28"
   },
   {
     "id": "greenhouse_coinbase_8232211",
@@ -781,15 +759,37 @@
     "first_seen": "2026-09-28"
   },
   {
-    "id": "workday_capitalone_d1e576f0de0a",
-    "title": "Senior Manager, Product Manager- Spend Controls Lead (Business Cards & Payments)",
+    "id": "workday_clio_21910478c2db",
+    "title": "Senior Manager, Sales Operations",
+    "location": "Remote   USA",
+    "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Remote---USA/Manager--Sales-Operations_REQ-5181",
+    "posted_date": "2026-09-28",
+    "company": "Clio",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-09-28"
+  },
+  {
+    "id": "workday_capitalone_a38a2b2ae0c9",
+    "title": "Director, Technical Program Manager (EPTech)",
     "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Product-Manager--Spend-Controls-Lead--Business-Cards---Payments-_R1002077-1",
-    "posted_date": "2026-09-26",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager--EPTech-_R1002066-1",
+    "posted_date": "2026-09-28",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
-    "first_seen": "2026-09-25"
+    "first_seen": "2026-09-28"
+  },
+  {
+    "id": "workday_capitalone_fd39583d5114",
+    "title": "Director, Technical Program Manager",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager_R1002194-1",
+    "posted_date": "2026-09-28",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-28"
   },
   {
     "id": "greenhouse_stripe_8209633",
@@ -803,6 +803,17 @@
     "first_seen": "2026-09-29"
   },
   {
+    "id": "workday_capitalone_d1e576f0de0a",
+    "title": "Senior Manager, Product Manager- Spend Controls Lead (Business Cards & Payments)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Product-Manager--Spend-Controls-Lead--Business-Cards---Payments-_R1002077-1",
+    "posted_date": "2026-09-25",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-25"
+  },
+  {
     "id": "greenhouse_Wizinc_4713219006",
     "title": "Strategy & Operations Program Manager, Global Technical Enablement",
     "location": "Remote - USA",
@@ -812,17 +823,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-09-25"
-  },
-  {
-    "id": "workday_capitalone_8c2f2702ad8a",
-    "title": "Principal Associate, Project Manager - Product Operations (Execution & Talent Enablement)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate--Project-Manager---Product-Operations--Execution---Talent-Enablement-_R1001746-1",
-    "posted_date": "2026-09-24",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-23"
   },
   {
     "id": "greenhouse_databricks_8831555002",
@@ -847,15 +847,15 @@
     "first_seen": "2026-09-23"
   },
   {
-    "id": "workday_capitalone_0bab72f75ae8",
-    "title": "Principal Associate – Events Project Manager, Community Finance, Impact & Investment",
+    "id": "workday_capitalone_8c2f2702ad8a",
+    "title": "Principal Associate, Project Manager - Product Operations (Execution & Talent Enablement)",
     "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate---Events-Project-Manager--Community-Finance--Impact---Investment_R1000519-1",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate--Project-Manager---Product-Operations--Execution---Talent-Enablement-_R1001746-1",
     "posted_date": "2026-09-23",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-23"
   },
   {
     "id": "greenhouse_pinterest_8208419",
@@ -902,37 +902,15 @@
     "first_seen": "2026-09-22"
   },
   {
-    "id": "workday_capitalone_bbc5dd18b7b7",
-    "title": "Principal Associate, Project Manager – Market Planning",
+    "id": "workday_capitalone_0bab72f75ae8",
+    "title": "Principal Associate – Events Project Manager, Community Finance, Impact & Investment",
     "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate--Project-Manager---Market-Planning_R1001364-2",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate---Events-Project-Manager--Community-Finance--Impact---Investment_R1000519-1",
     "posted_date": "2026-09-22",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
-    "first_seen": "2026-09-21"
-  },
-  {
-    "id": "workday_capitalone_5993089324f2",
-    "title": "Senior Manager, Project Management - Learning & Development Strategic Operations and Facilitation Lead",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Project-Management---Learning---Development-Strategic-Operations-and-Facilitation-Lead_R1001015-1",
-    "posted_date": "2026-09-22",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-21"
-  },
-  {
-    "id": "workday_capitalone_1c7ace2ffdd2",
-    "title": "Principal Associate - Program Manager- Product College",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate---Program-Manager--Product-College_R1001326-1",
-    "posted_date": "2026-09-22",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-21"
+    "first_seen": "2026-09-22"
   },
   {
     "id": "greenhouse_Wizinc_4705217006",
@@ -954,6 +932,39 @@
     "company": "Stripe",
     "tier": "Strong",
     "remote": true,
+    "first_seen": "2026-09-21"
+  },
+  {
+    "id": "workday_capitalone_bbc5dd18b7b7",
+    "title": "Principal Associate, Project Manager – Market Planning",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate--Project-Manager---Market-Planning_R1001364-2",
+    "posted_date": "2026-09-21",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-21"
+  },
+  {
+    "id": "workday_capitalone_5993089324f2",
+    "title": "Senior Manager, Project Management - Learning & Development Strategic Operations and Facilitation Lead",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Project-Management---Learning---Development-Strategic-Operations-and-Facilitation-Lead_R1001015-1",
+    "posted_date": "2026-09-21",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-09-21"
+  },
+  {
+    "id": "workday_capitalone_1c7ace2ffdd2",
+    "title": "Principal Associate - Program Manager- Product College",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate---Program-Manager--Product-College_R1001326-1",
+    "posted_date": "2026-09-21",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
     "first_seen": "2026-09-21"
   },
   {
@@ -983,7 +994,7 @@
     "title": "Senior Cyber Program Manager",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Cyber-Program-Manager_R1001054",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-18",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
@@ -994,7 +1005,7 @@
     "title": "Director, Technical Program Manager (Core TPM Tower)",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager--Core-TPM-Tower-_R1000985-1",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-18",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
@@ -1005,7 +1016,7 @@
     "title": "Manager, HR Strategic Operations",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--HR-Strategic-Operations_R1001030-1",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-18",
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
