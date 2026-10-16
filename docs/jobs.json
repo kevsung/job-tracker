@@ -1,5 +1,38 @@
 [
   {
+    "id": "workday_capitalone_1e66f465c9db",
+    "title": "Senior Associate, Project Manager - SBB Data Evangelization",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Project-Manager---SBB-Data-Evangelization_R1003575-2",
+    "posted_date": "2026-10-16",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-16"
+  },
+  {
+    "id": "workday_capitalone_67f90c1b9c17",
+    "title": "Manager, Project Manager- Customer Identity",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Manager--Customer-Identity_R1003820-1",
+    "posted_date": "2026-10-16",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-16"
+  },
+  {
+    "id": "workday_capitalone_117072523313",
+    "title": "Director, Project Management - Enterprise Data",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Project-Management---Enterprise-Data_R1003859-1",
+    "posted_date": "2026-10-16",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-16"
+  },
+  {
     "id": "ashby_dandy_ff070e42-782a-4438-b7e5-57122a4427aa",
     "title": "Senior Manager, Finance Operations",
     "location": "USA - Remote",
@@ -9,6 +42,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-10-15"
+  },
+  {
+    "id": "greenhouse_life360_8894899002",
+    "title": "Senior Manager of Strategy & Operations",
+    "location": "Remote, USA",
+    "url": "https://job-boards.greenhouse.io/life360/jobs/8894899002",
+    "posted_date": "2026-10-16",
+    "company": "Life360",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-16"
   },
   {
     "id": "ashby_ashby_390e266b-4b6c-4490-ad74-05ff5e0bb36a",
@@ -649,15 +693,15 @@
     "first_seen": "2026-10-03"
   },
   {
-    "id": "workday_capitalone_bb97de03d149",
-    "title": "Senior Manager, Project Management",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Project-Management_R1002796",
+    "id": "greenhouse_instacart_8249751",
+    "title": "Senior Design Program Manager II",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=8249751",
     "posted_date": "2026-10-02",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-02"
+    "company": "Instacart",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-16"
   },
   {
     "id": "greenhouse_samsara_8223708",
@@ -708,17 +752,6 @@
     "title": "Senior Associate, Product Manager - Trade Credit",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Product-Manager---Trade-Credit_R1002699",
-    "posted_date": "2026-09-30",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-30"
-  },
-  {
-    "id": "workday_capitalone_1f276fa821a0",
-    "title": "Senior Manager, Well-Managed, QA & Program Execution",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Well-Managed--QA---Program-Execution_R1002602-1",
     "posted_date": "2026-09-30",
     "company": "Capital One",
     "tier": "Strong",
@@ -1056,17 +1089,6 @@
     "first_seen": "2026-08-12"
   },
   {
-    "id": "workday_capitalone_5a9693355664",
-    "title": "Principal Associate, Project Manager - Product Operations: Governance & People Excellence",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate--Project-Manager---Product-Operations--Governance---People-Excellence_R244661-1",
-    "posted_date": "2026-09-16",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-14"
-  },
-  {
     "id": "workday_capitalone_0543f1858bba",
     "title": "Project Manager, Enterprise Data Risk Management",
     "location": "McLean, VA",
@@ -1254,17 +1276,6 @@
     "first_seen": "2026-10-02"
   },
   {
-    "id": "greenhouse_coinbase_8186586",
-    "title": "Manager, WFM CX Operations",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/8186586?gh_jid=8186586",
-    "posted_date": "2026-09-08",
-    "company": "Coinbase",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-09-08"
-  },
-  {
     "id": "greenhouse_stripe_8175671",
     "title": "Manager, Competitive Programs",
     "location": "NYC, Seattle, SF, Remote",
@@ -1296,17 +1307,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-19"
-  },
-  {
-    "id": "greenhouse_gomotive_8756914002",
-    "title": "Staff Product Manager - Partnership & Shop Network",
-    "location": "United States - Remote",
-    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8756914002",
-    "posted_date": "2026-09-03",
-    "company": "Motive",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-09-03"
   },
   {
     "id": "greenhouse_nebius_4966026101",
@@ -1670,17 +1670,6 @@
     "tier": "Moderate",
     "remote": false,
     "first_seen": "2026-10-05"
-  },
-  {
-    "id": "greenhouse_instacart_8077510",
-    "title": "Senior Product Manager, Ads Quality",
-    "location": "United States - Remote",
-    "url": "https://instacart.careers/job/?gh_jid=8077510",
-    "posted_date": "2026-07-23",
-    "company": "Instacart",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-23"
   },
   {
     "id": "greenhouse_stripe_8053517",
