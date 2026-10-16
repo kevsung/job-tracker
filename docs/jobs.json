@@ -1,5 +1,16 @@
 [
   {
+    "id": "greenhouse_mercury_6227550004",
+    "title": "Senior Customer Support Service Delivery Program Manager",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6227550004",
+    "posted_date": "2026-10-16",
+    "company": "Mercury",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-16"
+  },
+  {
     "id": "workday_capitalone_1e66f465c9db",
     "title": "Senior Associate, Project Manager - SBB Data Evangelization",
     "location": "McLean, VA",
@@ -59,6 +70,17 @@
     "title": "Product Manager, Onboarding and Growth",
     "location": "Remote - US",
     "url": "https://jobs.ashbyhq.com/ashby/390e266b-4b6c-4490-ad74-05ff5e0bb36a",
+    "posted_date": "2026-10-16",
+    "company": "Ashby",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-16"
+  },
+  {
+    "id": "ashby_ashby_044cc683-be16-471b-9af1-99cf70607735",
+    "title": "Customer Education Program Manager, Live Learning",
+    "location": "Remote - US",
+    "url": "https://jobs.ashbyhq.com/ashby/044cc683-be16-471b-9af1-99cf70607735",
     "posted_date": "2026-10-16",
     "company": "Ashby",
     "tier": "Moderate",
@@ -1329,6 +1351,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-09-02"
+  },
+  {
+    "id": "greenhouse_doordashusa_8162204",
+    "title": "Associate Manager, Strategy & Operations",
+    "location": "San Francisco, CA; New York, NY; Seattle, WA; Miami, FL; Los Angeles, CA; Denver, CO; Washington D.C.; Tempe, AZ; Chicago, IL; Austin, TX",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8162204",
+    "posted_date": "2026-09-01",
+    "company": "DoorDash",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-16"
   },
   {
     "id": "greenhouse_stripe_8155390",
