@@ -1,5 +1,16 @@
 [
   {
+    "id": "greenhouse_stripe_8257939",
+    "title": "Marketing Technology Program Manager",
+    "location": "US Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8257939",
+    "posted_date": "2026-10-19",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-19"
+  },
+  {
     "id": "greenhouse_grafanalabs_6227911004",
     "title": "Staff Product Manager, Enterprise Deployment Solutions |  USA | Remote",
     "location": "United States (Remote)",
@@ -9,6 +20,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-10-19"
+  },
+  {
+    "id": "rippling_rippling_b80f749a-53a7-4893-ad7d-7964929e6fd0",
+    "title": "Senior Program Manager, Knowledge",
+    "location": "Remote (United States)",
+    "url": "https://ats.rippling.com/rippling/jobs/b80f749a-53a7-4893-ad7d-7964929e6fd0",
+    "company": "Rippling",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-19",
+    "posted_date": "2026-10-19"
   },
   {
     "id": "greenhouse_mercury_6227550004",
@@ -1155,17 +1177,6 @@
     "first_seen": "2026-09-21"
   },
   {
-    "id": "workday_capitalone_ee4e0cb5426a",
-    "title": "Manager, Design Operations",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Design-Operations_R232569-2",
-    "posted_date": "2026-09-19",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
     "id": "workday_draftkings_1274b66a812e",
     "title": "Senior Associate Delivery Manager",
     "location": "Remote  , US",
@@ -1285,6 +1296,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-10-02"
+  },
+  {
+    "id": "greenhouse_coinbase_8186586",
+    "title": "Manager, WFM CX Operations",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8186586?gh_jid=8186586",
+    "posted_date": "2026-09-08",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-19"
   },
   {
     "id": "greenhouse_stripe_8175671",
