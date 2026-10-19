@@ -22,6 +22,17 @@
     "first_seen": "2026-10-19"
   },
   {
+    "id": "rippling_rippling_5a082b2d-4558-4f6a-9ce6-4c14742a9d77",
+    "title": "Senior Manager, Implementation Partner Operations",
+    "location": "Remote (United States)",
+    "url": "https://ats.rippling.com/rippling/jobs/5a082b2d-4558-4f6a-9ce6-4c14742a9d77",
+    "company": "Rippling",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-19",
+    "posted_date": "2026-10-19"
+  },
+  {
     "id": "rippling_rippling_b80f749a-53a7-4893-ad7d-7964929e6fd0",
     "title": "Senior Program Manager, Knowledge",
     "location": "Remote (United States)",
@@ -547,17 +558,6 @@
     "company": "Reddit",
     "tier": "Strong",
     "remote": true,
-    "first_seen": "2026-10-07"
-  },
-  {
-    "id": "workday_capitalone_086a12eb5d8f",
-    "title": "Director, Project Management (Cyber Secuirity, Governance, & Risk)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Project-Management--Cyber-Secuirity--Governance----Risk-_R1003154-1",
-    "posted_date": "2026-10-07",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
     "first_seen": "2026-10-07"
   },
   {
@@ -1637,6 +1637,17 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-07"
+  },
+  {
+    "id": "greenhouse_stripe_8114397",
+    "title": "Technical Program Manager, Extensibility ",
+    "location": "Remote US ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114397",
+    "posted_date": "2026-08-07",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-19"
   },
   {
     "id": "greenhouse_pinterest_7959458",
