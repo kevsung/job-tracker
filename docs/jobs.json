@@ -1,5 +1,27 @@
 [
   {
+    "id": "greenhouse_affirm_8012093003",
+    "title": "Senior Program Manager I",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8012093003",
+    "posted_date": "2026-10-20",
+    "company": "Affirm",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-20"
+  },
+  {
+    "id": "greenhouse_reddit_8238227",
+    "title": "Staff Product Manager, Youth",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8238227",
+    "posted_date": "2026-10-20",
+    "company": "Reddit",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-20"
+  },
+  {
     "id": "greenhouse_stripe_8257939",
     "title": "Marketing Technology Program Manager",
     "location": "US Remote",
@@ -163,17 +185,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-10-15"
-  },
-  {
-    "id": "greenhouse_chime_8882463002",
-    "title": "Program Manager, Performance Effectiveness",
-    "location": "Remote, USA",
-    "url": "https://boards.greenhouse.io/chime/jobs/8882463002?gh_jid=8882463002",
-    "posted_date": "2026-10-15",
-    "company": "Chime",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-10-16"
   },
   {
     "id": "workday_capitalone_400cc0871904",
@@ -517,17 +528,6 @@
     "first_seen": "2026-10-08"
   },
   {
-    "id": "workday_capitalone_f043c0828349",
-    "title": "Manager, Project Management - Global Payment Network PMO",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management---Global-Payment-Network-PMO_R1002580-2",
-    "posted_date": "2026-10-08",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-08"
-  },
-  {
     "id": "greenhouse_gomotive_8859354002",
     "title": "Senior Manager, GTM Operations",
     "location": "United States - Remote",
@@ -537,6 +537,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-10-13"
+  },
+  {
+    "id": "greenhouse_doordashusa_8262794",
+    "title": "Senior Manager, Sales Compliance - Strategy & Operations",
+    "location": "San Francisco, CA; New York, NY; Atlanta, GA; Chicago, IL; Denver, CO; Washington, DC; Austin, TX; Phoenix, AZ; Los Angeles, CA; Seattle, WA; Boston, MA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8262794",
+    "posted_date": "2026-10-07",
+    "company": "DoorDash",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-20"
   },
   {
     "id": "greenhouse_samsara_8261992",
@@ -1001,17 +1012,6 @@
     "first_seen": "2026-09-23"
   },
   {
-    "id": "greenhouse_Wizinc_4703613006",
-    "title": "Senior Technical Program Manager, Security",
-    "location": "Remote - USA",
-    "url": "https://www.wiz.io/careers/job/4703613006/:title?gh_jid=4703613006",
-    "posted_date": "2026-09-22",
-    "company": "Wiz",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-09-22"
-  },
-  {
     "id": "workday_capitalone_0bab72f75ae8",
     "title": "Principal Associate – Events Project Manager, Community Finance, Impact & Investment",
     "location": "McLean, VA",
@@ -1098,17 +1098,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-09-16"
-  },
-  {
-    "id": "workday_capitalone_6821a0dc3735",
-    "title": "Director, Technical Program Manager (Core TPM Tower)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Technical-Program-Manager--Core-TPM-Tower-_R1000985-1",
-    "posted_date": "2026-09-20",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-18"
   },
   {
     "id": "workday_capitalone_682b7e597383",
@@ -1208,17 +1197,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-08-15"
-  },
-  {
-    "id": "greenhouse_pinterest_8209845",
-    "title": "Sr. IT Project & Program Manager, Asset Management ",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209845",
-    "posted_date": "2026-09-17",
-    "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-09-17"
   },
   {
     "id": "greenhouse_toast_8201051",
