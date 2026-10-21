@@ -33,6 +33,17 @@
     "first_seen": "2026-10-21"
   },
   {
+    "id": "ashby_1password_86c4d000-e4f2-439f-be85-5018767e5cc1",
+    "title": "Staff Program Manager, CX Operations & Programs",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/86c4d000-e4f2-439f-be85-5018767e5cc1",
+    "posted_date": "2026-10-21",
+    "company": "1Password",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-21"
+  },
+  {
     "id": "ashby_ashby_40320f3a-9d7d-4d53-a30e-a1bf7d74793b",
     "title": "Staff Product Manager",
     "location": "Remote - US",
@@ -42,6 +53,28 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-10-21"
+  },
+  {
+    "id": "greenhouse_instacart_8304832",
+    "title": "Social Content Producer",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=8304832",
+    "posted_date": "2026-10-21",
+    "company": "Instacart",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-21"
+  },
+  {
+    "id": "workday_draftkings_ea14d4c86edd",
+    "title": "Manager, Loyalty Program Operations",
+    "location": "Remote - US",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Remote---US/Manager--Loyalty-Program-Operations_JR15271-1",
+    "posted_date": "2026-10-21",
+    "company": "DraftKings",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-13"
   },
   {
     "id": "greenhouse_affirm_8012093003",
@@ -86,17 +119,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-10-19"
-  },
-  {
-    "id": "rippling_rippling_5a082b2d-4558-4f6a-9ce6-4c14742a9d77",
-    "title": "Senior Manager, Implementation Partner Operations",
-    "location": "Remote (United States)",
-    "url": "https://ats.rippling.com/rippling/jobs/5a082b2d-4558-4f6a-9ce6-4c14742a9d77",
-    "company": "Rippling",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-10-19",
-    "posted_date": "2026-10-19"
   },
   {
     "id": "rippling_rippling_b80f749a-53a7-4893-ad7d-7964929e6fd0",
@@ -341,17 +363,6 @@
     "first_seen": "2026-10-14"
   },
   {
-    "id": "workday_draftkings_ea14d4c86edd",
-    "title": "Manager, Loyalty Program Operations",
-    "location": "Remote - US",
-    "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Remote---US/Manager--Loyalty-Program-Operations_JR15271-1",
-    "posted_date": "2026-10-14",
-    "company": "DraftKings",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-10-13"
-  },
-  {
     "id": "workday_capitalone_0eccd4d2f3a5",
     "title": "Senior Product Manager, AI Enablement - Analytics: Capital One Shopping (Remote-Eligible)",
     "location": "McLean, VA",
@@ -460,6 +471,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-10-09"
+  },
+  {
+    "id": "greenhouse_toast_8259263",
+    "title": "Principal Product Manager, Kitchen Operations & Innovation",
+    "location": "Remote, US",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8259263",
+    "posted_date": "2026-10-09",
+    "company": "Toast",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-21"
   },
   {
     "id": "greenhouse_mercury_6221555004",
@@ -679,17 +701,6 @@
     "company": "Coinbase",
     "tier": "Strong",
     "remote": true,
-    "first_seen": "2026-10-06"
-  },
-  {
-    "id": "workday_capitalone_b5724f2581d6",
-    "title": "Manager, Project Management - Enterprise Service and Risk",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management---Enterprise-Service-and-Risk_R1003026-1",
-    "posted_date": "2026-10-06",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
     "first_seen": "2026-10-06"
   },
   {
@@ -1186,6 +1197,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-09-16"
+  },
+  {
+    "id": "greenhouse_nebius_4817210101",
+    "title": "Senior Technical Program Manager ",
+    "location": "Remote - United States",
+    "url": "https://careers.nebius.com/?gh_jid=4817210101",
+    "posted_date": "2026-09-15",
+    "company": "Nebius",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-21"
   },
   {
     "id": "greenhouse_coinbase_8204571",
