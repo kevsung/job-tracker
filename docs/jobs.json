@@ -1,5 +1,49 @@
 [
   {
+    "id": "greenhouse_stripe_8301646",
+    "title": "Product Manager, Radar",
+    "location": "San Francisco, Seattle New York, US - Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8301646",
+    "posted_date": "2026-10-21",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-21"
+  },
+  {
+    "id": "greenhouse_stripe_8306158",
+    "title": "Product Manager, Radar - Fraud and Abuse Prevention",
+    "location": "San Francisco, Seattle, New York, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8306158",
+    "posted_date": "2026-10-21",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-21"
+  },
+  {
+    "id": "ashby_1password_59c03a18-a50d-4ef0-adf5-a0e132024784",
+    "title": "Senior Manager, Strategic Operations",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/59c03a18-a50d-4ef0-adf5-a0e132024784",
+    "posted_date": "2026-10-21",
+    "company": "1Password",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-21"
+  },
+  {
+    "id": "ashby_ashby_40320f3a-9d7d-4d53-a30e-a1bf7d74793b",
+    "title": "Staff Product Manager",
+    "location": "Remote - US",
+    "url": "https://jobs.ashbyhq.com/ashby/40320f3a-9d7d-4d53-a30e-a1bf7d74793b",
+    "posted_date": "2026-10-21",
+    "company": "Ashby",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-21"
+  },
+  {
     "id": "greenhouse_affirm_8012093003",
     "title": "Senior Program Manager I",
     "location": "Remote US",
@@ -143,17 +187,6 @@
     "first_seen": "2026-10-15"
   },
   {
-    "id": "greenhouse_life360_8894899002",
-    "title": "Senior Manager of Strategy & Operations",
-    "location": "Remote, USA",
-    "url": "https://job-boards.greenhouse.io/life360/jobs/8894899002",
-    "posted_date": "2026-10-16",
-    "company": "Life360",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-10-16"
-  },
-  {
     "id": "ashby_ashby_390e266b-4b6c-4490-ad74-05ff5e0bb36a",
     "title": "Product Manager, Onboarding and Growth",
     "location": "Remote - US",
@@ -174,17 +207,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-10-16"
-  },
-  {
-    "id": "greenhouse_stripe_8282859",
-    "title": "Technical Program Manager, Extensibility Platform",
-    "location": "US Remote ",
-    "url": "https://stripe.com/jobs/search?gh_jid=8282859",
-    "posted_date": "2026-10-15",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-10-15"
   },
   {
     "id": "workday_capitalone_400cc0871904",
@@ -625,39 +647,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-10-07"
-  },
-  {
-    "id": "greenhouse_stripe_7983854",
-    "title": "Product Manager, Radar",
-    "location": "San Francisco, Seattle, New York, US-Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=7983854",
-    "posted_date": "2026-10-06",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-10-06"
-  },
-  {
-    "id": "greenhouse_stripe_8258815",
-    "title": "Product Manager, Radar - Fraud and Abuse Prevention",
-    "location": "San Francisco, Seattle, New York, US-Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=8258815",
-    "posted_date": "2026-10-06",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-10-06"
-  },
-  {
-    "id": "ashby_harvey_bab83f3e-dfa4-4e8e-9160-6ed428d3ab13",
-    "title": "Sr. Technical Program Manager, GTM Technology",
-    "location": "Remote",
-    "url": "https://jobs.ashbyhq.com/harvey/bab83f3e-dfa4-4e8e-9160-6ed428d3ab13",
-    "posted_date": "2026-10-06",
-    "company": "Harvey",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-10-06"
   },
   {
     "id": "greenhouse_ethoslife_8872832002",
@@ -1164,17 +1153,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-09-21"
-  },
-  {
-    "id": "greenhouse_gomotive_8811800002",
-    "title": "Senior Manager, Security Operations",
-    "location": "United States - Remote",
-    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8811800002",
-    "posted_date": "2026-09-21",
-    "company": "Motive",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-09-22"
   },
   {
     "id": "workday_draftkings_1274b66a812e",
