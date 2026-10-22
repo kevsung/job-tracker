@@ -1,5 +1,38 @@
 [
   {
+    "id": "greenhouse_Wizinc_4722333006",
+    "title": "GTM Enablement Program Manager - AI Content Infrastructure",
+    "location": "Remote - USA",
+    "url": "https://www.wiz.io/careers/job/4722333006/:title?gh_jid=4722333006",
+    "posted_date": "2026-10-22",
+    "company": "Wiz",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-22"
+  },
+  {
+    "id": "workday_capitalone_bdb7fbaf2525",
+    "title": "Sr. Manager, Operations Servicing Strategy (Hybrid)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager--Operations-Servicing-Strategy--Hybrid-_R1003333-1",
+    "posted_date": "2026-10-22",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-22"
+  },
+  {
+    "id": "workday_capitalone_a6f8b1623222",
+    "title": "Manager, Project Manager - Product Operations (Business Cards & Payments)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Manager---Product-Operations--Business-Cards---Payments-_R1002076-2",
+    "posted_date": "2026-10-22",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-22"
+  },
+  {
     "id": "workday_capitalone_243a4785d94c",
     "title": "Senior Associate, Project Manager – Volunteer Experience & Enablement",
     "location": "McLean, VA",
@@ -264,15 +297,15 @@
     "first_seen": "2026-10-16"
   },
   {
-    "id": "ashby_ashby_044cc683-be16-471b-9af1-99cf70607735",
-    "title": "Customer Education Program Manager, Live Learning",
-    "location": "Remote - US",
-    "url": "https://jobs.ashbyhq.com/ashby/044cc683-be16-471b-9af1-99cf70607735",
-    "posted_date": "2026-10-16",
-    "company": "Ashby",
-    "tier": "Moderate",
+    "id": "greenhouse_stripe_8282859",
+    "title": "Technical Program Manager, Extensibility Platform",
+    "location": "US Remote ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8282859",
+    "posted_date": "2026-10-15",
+    "company": "Stripe",
+    "tier": "Strong",
     "remote": true,
-    "first_seen": "2026-10-16"
+    "first_seen": "2026-10-22"
   },
   {
     "id": "workday_capitalone_400cc0871904",
@@ -959,7 +992,7 @@
   {
     "id": "greenhouse_stripe_8209633",
     "title": "Program Manager, Deal Operations",
-    "location": "San Francisco, CA / Chicago, IL / Seattle, WA / NYC / Remote",
+    "location": "US-Remote, Dublin",
     "url": "https://stripe.com/jobs/search?gh_jid=8209633",
     "posted_date": "2026-09-25",
     "company": "Stripe",
@@ -1296,6 +1329,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-09-25"
+  },
+  {
+    "id": "greenhouse_dept_8191991",
+    "title": "Project Manager - Creative - US Remote",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8191991",
+    "posted_date": "2026-09-11",
+    "company": "DEPT",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-10-22"
   },
   {
     "id": "greenhouse_gomotive_8782064002",
