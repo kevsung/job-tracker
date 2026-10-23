@@ -1,5 +1,16 @@
 [
   {
+    "id": "greenhouse_gomotive_8899524002",
+    "title": "Senior Technical Program Manager",
+    "location": "United States - Remote",
+    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8899524002",
+    "posted_date": "2026-10-23",
+    "company": "Motive",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-23"
+  },
+  {
     "id": "greenhouse_Wizinc_4722333006",
     "title": "GTM Enablement Program Manager - AI Content Infrastructure",
     "location": "Remote - USA",
@@ -268,17 +279,6 @@
     "title": "Manager, Project Manager- Customer Identity",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Manager--Customer-Identity_R1003820-1",
-    "posted_date": "2026-10-16",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-16"
-  },
-  {
-    "id": "workday_capitalone_117072523313",
-    "title": "Director, Project Management - Enterprise Data",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Project-Management---Enterprise-Data_R1003859-1",
     "posted_date": "2026-10-16",
     "company": "Capital One",
     "tier": "Strong",
@@ -1131,17 +1131,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-12"
-  },
-  {
-    "id": "workday_capitalone_0543f1858bba",
-    "title": "Project Manager, Enterprise Data Risk Management",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Project-Manager--Enterprise-Data-Risk-Management_R249496",
-    "posted_date": "2026-09-23",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-18"
   },
   {
     "id": "workday_capitalone_ada6cc038c05",
