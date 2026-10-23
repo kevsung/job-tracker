@@ -1,5 +1,38 @@
 [
   {
+    "id": "greenhouse_toast_8261407",
+    "title": "Manager, Marketing Operations - Ad Tech Lead",
+    "location": "Remote",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8261407",
+    "posted_date": "2026-10-23",
+    "company": "Toast",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-23"
+  },
+  {
+    "id": "workday_capitalone_2d8c56d8f8e4",
+    "title": "Senior Manager, Product Management - Cloud Operations Resilience Engineering (CORE)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Product-Management---Cloud-Runtimes---Operations-Enterprise--CORE-_R1002117-1",
+    "posted_date": "2026-10-23",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-23"
+  },
+  {
+    "id": "workday_capitalone_a07843927ba7",
+    "title": "Director, Project Management- Global Payment Network",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Project-Management--Global-Payment-Network_R999420-2",
+    "posted_date": "2026-10-23",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-23"
+  },
+  {
     "id": "greenhouse_gomotive_8899524002",
     "title": "Senior Technical Program Manager",
     "location": "United States - Remote",
@@ -295,17 +328,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-10-15"
-  },
-  {
-    "id": "ashby_ashby_390e266b-4b6c-4490-ad74-05ff5e0bb36a",
-    "title": "Product Manager, Onboarding and Growth",
-    "location": "Remote - US",
-    "url": "https://jobs.ashbyhq.com/ashby/390e266b-4b6c-4490-ad74-05ff5e0bb36a",
-    "posted_date": "2026-10-16",
-    "company": "Ashby",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-10-16"
   },
   {
     "id": "greenhouse_stripe_8282859",
@@ -1082,17 +1104,6 @@
     "title": "Principal Associate, Project Manager – Market Planning",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate--Project-Manager---Market-Planning_R1001364-2",
-    "posted_date": "2026-09-23",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-21"
-  },
-  {
-    "id": "workday_capitalone_5993089324f2",
-    "title": "Senior Manager, Project Management - Learning & Development Strategic Operations and Facilitation Lead",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Project-Management---Learning---Development-Strategic-Operations-and-Facilitation-Lead_R1001015-1",
     "posted_date": "2026-09-23",
     "company": "Capital One",
     "tier": "Strong",
