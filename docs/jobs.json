@@ -1,5 +1,16 @@
 [
   {
+    "id": "workday_capitalone_f043c0828349",
+    "title": "Manager, Project Management - Global Payment Network PMO",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management---Global-Payment-Network-PMO_R1002580-2",
+    "posted_date": "2026-10-26",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-26"
+  },
+  {
     "id": "greenhouse_toast_8261407",
     "title": "Manager, Marketing Operations - Ad Tech Lead",
     "location": "Remote",
@@ -374,17 +385,6 @@
     "first_seen": "2026-10-15"
   },
   {
-    "id": "greenhouse_dept_8285366",
-    "title": "Director, Program Manager ",
-    "location": "United states",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/8285366",
-    "posted_date": "2026-10-15",
-    "company": "DEPT",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-10-15"
-  },
-  {
     "id": "greenhouse_airbnb_8286207",
     "title": "Staff Technical Program Manager, Infrastructure Security",
     "location": "United States",
@@ -562,7 +562,7 @@
   },
   {
     "id": "greenhouse_toast_8259263",
-    "title": "Principal Product Manager, Kitchen Operations & Innovation",
+    "title": "Principal Product Manager, Commercial Lead",
     "location": "Remote, US",
     "url": "https://careers.toasttab.com/jobs?gh_jid=8259263",
     "posted_date": "2026-10-09",
@@ -1001,17 +1001,6 @@
     "first_seen": "2026-09-25"
   },
   {
-    "id": "workday_capitalone_8c2f2702ad8a",
-    "title": "Principal Associate, Project Manager - Product Operations (Execution & Talent Enablement)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate--Project-Manager---Product-Operations--Execution---Talent-Enablement-_R1001746-1",
-    "posted_date": "2026-09-26",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-23"
-  },
-  {
     "id": "workday_capitalone_0bab72f75ae8",
     "title": "Principal Associate – Events Project Manager, Community Finance, Impact & Investment",
     "location": "McLean, VA",
@@ -1120,17 +1109,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-09-21"
-  },
-  {
-    "id": "workday_draftkings_1274b66a812e",
-    "title": "Senior Associate Delivery Manager",
-    "location": "Remote  , US",
-    "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Remote---US/Senior-Associate-Delivery-Manager_JR14679-2",
-    "posted_date": "2026-09-26",
-    "company": "DraftKings",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-08-15"
   },
   {
     "id": "greenhouse_stripe_8209633",
@@ -1296,17 +1274,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-09-25"
-  },
-  {
-    "id": "greenhouse_dept_8191991",
-    "title": "Project Manager - Creative - US Remote",
-    "location": "United States",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/8191991",
-    "posted_date": "2026-09-11",
-    "company": "DEPT",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-10-22"
   },
   {
     "id": "greenhouse_gomotive_8782064002",
@@ -1483,17 +1450,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-08-28"
-  },
-  {
-    "id": "rippling_rippling_ce9bf549-cd9d-4dcc-8121-98629fdeffd5",
-    "title": "Senior Manager, Support Operations",
-    "location": "Remote (United States)",
-    "url": "https://ats.rippling.com/rippling/jobs/ce9bf549-cd9d-4dcc-8121-98629fdeffd5",
-    "company": "Rippling",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-08-26",
-    "posted_date": "2026-08-26"
   },
   {
     "id": "greenhouse_known_8728825002",
