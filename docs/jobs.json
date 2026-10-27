@@ -1,5 +1,16 @@
 [
   {
+    "id": "workday_capitalone_96d2ab0618ca",
+    "title": "Manager, CRA Strategy & Program Management",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--CRA-Strategy---Program-Management_R1004592-1",
+    "posted_date": "2026-10-27",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-27"
+  },
+  {
     "id": "workday_capitalone_e60227a8d046",
     "title": "Senior Manager, Product Manager - Bank Marketing Adtech",
     "location": "McLean, VA",
@@ -215,17 +226,6 @@
     "url": "https://jobs.ashbyhq.com/ashby/40320f3a-9d7d-4d53-a30e-a1bf7d74793b",
     "posted_date": "2026-10-21",
     "company": "Ashby",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-10-21"
-  },
-  {
-    "id": "greenhouse_instacart_8304832",
-    "title": "Social Content Producer",
-    "location": "United States - Remote",
-    "url": "https://instacart.careers/job/?gh_jid=8304832",
-    "posted_date": "2026-10-21",
-    "company": "Instacart",
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-10-21"
@@ -759,17 +759,6 @@
     "first_seen": "2026-10-07"
   },
   {
-    "id": "greenhouse_dept_8261217",
-    "title": "Associate Director, Project Management",
-    "location": "NY, US, CA, US, IL, US - Remote",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/8261217",
-    "posted_date": "2026-10-07",
-    "company": "DEPT",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-10-07"
-  },
-  {
     "id": "greenhouse_ethoslife_8872832002",
     "title": "Senior Technical Program Manager",
     "location": "Remote US",
@@ -1113,7 +1102,7 @@
   {
     "id": "greenhouse_stripe_8209633",
     "title": "Program Manager, Deal Operations",
-    "location": "US-Remote, Dublin",
+    "location": "US-Remote",
     "url": "https://stripe.com/jobs/search?gh_jid=8209633",
     "posted_date": "2026-09-25",
     "company": "Stripe",
@@ -1362,17 +1351,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-19"
-  },
-  {
-    "id": "greenhouse_nebius_4966026101",
-    "title": "Technical Program Manager (Post-Sales)",
-    "location": "United States",
-    "url": "https://careers.nebius.com/?gh_jid=4966026101",
-    "posted_date": "2026-09-02",
-    "company": "Nebius",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-03"
   },
   {
     "id": "greenhouse_affirm_7832310003",
@@ -1639,6 +1617,17 @@
     "first_seen": "2026-10-19"
   },
   {
+    "id": "greenhouse_nebius_4828131101",
+    "title": "Senior Product Manager - Inference Platform ",
+    "location": "Remote - United States",
+    "url": "https://careers.nebius.com/?gh_jid=4828131101",
+    "posted_date": "2026-08-05",
+    "company": "Nebius",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-27"
+  },
+  {
     "id": "greenhouse_pinterest_7959458",
     "title": "Staff Product Manager, Programmatic Ads",
     "location": "San Francisco, CA, US; Remote, CA, US",
@@ -1648,17 +1637,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-08-06"
-  },
-  {
-    "id": "greenhouse_okta_8103816",
-    "title": "Senior Manager, xDR Strategy & Operations",
-    "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
-    "url": "https://www.okta.com/company/careers/opportunity/8103816?gh_jid=8103816",
-    "posted_date": "2026-08-05",
-    "company": "Okta",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-08-05"
   },
   {
     "id": "greenhouse_coinbase_8089161",
