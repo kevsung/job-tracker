@@ -913,17 +913,6 @@
     "first_seen": "2026-10-01"
   },
   {
-    "id": "greenhouse_dropbox_8234201",
-    "title": "Senior Program Manager,  Employee Experience",
-    "location": "Remote - US: Select locations",
-    "url": "https://jobs.dropbox.com/listing/8234201?gh_jid=8234201",
-    "posted_date": "2026-10-01",
-    "company": "Dropbox",
-    "tier": "Weak",
-    "remote": true,
-    "first_seen": "2026-10-22"
-  },
-  {
     "id": "workday_capitalone_823d505377f6",
     "title": "Senior Associate, Product Manager - Trade Credit",
     "location": "McLean, VA",
@@ -1648,27 +1637,5 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-08-04"
-  },
-  {
-    "id": "greenhouse_databricks_8638648002",
-    "title": "Sr. Event Marketing Manager, Field Programming",
-    "location": "United States",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8638648002",
-    "posted_date": "2026-07-29",
-    "company": "Databricks",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-07-29"
-  },
-  {
-    "id": "greenhouse_pinterest_7494650",
-    "title": "Staff Technical Program Manager, Security",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494650",
-    "posted_date": "2026-07-29",
-    "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-07-29"
   }
 ]
