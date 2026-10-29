@@ -1,5 +1,38 @@
 [
   {
+    "id": "ashby_cohere_247a481a-21cc-4829-94c7-8447b692c89e",
+    "title": "Head of Marketing Operations",
+    "location": "Remote - Toronto",
+    "url": "https://jobs.ashbyhq.com/cohere/247a481a-21cc-4829-94c7-8447b692c89e",
+    "posted_date": "2026-10-29",
+    "company": "Cohere",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-10-29"
+  },
+  {
+    "id": "workday_capitalone_bcea5070c20d",
+    "title": "Sr. Manager, Product Manager- AI Enablement- GPN",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager--Product-Manager--AI-Enablement--GPN_R1002871-2",
+    "posted_date": "2026-10-29",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-09"
+  },
+  {
+    "id": "workday_capitalone_a07843927ba7",
+    "title": "Director, Project Management- Global Payment Network",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Project-Management--Global-Payment-Network_R999420-2",
+    "posted_date": "2026-10-29",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-10-23"
+  },
+  {
     "id": "workday_capitalone_619f918f4800",
     "title": "Manager, Project Management (People Tech)",
     "location": "McLean, VA",
@@ -8,6 +41,17 @@
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
+    "first_seen": "2026-10-29"
+  },
+  {
+    "id": "greenhouse_pinterest_8268338",
+    "title": "Lead Creative Producer, Marketing",
+    "location": "Los Angeles, CA, US; Remote, CA, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268338",
+    "posted_date": "2026-10-29",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
     "first_seen": "2026-10-29"
   },
   {
@@ -92,17 +136,6 @@
     "title": "Senior Manager, Product Management - Cloud Operations Resilience Engineering (CORE)",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Product-Management---Cloud-Runtimes---Operations-Enterprise--CORE-_R1002117-1",
-    "posted_date": "2026-10-23",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-23"
-  },
-  {
-    "id": "workday_capitalone_a07843927ba7",
-    "title": "Director, Project Management- Global Payment Network",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Project-Management--Global-Payment-Network_R999420-2",
     "posted_date": "2026-10-23",
     "company": "Capital One",
     "tier": "Strong",
@@ -660,17 +693,6 @@
     "first_seen": "2026-10-09"
   },
   {
-    "id": "workday_capitalone_bcea5070c20d",
-    "title": "Sr. Manager, Product Manager- AI Enablement- GPN",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager--Product-Manager--AI-Enablement--GPN_R1002871-2",
-    "posted_date": "2026-10-09",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-09"
-  },
-  {
     "id": "greenhouse_instacart_8266401",
     "title": "Senior Product Manager, Retailer App Platform & Insights",
     "location": "United States - Remote",
@@ -741,17 +763,6 @@
     "title": "Staff Product Manager, Moderation",
     "location": "Remote - United States",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8088710",
-    "posted_date": "2026-10-07",
-    "company": "Reddit",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-10-07"
-  },
-  {
-    "id": "greenhouse_reddit_7995207",
-    "title": "Staff Technical Program Manager, Infrastructure ",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7995207",
     "posted_date": "2026-10-07",
     "company": "Reddit",
     "tier": "Strong",
@@ -910,17 +921,6 @@
     "company": "Affirm",
     "tier": "Strong",
     "remote": true,
-    "first_seen": "2026-10-01"
-  },
-  {
-    "id": "workday_capitalone_5b62161799a4",
-    "title": "Manager, Project Management (Intelligent Foundations & Experiences)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Project-Management--Intelligent-Foundations---Experiences-_R1001296-2",
-    "posted_date": "2026-10-01",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
     "first_seen": "2026-10-01"
   },
   {
@@ -1142,6 +1142,17 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-09-23"
+  },
+  {
+    "id": "greenhouse_pinterest_8209014",
+    "title": "Staff Technical Program Manager, Data Engineering",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209014",
+    "posted_date": "2026-09-23",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-10-29"
   },
   {
     "id": "greenhouse_pinterest_8209324",
