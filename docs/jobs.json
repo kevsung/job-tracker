@@ -1,5 +1,38 @@
 [
   {
+    "id": "workday_capitalone_9e6b9fe9b735",
+    "title": "Full-stack Engineer 5 (Senior Manager, IC) Cloud Operations Resilience Engineering)",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Senior-Manager--IC--Cloud-Operations-Resilience-Engineering-_R1005052",
+    "posted_date": "2026-11-03",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-11-03"
+  },
+  {
+    "id": "workday_capitalone_e3b72d8530ab",
+    "title": "Senior Associate, Project Manager - Commercial Digital Banking Well Managed Team",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Project-Manager---Commercial-Digital-Banking-Well-Managed-Team_R1005017-1",
+    "posted_date": "2026-11-03",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-11-03"
+  },
+  {
+    "id": "greenhouse_oura_4476109009",
+    "title": "Senior Program Manager, Commercial Systems (Fixed Term)",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/oura/jobs/4476109009",
+    "posted_date": "2026-11-03",
+    "company": "Oura",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-11-03"
+  },
+  {
     "id": "workday_capitalone_b475afb7ae22",
     "title": "Sr Manager, Product Management - Staff Operations",
     "location": "McLean, VA",
@@ -1012,17 +1045,6 @@
     "first_seen": "2026-08-13"
   },
   {
-    "id": "workday_capitalone_a9f240194c8d",
-    "title": "Senior Associate, Project Manager Campaign Delivery | Retail Bank",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Project-Manager-Campaign-Delivery---Retail-Bank_R248294-1",
-    "posted_date": "2026-10-04",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-12"
-  },
-  {
     "id": "ashby_cohere_582c4a60-14a2-49d5-b4d3-24c4ec50508d",
     "title": "Staff Technical Program Manager, Machine Learning",
     "location": "Remote - London",
@@ -1065,6 +1087,17 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-10-01"
+  },
+  {
+    "id": "greenhouse_coinbase_8232211",
+    "title": "Senior Strategic Program Manager",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/8232211?gh_jid=8232211",
+    "posted_date": "2026-09-28",
+    "company": "Coinbase",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-11-03"
   },
   {
     "id": "greenhouse_stripe_8209633",
