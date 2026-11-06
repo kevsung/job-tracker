@@ -11,6 +11,61 @@
     "first_seen": "2026-11-06"
   },
   {
+    "id": "greenhouse_samsara_8359984",
+    "title": "Staff Product Operations Manager, Platform",
+    "location": "Remote - US",
+    "url": "https://www.samsara.com/company/careers/roles/8359984?gh_jid=8359984",
+    "posted_date": "2026-11-06",
+    "company": "Samsara",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-11-06"
+  },
+  {
+    "id": "workday_capitalone_9230a7bb7d2f",
+    "title": "Director, Project Management - Debit Products",
+    "location": "McLean, VA",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Project-Management---Debit-Products_R1002100-2",
+    "posted_date": "2026-11-06",
+    "company": "Capital One",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-11-06"
+  },
+  {
+    "id": "greenhouse_oura_4484450009",
+    "title": "Senior Logistics Manager, Americas Retail Operations",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/oura/jobs/4484450009",
+    "posted_date": "2026-11-06",
+    "company": "Oura",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-11-06"
+  },
+  {
+    "id": "smartrecruiters_experian_744000160276860",
+    "title": "Expert Product Manager, Clearinghouse Platform",
+    "location": "United States, UNITED STATES, us",
+    "url": "https://jobs.smartrecruiters.com/experian/744000160276860",
+    "posted_date": "2026-11-06",
+    "company": "Experian",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-11-06"
+  },
+  {
+    "id": "greenhouse_dept_8359948",
+    "title": "Manager, Programmatic Retail",
+    "location": "US - Remote",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8359948",
+    "posted_date": "2026-11-06",
+    "company": "DEPT",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-11-06"
+  },
+  {
     "id": "greenhouse_samsara_8353408",
     "title": "Sr. Manager, Recruiting Operations",
     "location": "Remote - US",
@@ -350,17 +405,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-10-29"
-  },
-  {
-    "id": "ashby_dandy_ff070e42-782a-4438-b7e5-57122a4427aa",
-    "title": "Senior Manager, Payment Operations",
-    "location": "USA - Remote",
-    "url": "https://jobs.ashbyhq.com/dandy/ff070e42-782a-4438-b7e5-57122a4427aa",
-    "posted_date": "2026-10-28",
-    "company": "Dandy",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-10-28"
   },
   {
     "id": "workday_capitalone_96d2ab0618ca",
@@ -705,7 +749,7 @@
   },
   {
     "id": "greenhouse_instacart_8281405",
-    "title": "Senior Product Manager, Ad Formats",
+    "title": "Product Manager, Ad Formats",
     "location": "United States - Remote",
     "url": "https://instacart.careers/job/?gh_jid=8281405",
     "posted_date": "2026-10-14",
@@ -814,17 +858,6 @@
     "first_seen": "2026-10-13"
   },
   {
-    "id": "greenhouse_samsara_8256425",
-    "title": "Staff Product Operations Manager, Platform",
-    "location": "Remote - US",
-    "url": "https://www.samsara.com/company/careers/roles/8256425?gh_jid=8256425",
-    "posted_date": "2026-10-09",
-    "company": "Samsara",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-10-09"
-  },
-  {
     "id": "greenhouse_stripe_8250483",
     "title": "Marketing Operations Manager, AMER Events",
     "location": "US Remote; Canada",
@@ -900,6 +933,17 @@
     "tier": "Moderate",
     "remote": false,
     "first_seen": "2026-10-09"
+  },
+  {
+    "id": "greenhouse_stripe_8224617",
+    "title": "Program Manager, Commercial Solutions",
+    "location": "Remote/Hybrid",
+    "url": "https://stripe.com/jobs/search?gh_jid=8224617",
+    "posted_date": "2026-10-08",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-11-06"
   },
   {
     "id": "greenhouse_gomotive_8859354002",
@@ -1021,17 +1065,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-09-09"
-  },
-  {
-    "id": "workday_capitalone_756205f4c920",
-    "title": "Senior Associate, Project Manager | Retail Bank Operations & Market Experience (Hybrid)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Project-Manager---Retail-Bank-Operations---Market-Experience--Hybrid-_R249823-1",
-    "posted_date": "2026-10-07",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-26"
   },
   {
     "id": "greenhouse_pinterest_8239171",
@@ -1230,17 +1263,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-09-23"
-  },
-  {
-    "id": "greenhouse_Wizinc_4705217006",
-    "title": "Senior Technical Enablement Program Manager",
-    "location": "Remote - USA",
-    "url": "https://www.wiz.io/careers/job/4705217006/:title?gh_jid=4705217006",
-    "posted_date": "2026-09-21",
-    "company": "Wiz",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-09-22"
   },
   {
     "id": "greenhouse_stripe_8209996",
