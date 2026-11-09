@@ -143,17 +143,6 @@
     "first_seen": "2026-11-05"
   },
   {
-    "id": "greenhouse_nebius_5010391101",
-    "title": "Senior Technical Program Manager, Corporate Builds",
-    "location": "United States",
-    "url": "https://careers.nebius.com/?gh_jid=5010391101",
-    "posted_date": "2026-11-04",
-    "company": "Nebius",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-11-04"
-  },
-  {
     "id": "workday_capitalone_ab0eed9e6876",
     "title": "Principal Associate - Product Manager - Machine Learning Program",
     "location": "McLean, VA",
@@ -261,17 +250,6 @@
     "company": "Capital One",
     "tier": "Strong",
     "remote": false,
-    "first_seen": "2026-11-03"
-  },
-  {
-    "id": "greenhouse_oura_4476109009",
-    "title": "Senior Program Manager, Commercial Systems (Fixed Term)",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/oura/jobs/4476109009",
-    "posted_date": "2026-11-03",
-    "company": "Oura",
-    "tier": "Moderate",
-    "remote": true,
     "first_seen": "2026-11-03"
   },
   {
@@ -686,17 +664,6 @@
     "title": "Sr. Manager - S&G Analyst Development Program Lead",
     "location": "McLean, VA",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager---S-G-Analyst-Development-Program-Lead_R1003822-1",
-    "posted_date": "2026-10-15",
-    "company": "Capital One",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-10-15"
-  },
-  {
-    "id": "workday_capitalone_cbe7abfd53a5",
-    "title": "Principal Project Manager,  Design Manager (Airport Lounge)",
-    "location": "McLean, VA",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Project-Manager---Design-Manager--Airport-Lounge-_R1003841-1",
     "posted_date": "2026-10-15",
     "company": "Capital One",
     "tier": "Strong",
@@ -1362,17 +1329,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-09-09"
-  },
-  {
-    "id": "greenhouse_stripe_8140438",
-    "title": "Staff Product Manager, Mobile",
-    "location": "New York City, Toronto, Chicago, or Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=8140438",
-    "posted_date": "2026-09-09",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-10-02"
   },
   {
     "id": "greenhouse_coinbase_8186586",
