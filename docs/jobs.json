@@ -1,5 +1,16 @@
 [
   {
+    "id": "rippling_rippling_b80f749a-53a7-4893-ad7d-7964929e6fd0",
+    "title": "Senior Program Manager, Knowledge",
+    "location": "Remote (United States)",
+    "url": "https://ats.rippling.com/rippling/jobs/b80f749a-53a7-4893-ad7d-7964929e6fd0",
+    "company": "Rippling",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-11-14",
+    "posted_date": "2026-11-14"
+  },
+  {
     "id": "ashby_1password_63059a05-03d1-4a4f-908c-8daa721cce90",
     "title": "Senior Implementation Project Manager",
     "location": "Remote (United States | Canada)",
@@ -196,17 +207,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-11-13"
-  },
-  {
-    "id": "smartrecruiters_experian_744000160747449",
-    "title": "Senior Project Manager, Healthcare Revenue Cycle",
-    "location": "United States, UNITED STATES, us",
-    "url": "https://jobs.smartrecruiters.com/experian/744000160747449",
-    "posted_date": "2026-11-10",
-    "company": "Experian",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-11-10"
   },
   {
     "id": "greenhouse_instacart_8373034",
