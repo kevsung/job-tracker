@@ -1,5 +1,38 @@
 [
   {
+    "id": "greenhouse_stripe_8393939",
+    "title": "Product Manager, Finance Operations",
+    "location": "US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8393939",
+    "posted_date": "2026-11-16",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-11-16"
+  },
+  {
+    "id": "greenhouse_stackadapt_4506885009",
+    "title": "Staff Technical Product Manager, Performance Advertising",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4506885009",
+    "posted_date": "2026-11-16",
+    "company": "StackAdapt",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-11-16"
+  },
+  {
+    "id": "greenhouse_airbnb_8393253",
+    "title": "Program Manager, North America Policy",
+    "location": "United States ",
+    "url": "https://careers.airbnb.com/positions/8393253?gh_jid=8393253",
+    "posted_date": "2026-11-16",
+    "company": "Airbnb",
+    "tier": "Moderate",
+    "remote": false,
+    "first_seen": "2026-11-16"
+  },
+  {
     "id": "rippling_rippling_b80f749a-53a7-4893-ad7d-7964929e6fd0",
     "title": "Senior Program Manager, Knowledge",
     "location": "Remote (United States)",
