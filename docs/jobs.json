@@ -11,6 +11,17 @@
     "first_seen": "2026-11-19"
   },
   {
+    "id": "ashby_replicant_2eb03584-5172-4972-8223-d804f820a4d9",
+    "title": "Staff Product Manager",
+    "location": "United States",
+    "url": "https://jobs.ashbyhq.com/Replicant/2eb03584-5172-4972-8223-d804f820a4d9",
+    "posted_date": "2026-11-18",
+    "company": "Replicant",
+    "tier": "Weak",
+    "remote": false,
+    "first_seen": "2026-11-19"
+  },
+  {
     "id": "greenhouse_samsara_8383258",
     "title": "Sr. Program Manager, GTM Programs",
     "location": "Remote - CA; Remote - Chicago; Remote - Seattle; Remote - TX",
@@ -834,17 +845,6 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-10-01"
-  },
-  {
-    "id": "greenhouse_dropbox_8234201",
-    "title": "Senior Program Manager,  Employee Experience",
-    "location": "Remote - US: Select locations",
-    "url": "https://jobs.dropbox.com/listing/8234201?gh_jid=8234201",
-    "posted_date": "2026-10-01",
-    "company": "Dropbox",
-    "tier": "Weak",
-    "remote": true,
-    "first_seen": "2026-11-04"
   },
   {
     "id": "greenhouse_coinbase_8232211",
