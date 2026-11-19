@@ -1,5 +1,16 @@
 [
   {
+    "id": "ashby_1password_a835fee8-dc26-44de-87bd-39e081291857",
+    "title": "Senior Manager, AI Transformation (HR & Operations)",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/a835fee8-dc26-44de-87bd-39e081291857",
+    "posted_date": "2026-11-18",
+    "company": "1Password",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-11-19"
+  },
+  {
     "id": "greenhouse_samsara_8383258",
     "title": "Sr. Program Manager, GTM Programs",
     "location": "Remote - CA; Remote - Chicago; Remote - Seattle; Remote - TX",
@@ -7,17 +18,6 @@
     "posted_date": "2026-11-17",
     "company": "Samsara",
     "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-11-18"
-  },
-  {
-    "id": "greenhouse_pinterest_8347997",
-    "title": "Sr. Design Program Manager",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8347997",
-    "posted_date": "2026-11-17",
-    "company": "Pinterest",
-    "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-11-18"
   },
@@ -726,17 +726,6 @@
     "first_seen": "2026-10-09"
   },
   {
-    "id": "greenhouse_airbnb_8262207",
-    "title": "Product Manager, API Platform",
-    "location": "United States",
-    "url": "https://careers.airbnb.com/positions/8262207?gh_jid=8262207",
-    "posted_date": "2026-10-09",
-    "company": "Airbnb",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-10-09"
-  },
-  {
     "id": "greenhouse_stripe_8224617",
     "title": "Program Manager, Commercial Solutions",
     "location": "Remote/Hybrid",
@@ -768,28 +757,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-10-20"
-  },
-  {
-    "id": "greenhouse_reddit_7996994",
-    "title": "Staff Product Manager, Community Builders",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7996994",
-    "posted_date": "2026-10-07",
-    "company": "Reddit",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-10-07"
-  },
-  {
-    "id": "greenhouse_reddit_8088710",
-    "title": "Staff Product Manager, Moderation",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8088710",
-    "posted_date": "2026-10-07",
-    "company": "Reddit",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-10-07"
   },
   {
     "id": "greenhouse_ethoslife_8872832002",
@@ -904,7 +871,7 @@
   {
     "id": "greenhouse_databricks_8831555002",
     "title": "Staff Product Manager, US Public Sector",
-    "location": "Remote - California; Remote - Virginia; Remote - Washington D.C.",
+    "location": "Remote - Virginia; Remote - Washington D.C.",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8831555002",
     "posted_date": "2026-09-23",
     "company": "Databricks",
