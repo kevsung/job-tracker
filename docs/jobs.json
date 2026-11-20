@@ -1,5 +1,16 @@
 [
   {
+    "id": "greenhouse_nebius_5032834101",
+    "title": "Project Manager Logistics & Warehousing",
+    "location": "United States",
+    "url": "https://careers.nebius.com/?gh_jid=5032834101",
+    "posted_date": "2026-11-19",
+    "company": "Nebius",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-11-20"
+  },
+  {
     "id": "ashby_1password_a835fee8-dc26-44de-87bd-39e081291857",
     "title": "Senior Manager, AI Transformation (HR & Operations)",
     "location": "Remote (United States | Canada)",
@@ -495,17 +506,6 @@
     "first_seen": "2026-10-21"
   },
   {
-    "id": "ashby_1password_86c4d000-e4f2-439f-be85-5018767e5cc1",
-    "title": "Staff Program Manager, CX Operations & Programs",
-    "location": "Remote (United States | Canada)",
-    "url": "https://jobs.ashbyhq.com/1password/86c4d000-e4f2-439f-be85-5018767e5cc1",
-    "posted_date": "2026-10-21",
-    "company": "1Password",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-10-21"
-  },
-  {
     "id": "ashby_ashby_40320f3a-9d7d-4d53-a30e-a1bf7d74793b",
     "title": "Staff Product Manager",
     "location": "Remote - US",
@@ -515,17 +515,6 @@
     "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-11-04"
-  },
-  {
-    "id": "greenhouse_instacart_8304832",
-    "title": "Social Content Producer",
-    "location": "United States - Remote",
-    "url": "https://instacart.careers/job/?gh_jid=8304832",
-    "posted_date": "2026-10-21",
-    "company": "Instacart",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-11-10"
   },
   {
     "id": "greenhouse_affirm_8012093003",
@@ -768,6 +757,17 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-10-20"
+  },
+  {
+    "id": "greenhouse_stripe_8234705",
+    "title": "Staff Product Manager, Ecosystem ",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8234705",
+    "posted_date": "2026-10-06",
+    "company": "Stripe",
+    "tier": "Strong",
+    "remote": false,
+    "first_seen": "2026-11-20"
   },
   {
     "id": "greenhouse_ethoslife_8872832002",
@@ -1120,16 +1120,5 @@
     "tier": "Moderate",
     "remote": false,
     "first_seen": "2026-08-25"
-  },
-  {
-    "id": "greenhouse_stripe_7983725",
-    "title": "Staff Product Manager, Billing ",
-    "location": "SF, NY, SEA, Remote-US",
-    "url": "https://stripe.com/jobs/search?gh_jid=7983725",
-    "posted_date": "2026-08-21",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-08-21"
   }
 ]
