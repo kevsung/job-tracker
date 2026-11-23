@@ -1109,27 +1109,5 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-08-25"
-  },
-  {
-    "id": "ashby_1password_0b37fa60-5cbc-4b9a-84c9-4afe50634db7",
-    "title": "Staff Product Manager, SaaS Manager",
-    "location": "Remote (United States | Canada)",
-    "url": "https://jobs.ashbyhq.com/1password/0b37fa60-5cbc-4b9a-84c9-4afe50634db7",
-    "posted_date": "2026-08-24",
-    "company": "1Password",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-08-25"
-  },
-  {
-    "id": "greenhouse_okta_8155421",
-    "title": "Program Manager, ISV Ecosystem",
-    "location": "Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC",
-    "url": "https://www.okta.com/company/careers/opportunity/8155421?gh_jid=8155421",
-    "posted_date": "2026-08-24",
-    "company": "Okta",
-    "tier": "Moderate",
-    "remote": false,
-    "first_seen": "2026-08-25"
   }
 ]
