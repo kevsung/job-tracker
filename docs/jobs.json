@@ -22,10 +22,10 @@
     "first_seen": "2026-11-21"
   },
   {
-    "id": "greenhouse_reddit_8407162",
+    "id": "greenhouse_reddit_8400056",
     "title": "Staff Product Manager, Agentic Ads Buying",
     "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
     "posted_date": "2026-11-20",
     "company": "Reddit",
     "tier": "Strong",
@@ -33,10 +33,10 @@
     "first_seen": "2026-11-21"
   },
   {
-    "id": "greenhouse_reddit_8400056",
+    "id": "greenhouse_reddit_8407162",
     "title": "Staff Product Manager, Agentic Ads Buying",
     "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
     "posted_date": "2026-11-20",
     "company": "Reddit",
     "tier": "Strong",
@@ -315,17 +315,6 @@
     "posted_date": "2026-11-06",
     "company": "Samsara",
     "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-11-06"
-  },
-  {
-    "id": "greenhouse_oura_4484450009",
-    "title": "Senior Logistics Manager, Americas Retail Operations",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/oura/jobs/4484450009",
-    "posted_date": "2026-11-06",
-    "company": "Oura",
-    "tier": "Moderate",
     "remote": true,
     "first_seen": "2026-11-06"
   },
@@ -957,17 +946,6 @@
     "first_seen": "2026-11-11"
   },
   {
-    "id": "greenhouse_toast_8201051",
-    "title": "Senior Privacy Program Manager",
-    "location": "Remote - USA",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=8201051",
-    "posted_date": "2026-09-16",
-    "company": "Toast",
-    "tier": "Strong",
-    "remote": true,
-    "first_seen": "2026-09-16"
-  },
-  {
     "id": "greenhouse_nebius_4817210101",
     "title": "Senior Technical Program Manager ",
     "location": "Remote - United States",
@@ -1054,17 +1032,6 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-10-16"
-  },
-  {
-    "id": "greenhouse_stripe_8155390",
-    "title": "Design Program Manager, Research Operations",
-    "location": "US",
-    "url": "https://stripe.com/jobs/search?gh_jid=8155390",
-    "posted_date": "2026-09-01",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-09-01"
   },
   {
     "id": "greenhouse_databricks_8586857002",
