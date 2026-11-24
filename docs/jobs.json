@@ -1,5 +1,27 @@
 [
   {
+    "id": "greenhouse_samsara_8393540",
+    "title": "Supply Chain Program Manager",
+    "location": "Remote - US; USA",
+    "url": "https://www.samsara.com/company/careers/roles/8393540?gh_jid=8393540",
+    "posted_date": "2026-11-23",
+    "company": "Samsara",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-11-24"
+  },
+  {
+    "id": "greenhouse_pinterest_8368950",
+    "title": "Senior Technical Program Manager, Infrastructure",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8368950",
+    "posted_date": "2026-11-23",
+    "company": "Pinterest",
+    "tier": "Moderate",
+    "remote": true,
+    "first_seen": "2026-11-24"
+  },
+  {
     "id": "greenhouse_Wizinc_4730882006",
     "title": "Product Enablement Program Manager",
     "location": "Remote - USA",
@@ -22,10 +44,10 @@
     "first_seen": "2026-11-21"
   },
   {
-    "id": "greenhouse_reddit_8400056",
+    "id": "greenhouse_reddit_8407162",
     "title": "Staff Product Manager, Agentic Ads Buying",
     "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
     "posted_date": "2026-11-20",
     "company": "Reddit",
     "tier": "Strong",
@@ -33,10 +55,10 @@
     "first_seen": "2026-11-21"
   },
   {
-    "id": "greenhouse_reddit_8407162",
+    "id": "greenhouse_reddit_8400056",
     "title": "Staff Product Manager, Agentic Ads Buying",
     "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
     "posted_date": "2026-11-20",
     "company": "Reddit",
     "tier": "Strong",
@@ -53,6 +75,17 @@
     "tier": "Strong",
     "remote": false,
     "first_seen": "2026-11-20"
+  },
+  {
+    "id": "ashby_1password_63059a05-03d1-4a4f-908c-8daa721cce90",
+    "title": "Senior Implementation Project Manager",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/63059a05-03d1-4a4f-908c-8daa721cce90",
+    "posted_date": "2026-11-18",
+    "company": "1Password",
+    "tier": "Strong",
+    "remote": true,
+    "first_seen": "2026-11-24"
   },
   {
     "id": "ashby_1password_a835fee8-dc26-44de-87bd-39e081291857",
@@ -96,17 +129,6 @@
     "company": "Stripe",
     "tier": "Strong",
     "remote": true,
-    "first_seen": "2026-11-16"
-  },
-  {
-    "id": "greenhouse_stackadapt_4506885009",
-    "title": "Staff Technical Product Manager, Performance Advertising",
-    "location": "United States",
-    "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4506885009",
-    "posted_date": "2026-11-16",
-    "company": "StackAdapt",
-    "tier": "Strong",
-    "remote": false,
     "first_seen": "2026-11-16"
   },
   {
@@ -627,17 +649,6 @@
     "first_seen": "2026-10-14"
   },
   {
-    "id": "greenhouse_pinterest_8145923",
-    "title": "Sr. Staff Product Manager, Adversarial Actors",
-    "location": "San Francisco, CA, US; Seattle, WA, US; Remote, CA, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8145923",
-    "posted_date": "2026-10-14",
-    "company": "Pinterest",
-    "tier": "Moderate",
-    "remote": true,
-    "first_seen": "2026-10-14"
-  },
-  {
     "id": "greenhouse_instacart_8281405",
     "title": "Product Manager, Ad Formats",
     "location": "United States - Remote",
@@ -1054,27 +1065,5 @@
     "tier": "Strong",
     "remote": true,
     "first_seen": "2026-08-28"
-  },
-  {
-    "id": "greenhouse_stripe_8158082",
-    "title": "Program Manager, Risk Operations ",
-    "location": "United States",
-    "url": "https://stripe.com/jobs/search?gh_jid=8158082",
-    "posted_date": "2026-08-25",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-26"
-  },
-  {
-    "id": "greenhouse_stripe_8127894",
-    "title": "Staff Program Manager, Event Design",
-    "location": "US",
-    "url": "https://stripe.com/jobs/search?gh_jid=8127894",
-    "posted_date": "2026-08-25",
-    "company": "Stripe",
-    "tier": "Strong",
-    "remote": false,
-    "first_seen": "2026-08-25"
   }
 ]
